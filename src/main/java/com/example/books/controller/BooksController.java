@@ -30,6 +30,6 @@ public class BooksController {
 
     @GetMapping("/categories")
     public ResponseEntity<List<String>> getAllCategories() {
-        return ResponseEntity.ok(Categories.categories.keySet().stream().toList());
+        return ResponseEntity.ok(bookService.getAllCategories());
     }
 }

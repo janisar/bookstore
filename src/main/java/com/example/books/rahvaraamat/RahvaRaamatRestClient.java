@@ -3,6 +3,7 @@ package com.example.books.rahvaraamat;
 import com.example.books.model.Book;
 import com.example.books.model.BookStore;
 import com.example.books.rahvaraamat.model.RahvaRamatBook;
+import com.example.books.rahvaraamat.store.Categories;
 import com.example.books.service.BookStoreRestClient;
 import com.fasterxml.jackson.databind.DeserializationFeature;
 import com.fasterxml.jackson.databind.ObjectMapper;
@@ -39,6 +40,16 @@ public class RahvaRaamatRestClient implements BookStoreRestClient {
                 .configure(DeserializationFeature.FAIL_ON_INVALID_SUBTYPE, false)
                 .readValue(responseString.body(), Book[].class);
         return Arrays.stream(result).toList();
+    }
+
+    @Override
+    public boolean categoryExists(String category) {
+        return Categories.categories.containsKey(category);
+    }
+
+    @Override
+    public List<String> getAllCategories() {
+        return Categories.categories.values().stream().toList();
     }
 
     private Book mapToBook(RahvaRamatBook rahvaRamatBook) {

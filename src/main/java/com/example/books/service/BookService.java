@@ -4,6 +4,7 @@ import com.example.books.apollo.ApolloBookStoreRestClient;
 import com.example.books.apollo.model.Author;
 import com.example.books.model.Book;
 import com.example.books.rahvaraamat.RahvaRaamatRestClient;
+import com.example.books.rahvaraamat.store.Categories;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -38,6 +39,10 @@ public class BookService {
     }
 
     private void getBooksFromBookStores(String category, List<Book> books) {
+        if (bookStoreRestClients.stream().noneMatch(client -> client.categoryExists(category))){
+            throw new IllegalArgumentException("Category does not exist");
+        }
+
         bookStoreRestClients.forEach(restClient -> {
             try {
                 List<Book> booksFromStore = restClient.getBooksByCategory(category);
@@ -69,5 +74,12 @@ public class BookService {
             return authorCache.get(new Author(author));
         }
         return bookCache.values().stream().flatMap(List::stream).toList();
+    }
+
+    public List<String> getAllCategories() {
+        var result = new ArrayList<String>();
+        bookStoreRestClients.forEach(restClient -> result.addAll(restClient.getAllCategories()));
+        result.sort(String::compareTo);
+        return result;
     }
 }

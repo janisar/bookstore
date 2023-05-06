@@ -16,9 +16,4 @@ class ApolloBookStoreRestClientTest {
     void shouldGetBooks() throws IOException, InterruptedException {
         apolloBookStoreRestClient.getBooksByCategory(ApolloBookStoreRestClient.PHOTOGRAPHY);
     }
-
-    @Test
-    void shouldGetCategories() throws IOException, InterruptedException {
-        apolloBookStoreRestClient.getCategories();
-    }
 }

@@ -1,0 +1,82 @@
+{
+  "_source": {
+    "includes": [
+      "children_count",
+      "is_active",
+      "level",
+      "parent_id",
+      "path",
+      "position",
+      "product_count",
+      "sku",
+      "url_key",
+      "id",
+      "name",
+      "url_path",
+      "level",
+      "product_count",
+      "include_in_menu",
+      "hide_category_content",
+      "position",
+      "image",
+      "small_image",
+      "*.id",
+      "*.name",
+      "*.url_path",
+      "*.level",
+      "*.product_count",
+      "*.include_in_menu",
+      "*.hide_category_content",
+      "*.position",
+      "*.children_data.id",
+      "*.children_data.name",
+      "*.children_data.url_path",
+      "*.children_data.level",
+      "*.children_data.product_count",
+      "*.children_data.include_in_menu",
+      "*.children_data.hide_category_content",
+      "*.children_data.position",
+      "*.children_data.parent_id",
+      "book_of_day",
+      "meta_title",
+      "meta_description",
+      "meta_keywords"
+    ],
+    "excludes": [
+      "sgn"
+    ]
+  },
+  "size": 4000,
+  "from": 0,
+  "sort": [
+    {
+      "position": {
+        "order": "asc"
+      }
+    }
+  ],
+  "query": {
+    "bool": {
+      "filter": {
+        "bool": {
+          "must": [
+            {
+              "terms": {
+                "id": [
+                  5
+                ]
+              }
+            },
+            {
+              "terms": {
+                "is_active": [
+                  true
+                ]
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+}

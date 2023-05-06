@@ -7,4 +7,8 @@ import java.util.List;
 public interface BookStoreRestClient {
 
     List<Book> getBooksByCategory(String category) throws IOException, InterruptedException;
+
+    boolean categoryExists(String category);
+
+    List<String> getAllCategories();
 }
