@@ -1,0 +1,2027 @@
+[
+  {
+    "id": 681340,
+    "name": "DON MCCULLIN",
+    "authors": [
+      {
+        "id": 1078296,
+        "name": "Don Mccullin",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/89/ed/89ed4d65cabb87e59127b1cab5742519_main_3.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 76,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 209
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2015,
+    "isbn": "9781910702017",
+    "ean": "9781910702017",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 747072,
+      "name": "Vintage Publishing",
+      "thumbnail_image_url": null,
+      "slug": "vintage-publishing"
+    },
+    "price": {
+      "price": 85.02,
+      "discount": 0,
+      "originalPrice": 85.02,
+      "retailUserPrice": 85.02
+    },
+    "stock_count": 7,
+    "slug": "don-mccullin",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "The updated retrospective published for McCullin's 80th birthday. Contains 40 new unpublished photographs and a new introduction - the definitive edition.   McCullin's reputation has long been established as one of the greatest photographers of conflict in the last century.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 682070,
+    "name": "STEPHEN SHORE: SURVIVORS IN UKRAINE",
+    "authors": [
+      {
+        "id": 161870,
+        "name": "Stephen Shore",
+        "nav_person_code": null
+      },
+      {
+        "id": 178240,
+        "name": "Jane Kramer",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/e8/1f/e81f52cb334786b32c8b1101ee218bbd_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 59,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 271
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2015,
+    "isbn": "9780714869506",
+    "ean": "9780714869506",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 747026,
+      "name": "Phaidon Press Ltd",
+      "thumbnail_image_url": null,
+      "slug": "phaidon-press-ltd"
+    },
+    "price": {
+      "price": 76.52,
+      "discount": 0,
+      "originalPrice": 76.52,
+      "retailUserPrice": 76.52
+    },
+    "stock_count": 1,
+    "slug": "stephen-shore-survivors-in-ukraine",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "A powerful and haunting visual record, Stephen Shore's portraits highlight the resilience and hope of Ukraine's Holocaust survivors.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 696058,
+    "name": "ISHIUCHI MIYAKO - POSTWAR SHADOWS",
+    "authors": [
+      {
+        "id": 400348,
+        "name": "Amanda Maddox",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2015,
+    "isbn": "9781606064559",
+    "ean": "9781606064559",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 729438,
+      "name": "Getty Trust Publications",
+      "thumbnail_image_url": null,
+      "slug": "getty-trust-publications"
+    },
+    "price": {
+      "price": 68.02,
+      "discount": 0,
+      "originalPrice": 68.02,
+      "retailUserPrice": 68.02
+    },
+    "stock_count": 1,
+    "slug": "ishiuchi-miyako-postwar-shadows",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "A maverick in the history of photography, lshiuchi Miyako burst onto the photography scene in Tokyo in the mid-1970s, at a time when men dominated the field in Japan. Working prodigiously over the last forty years, she has created an impressive oeuvre and quietly influenced generations of photographers born in the postwar era.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 685918,
+    "name": "CREATING THE ILLUSION (TURNER CLASSIC MOVIES)",
+    "authors": [
+      {
+        "id": 1010939,
+        "name": "Ali Macgraw",
+        "nav_person_code": null
+      },
+      {
+        "id": 1107662,
+        "name": "Donald Scoggins",
+        "nav_person_code": null
+      },
+      {
+        "id": 1446448,
+        "name": "Jay Jorgensen",
+        "nav_person_code": "A011505"
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/aa/6a/aa6a3dad0e999c3b77e1f6a96522c773_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 70,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 229
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2015,
+    "isbn": "9780762456611",
+    "ean": "9780762456611",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 746231,
+      "name": "Running Press,U.S.",
+      "thumbnail_image_url": null,
+      "slug": "running-press-u-s"
+    },
+    "price": {
+      "price": 85.02,
+      "discount": 0,
+      "originalPrice": 85.02,
+      "retailUserPrice": 85.02
+    },
+    "stock_count": 3,
+    "slug": "creating-the-illusion-turner-classic-movies",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "One of two books launching an exciting new publishing partnership with Turner Classic Movies, Hollywood Costume Design is a complete directory of fashion on film from the silent era to modern-day blockbusters, featuring hundreds of never-before-seen images and previously unpublished stories from the greatest films in cinematic history.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 792229,
+    "name": "LANDSCAPE PHOTOGRAPHER OF THE YEAR",
+    "authors": [
+      {
+        "id": 1094281,
+        "name": "Charlie Waite",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9780749578268",
+    "ean": "9780749578268",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 64,
+      "name": "AA PUBLISHING",
+      "thumbnail_image_url": null,
+      "slug": "aa-publishing"
+    },
+    "price": {
+      "price": 42.51,
+      "discount": 0,
+      "originalPrice": 42.51,
+      "retailUserPrice": 42.51
+    },
+    "stock_count": 3,
+    "slug": "landscape-photographer-of-the-year",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "Showcases all the winning and commended entries from the 10th Landscape Photographer of the Year competition, the largest of its kind in the UK.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 793059,
+    "name": "ADVENTURES IN THE LEA VALLEY",
+    "authors": [
+      {
+        "id": 1486967,
+        "name": "David Campany",
+        "nav_person_code": "INI017532"
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9781910566121",
+    "ean": "9781910566121",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 33529,
+      "name": "HOXTON MINI PRESS",
+      "thumbnail_image_url": null,
+      "slug": "hoxton-mini-press"
+    },
+    "price": {
+      "price": 25.42,
+      "discount": 0,
+      "originalPrice": 25.42,
+      "retailUserPrice": 25.42
+    },
+    "stock_count": 1,
+    "slug": "adventures-in-the-lea-valley",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": null,
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 779503,
+    "name": "OTHERWORLDS",
+    "authors": [
+      {
+        "id": 1479088,
+        "name": "Michael Benson",
+        "nav_person_code": "INI005697"
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9780565093877",
+    "ean": "9780565093877",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 1815,
+      "name": "THE NATURAL HISTORY MUSEUM",
+      "thumbnail_image_url": null,
+      "slug": "the-natural-history-museum"
+    },
+    "price": {
+      "price": 42.51,
+      "discount": 0,
+      "originalPrice": 42.51,
+      "retailUserPrice": 42.51
+    },
+    "stock_count": 3,
+    "slug": "otherworlds",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "A visual journey of awe-inspiring beauty from planet Earth to the other planets in our Solar System. Michael Benson uses the black-and-white raw frames sent back by spacecraft to create groundbreaking artworks that capture planetary landscapes as they might look if humans could visit them and view them with their own eyes.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 779535,
+    "name": "BEATLES A HARD DAY'S NIGHT",
+    "authors": [
+      {
+        "id": 1484451,
+        "name": "Mark Lewisohn",
+        "nav_person_code": "INI014166"
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/4e/9b/4e9ba891ee4aa9619fdb49d2a6970b6e_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 73,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 218
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9780714871851",
+    "ean": "9780714871851",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 747026,
+      "name": "Phaidon Press Ltd",
+      "thumbnail_image_url": null,
+      "slug": "phaidon-press-ltd"
+    },
+    "price": {
+      "price": 135.95,
+      "discount": 0,
+      "originalPrice": 135.95,
+      "retailUserPrice": 135.95
+    },
+    "stock_count": 1,
+    "slug": "beatles-a-hard-day-s-night",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "Including never-before-seen photographs and ephemera, a behind-the-scenes look into The Beatles' acclaimed first film",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 782355,
+    "name": "ANIMAL SOUL",
+    "authors": [
+      {
+        "id": 1112641,
+        "name": "Robert Bahou",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9781910453216",
+    "ean": "9781910453216",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 746829,
+      "name": "RedDoor Press",
+      "thumbnail_image_url": null,
+      "slug": "reddoor-press"
+    },
+    "price": {
+      "price": 51.01,
+      "discount": 0,
+      "originalPrice": 51.01,
+      "retailUserPrice": 51.01
+    },
+    "stock_count": 2,
+    "slug": "animal-soul",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "A stunning collection of animal portraits from award-winning photographer Robert Bahou",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 782417,
+    "name": "50 CONTEMPORARY PHOTOGRAPHERS YOU SHOULD KNOW",
+    "authors": [
+      {
+        "id": 225726,
+        "name": "Florian Heine",
+        "nav_person_code": null
+      },
+      {
+        "id": 1479622,
+        "name": "Brad Finger",
+        "nav_person_code": "INI006723"
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9783791382593",
+    "ean": "9783791382593",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 3442,
+      "name": "PRESTEL",
+      "thumbnail_image_url": null,
+      "slug": "prestel"
+    },
+    "price": {
+      "price": 25.49,
+      "discount": 0,
+      "originalPrice": 25.49,
+      "retailUserPrice": 25.49
+    },
+    "stock_count": 1,
+    "slug": "50-contemporary-photographers-you-should-know",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "The newest addition to Prestel s highly successful 50...You Should Know series offers the perfect introduction to the best contemporary photographers and their most iconic works.\"",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 787112,
+    "name": "FOLLOW THE SUN",
+    "authors": [
+      {
+        "id": 1067634,
+        "name": "James  Ewing (Brooklyn, Usa)",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/31/1c/311cc3d21c42726bb464486236efeed5_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 54,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 299
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9780415747011",
+    "ean": "9780415747011",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 748464,
+      "name": "Taylor & Francis Ltd",
+      "thumbnail_image_url": null,
+      "slug": "taylor-francis-ltd"
+    },
+    "price": {
+      "price": 68,
+      "discount": 0,
+      "originalPrice": 68,
+      "retailUserPrice": 68
+    },
+    "stock_count": 1,
+    "slug": "follow-the-sun",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": null,
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 789460,
+    "name": "BATTLE FOR BUDAPEST 1944 - 1945",
+    "authors": [
+      {
+        "id": 348423,
+        "name": "Anthony Tucker-Jones",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2017,
+    "isbn": "9781473877320",
+    "ean": "9781473877320",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 3283,
+      "name": "PEN & SWORD BOOKS LTD.",
+      "thumbnail_image_url": null,
+      "slug": "pen-sword-books-ltd"
+    },
+    "price": {
+      "price": 25.49,
+      "discount": 0,
+      "originalPrice": 25.49,
+      "retailUserPrice": 25.49
+    },
+    "stock_count": 10,
+    "slug": "battle-for-budapest-1944-1945",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "Photographic history of the struggle for Budapest, one of the key battles fought during the closing months of the Second World War",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 789530,
+    "name": "PHOTOGRAPHS FROM THE EDGE",
+    "authors": [
+      {
+        "id": 1649048,
+        "name": "A Wolfe",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/ed/1e/ed1eaf7fb605882080bcf46a4f9e83e7_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 60,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 268
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9781607747819",
+    "ean": "9781607747819",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 748510,
+      "name": "Random House USA Inc",
+      "thumbnail_image_url": null,
+      "slug": "random-house-usa-inc"
+    },
+    "price": {
+      "price": 47.59,
+      "discount": 0,
+      "originalPrice": 47.59,
+      "retailUserPrice": 47.59
+    },
+    "stock_count": 1,
+    "slug": "photographs-from-the-edge",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": null,
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 790793,
+    "name": "REPARATIVE AESTHETICS",
+    "authors": [
+      {
+        "id": 626336,
+        "name": "Susan  Best (Queensland College Of Art, Griffith University, Australia)",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/11/89/1189c81100f6e1c8443d602835a5e533_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 53,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 300
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9781472529862",
+    "ean": "9781472529862",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 748745,
+      "name": "Bloomsbury Publishing PLC",
+      "thumbnail_image_url": null,
+      "slug": "bloomsbury-publishing-plc"
+    },
+    "price": {
+      "price": 44.19,
+      "discount": 0,
+      "originalPrice": 44.19,
+      "retailUserPrice": 44.19
+    },
+    "stock_count": 1,
+    "slug": "reparative-aesthetics",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": null,
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 628376,
+    "name": "DANCEHALL DAYS",
+    "authors": [
+      {
+        "id": 218008,
+        "name": "Michael O'reilly",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2014,
+    "isbn": "9780717164608",
+    "ean": "9780717164608",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 747203,
+      "name": "Gill",
+      "thumbnail_image_url": null,
+      "slug": "gill"
+    },
+    "price": {
+      "price": 45.89,
+      "discount": 0,
+      "originalPrice": 45.89,
+      "retailUserPrice": 45.89
+    },
+    "stock_count": 1,
+    "slug": "dancehall-days",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "Blending dynamic live shots with intimate portraits and candids, Dancehall Days is a collection of over 300 stunning black-and-white photographs drawn from Michael O'Reilly's personal archive.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 651665,
+    "name": "ESSENTIAL STUDENT GUIDE TO PROFESSIONAL PHOTOGRAPHY",
+    "authors": [
+      {
+        "id": 1636811,
+        "name": "Grant Scott",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/dc/ba/dcba6c57530e2c77d3b220eafad49bbf_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 53,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 300
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2015,
+    "isbn": "9781138805323",
+    "ean": "9781138805323",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 748464,
+      "name": "Taylor & Francis Ltd",
+      "thumbnail_image_url": null,
+      "slug": "taylor-francis-ltd"
+    },
+    "price": {
+      "price": 45.89,
+      "discount": 0,
+      "originalPrice": 45.89,
+      "retailUserPrice": 45.89
+    },
+    "stock_count": 1,
+    "slug": "essential-student-guide-to-professional-photography",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "This easily accessible, essential reference for photography students embarking on their education explains how to become part of the professional community.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 633311,
+    "name": "CLASSIC TRACTION ENGINES",
+    "authors": [
+      {
+        "id": 179811,
+        "name": "Paul Stratford",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2010,
+    "isbn": "9780857040541",
+    "ean": "9780857040541",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 733135,
+      "name": "Halsgrove",
+      "thumbnail_image_url": null,
+      "slug": "halsgrove"
+    },
+    "price": {
+      "price": 28.89,
+      "discount": 0,
+      "originalPrice": 28.89,
+      "retailUserPrice": 28.89
+    },
+    "stock_count": 1,
+    "slug": "classic-traction-engines",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": null,
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 645407,
+    "name": "RAYMOND CAUCHETIER'S NEW WAVE",
+    "authors": [
+      {
+        "id": 378578,
+        "name": "Raymond Cauchetier",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/d2/3c/d23c193f1540f0051892e9149bd9bbca_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 64,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 250
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2015,
+    "isbn": "9781851497911",
+    "ean": "9781851497911",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 32772,
+      "name": "ACC ART BOOKS",
+      "thumbnail_image_url": null,
+      "slug": "acc-art-books"
+    },
+    "price": {
+      "price": 68.02,
+      "discount": 0,
+      "originalPrice": 68.02,
+      "retailUserPrice": 68.02
+    },
+    "stock_count": 1,
+    "slug": "raymond-cauchetier-s-new-wave",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "First ever monograph in English devoted to the film photography of Raymond Cauchetier featuring previously unseen images of the French New Wave cinema. Foreword by Philippe Garner.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 672396,
+    "name": "IRELAND - ENGLISH",
+    "authors": [
+      {
+        "id": 383913,
+        "name": "Michael Diggin",
+        "nav_person_code": null
+      },
+      {
+        "id": 524462,
+        "name": "Peter Zoeller",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2014,
+    "isbn": "9780717157433",
+    "ean": "9780717157433",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 747203,
+      "name": "Gill",
+      "thumbnail_image_url": null,
+      "slug": "gill"
+    },
+    "price": {
+      "price": 13.59,
+      "discount": 0,
+      "originalPrice": 13.59,
+      "retailUserPrice": 13.59
+    },
+    "stock_count": 6,
+    "slug": "ireland-english",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "Ireland is a collection of 300 contemporary images of the beauties of Ireland, covering every one of the 32 counties.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 795631,
+    "name": "BLACK PANTHERS",
+    "authors": [
+      {
+        "id": 440442,
+        "name": "Bryan Shih",
+        "nav_person_code": null
+      },
+      {
+        "id": 485990,
+        "name": "Yohuru Williams",
+        "nav_person_code": null
+      },
+      {
+        "id": 1091167,
+        "name": "Peniel Joseph",
+        "nav_person_code": null
+      }
+    ],
+    "product_badges": [],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/b8/1c/b81ceec1357f75a7e86cf1baf9a1c59a_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 54,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 296
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9781568585550",
+    "ean": "9781568585550",
+    "tags": [],
+    "category": {
+      "id": 114,
+      "parent_id": 27,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "FOTOGRAAFI",
+      "translations": [
+        {
+          "id": 340,
+          "language": "et",
+          "name": "Fotograafia ja fotograafid",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 341,
+          "language": "en",
+          "name": "Photographers, Essays & Portraits",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 342,
+          "language": "ru",
+          "name": "Фотография и фотографы",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 576965,
+      "name": "Avalon Publishing Group",
+      "thumbnail_image_url": null,
+      "slug": "avalon-publishing-group"
+    },
+    "price": {
+      "price": 32.29,
+      "discount": 0,
+      "originalPrice": 32.29,
+      "retailUserPrice": 32.29
+    },
+    "stock_count": 1,
+    "slug": "black-panthers",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
+    "description": "An appraisal of the Black Panther Party on the fiftieth anniversary of its founding, bringing together oral history interviews with original members, portraits, archival images, and essays by leading experts.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  }
+]

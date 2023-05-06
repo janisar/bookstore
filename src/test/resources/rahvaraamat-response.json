@@ -1,0 +1,2861 @@
+[
+  {
+    "id": 1697690,
+    "name": "AJALUGU NELJAL RATTAL",
+    "authors": [
+      {
+        "id": 1498045,
+        "name": "Tõnu Ojala",
+        "nav_person_code": "OJALA TÕNU"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/b0/75/b075294fe6790308a541426bdd9ae803_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 88,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 182
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2022,
+    "isbn": "9789916694411",
+    "ean": "9789916694411",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 4488,
+      "name": "ÜHINENUD AJAKIRJAD",
+      "thumbnail_image_url": null,
+      "slug": "ühinenud-ajakirjad"
+    },
+    "price": {
+      "price": 24.5,
+      "discount": 0,
+      "originalPrice": 24.5,
+      "retailUserPrice": 24.5
+    },
+    "stock_count": 461,
+    "slug": "ajalugu-neljal-rattal",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p style=\"text-align: justify;\">Mis autoga sõitis 1960. aastatel malekuulsus Paul Keres? Millise sõidukiga saabus vastvalitud president Lennart Meri 1992. aasta sügisel Toompeale ametivannet andma? Kuidas eestlased autod ära rikkusid ja miks arvati 1980. aastate Tallinnas, et Mercedes-Benz SL on auto vaid hädapärast? Sellest kõigest ja veel paljust muust saab teada, kui külastada Halingal asuvat automuuseumi.</p>  <p style=\"text-align: justify;\">Raamatusse on koondatud ülevaade Tallinna-Pärnu maanteel Halingas tegutseva automuuseumi Via Baltica väljapanekust – alates väikestest kolmerattalistest motorolleritest ja omaaegsetest invaautodest ning lõpetades luksuslike Mercedeste ja Rolls-Royce´idega. Autode käekäiku, nende tehnilisi omadusi ja tootmise ajalugu täiendavad muuseumi asutaja, autoentusiasti Peeter Kalli mahlakad taustajutud. </p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1682377,
+    "name": "VORMEL 1 KUULSUSED",
+    "authors": [
+      {
+        "id": 1494839,
+        "name": "Rein Luik",
+        "nav_person_code": "LUIK REIN"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/47/a1/47a1ea7a4a99ce5c70c0b30cc0961e18_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 56,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 285
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2022,
+    "isbn": "9789916694343",
+    "ean": "9789916694343",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 4488,
+      "name": "ÜHINENUD AJAKIRJAD",
+      "thumbnail_image_url": null,
+      "slug": "ühinenud-ajakirjad"
+    },
+    "price": {
+      "price": 23.99,
+      "discount": 0,
+      "originalPrice": 23.99,
+      "retailUserPrice": 23.99
+    },
+    "stock_count": 581,
+    "slug": "vormel-1-kuulsused",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p style=\"text-align: justify;\"><strong></strong><strong>Kas teate, et vormel 1 etapil on sõitja teinud meelega avarii, või et üks tiim on spioneerimise eest saanud 100 miljonit dollarit trahvi?</strong></p>  <p style=\"text-align: justify;\">Uus, täiendatud trükk 2007. aastal ilmunud raamatust „Vormel 1 kuulsused“ pakub lisaks esimeses väljaandes ilmunud tekstidele ja faktidele uusi lugusid vahepealsete aastate jooksul esile kerkinud tippsõitjatest, autodest, skandaalidest ja paljust muust huvitavast. </p>  <p style=\"text-align: justify;\">Raamatusse on koondatud lugusid inimestest ja sündmustest, kes või mis on mingil moel teistest rohkem esile tõusnud ja mõjutanud vormel 1 arenguid, jätnud märgi selle spordiala ajalukku. Juttu on ka neist, kelle teod, oskused ja väärtused kipuvad unustusse vajuma ning vajaks veidi meeldetuletamist. <br>Kümne teema vahele on pikitud mitmesuguseid fakte – enamalt jaolt kindlasti vähetuntud, kuid huvitavaid ja põnevaid, kasulikke või kasutuid. </p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1783832,
+    "name": "200 KASUTATUD AUTOT 1.OSA",
+    "authors": [],
+    "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/c1/32/c132dfb76b1c91524b5b257bf590e3c0_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 60,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 267
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2022,
+    "isbn": "9772806229015",
+    "ean": "9772806229015",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 755141,
+      "name": "GEENIUS MEEDIA OÜ",
+      "thumbnail_image_url": null,
+      "slug": "geenius-meedia-oü"
+    },
+    "price": {
+      "price": 9.9,
+      "discount": 0,
+      "originalPrice": 9.9,
+      "retailUserPrice": 9.9
+    },
+    "stock_count": 9,
+    "slug": "200-kasutatud-autot-1-osa",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p style=\"text-align: justify;\">Kumb kasutatud auto on parem, kas Audi Q7 või BMW X5? Tahan osta\r\nVolkswagen Passatit aastast umbest 2010. Mis selle nõrgad kohad on? Miks sa\r\nmulle Mazdat soovitad, need ju roostetavad kõige hullemini üldse? Uued volvod\r\non nii ilusad, ma ostan niikuinii, aga milline mootor valida? Selliseid\r\nküsimusi kuuleb Autolehe toimetus sisuliselt igal nädalal. Vastused neile ja\r\npaljusid teisi mudeleid puudutavatele küsimustele leiabki sellest kogumikust.</p><p style=\"text-align: justify;\">Väljaande\r\nesimeses osas on ülevaade esimese 50 kasutatud auto kohta Alfa Romeost kuni\r\nHonda Civicuni.</p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1591481,
+    "name": "TRANSPORDIVAHENDID, MIS MUUTSID MAAILMA",
+    "authors": [
+      {
+        "id": 1452329,
+        "name": "Štěpánka Sekaninová",
+        "nav_person_code": "A017508"
+      },
+      {
+        "id": 1467329,
+        "name": "Tom Velčovský",
+        "nav_person_code": "A032892"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/c0/b2/c0b2c8e3628e25d537e0502faa38760f_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 62,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 257
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2021,
+    "isbn": "9789949081844",
+    "ean": "9789949081844",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 3963,
+      "name": "SINISUKK",
+      "thumbnail_image_url": null,
+      "slug": "sinisukk"
+    },
+    "price": {
+      "price": 16.99,
+      "discount": 0,
+      "originalPrice": 16.99,
+      "retailUserPrice": 16.99
+    },
+    "stock_count": 37,
+    "slug": "transpordivahendid-mis-muutsid-maailma",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p style=\"text-align: justify;\">Me kõik reisime aeg-ajalt − kooli, teise linna sõbra juurde või puhkuse ajal sootuks mõnda võõrasse riiki. Aga kas sa oled kunagi mõelnud, kuidas reisiti mitu sajandit tagasi?</p>    <p style=\"text-align: justify;\">Raamatus „<strong>Transpordivahendid, mis muutsid maailma</strong>“ antakse ülevaade olulistest transpordivahenditega seotud verstapostidest: siin räägitakse tillukestest ideedest, mis viisid tehnoloogilise revolutsioonini, aga ka traagilistest õnnetustest, mis tõmbasid projektile jäädavalt kriipsu peale. </p>    <p style=\"text-align: justify;\">Raamatus tutvustatakse kõige kiiremaid, suuremaid, lahedamaid ja vastuolulisemaid masinaid, näiteks Boeing, Apollo 11 ja Titanic. </p>",
+    "description_special": "<p style=\"text-align: justify;\">Me kõik reisime aeg-ajalt − kooli, teise linna sõbra juurde või puhkuse ajal sootuks mõnda võõrasse riiki. Aga kas sa oled kunagi mõelnud, kuidas reisiti mitu sajandit tagasi?\r\n</p><p style=\"text-align: justify;\">Raamatus „<strong>Transpordivahendid, mis muutsid maailma</strong>“ antakse ülevaade olulistest transpordivahenditega seotud verstapostidest: siin räägitakse tillukestest ideedest, mis viisid tehnoloogilise revolutsioonini, aga ka traagilistest õnnetustest, mis tõmbasid projektile jäädavalt kriipsu peale.\r\n</p><p style=\"text-align: justify;\">Raamatus tutvustatakse kõige kiiremaid, suuremaid, lahedamaid ja vastuolulisemaid masinaid, näiteks Boeing, Apollo 11 ja Titanic.\r\n</p><p><img src=\"https://rahvaraamat-product-list.s3.us-east-2.amazonaws.com/8e/4e/8e4e61f980e5572386f9b375bdf4b78d_main_1.png\"></p>",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1781547,
+    "name": "100 AASTAT BUSSILIIKLUST TARTUS",
+    "authors": [
+      {
+        "id": 1665196,
+        "name": "Alar Teemusk",
+        "nav_person_code": "A040241"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/12/f1/12f1d45cbffd435a4d246d79b028e988_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 56,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 284
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2022,
+    "isbn": "9789916414903",
+    "ean": "9789916414903",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": null,
+    "price": {
+      "price": 24.99,
+      "discount": 0,
+      "originalPrice": 24.99,
+      "retailUserPrice": 24.99
+    },
+    "stock_count": 18,
+    "slug": "100-aastat-bussiliiklust-tartus",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p style=\"text-align: justify;\">Augustis 2022 möödus 100 aastat bussiliikluse algusest Tartus. Antud raamat annab sel puhul ülevaate Tartu bussiliikluse ajaloost. See on teadaolevalt esimene raamat, mis vaatleb lähemalt Tartu transpordi olustikku perioodil 1900-1944. Peale seda keskendutakse bussiliikluse kujunemisele, tuues välja kõik tol ajal liine teenindanud ettevõtjad ja nende ajal toimunu. Selle ülevaate koostas transpordiajaloolane Riho Paramonov. Seejärel käsitletakse nõukogude perioodil toimunud arenguid bussiliikluses. Järgnevate perioodide kohta (1991-2022) on ülevaated vastavalt linnas sõitnud ettevõttele ja kehtinud liiniskeemile. Raamatus avaldatakse rohkelt ainulaadseid fotosid bussiliikluse arengust. Kokku on raamatus 115 pilti ja illustratsiooni. Lisaks arhiividele ja ajalehtedele on kasutatud samuti suulisi allikaid: staažikaid bussijuhte ja linna transporditöötajaid. Linna bussiliiklus on teema, mis puudutab paljusid. Raamat on mõeldud kõigile linna ajaloost huvituvatele linnaelanikele ja on huvipakkuv kindlasti transpordi vallas töötavatele inimestele. </p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1642708,
+    "name": "VEOAUTOJUHI ÕPPEMATERJAL 2022",
+    "authors": [],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/ec/18/ec18da647de35f12f5ae659d52074573_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 56,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 285
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2022,
+    "isbn": "9789949745890",
+    "ean": "9789949745890",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 149,
+      "name": "AIDE AS",
+      "thumbnail_image_url": null,
+      "slug": "aide-as"
+    },
+    "price": {
+      "price": 19.5,
+      "discount": 0,
+      "originalPrice": 19.5,
+      "retailUserPrice": 19.5
+    },
+    "stock_count": 95,
+    "slug": "veoautojuhi-õppematerjal-2022",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1690700,
+    "name": "EESTI LAEVANDUSE AASTARAAMAT 2022",
+    "authors": [],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/7d/38/7d386a4a7745aa94a7eedf7b602172cc_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 56,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 287
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2022,
+    "isbn": "9789949995837",
+    "ean": "9789949995837",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 3880,
+      "name": "SEKSTANT",
+      "thumbnail_image_url": null,
+      "slug": "sekstant"
+    },
+    "price": {
+      "price": 13.5,
+      "discount": 0,
+      "originalPrice": 13.5,
+      "retailUserPrice": 13.5
+    },
+    "stock_count": 2,
+    "slug": "eesti-laevanduse-aastaraamat-2022",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p style=\"text-align: justify;\">Vaatamata tormidest merel ja inimeste maailmas oleme ikkagi lootusrikkad tuleviku suhtes. Laevad arenevad edasi, täiustuvad, aitavad aina rohkem kaasa inimeste elule maal.</p>  <p style=\"text-align: justify;\">Eks laevanduse aastaraamatuski ole vastavaid teemasid, alates sellest kui laevad olid puust ning mehed rauast, seejärel mõlemad rauast ning kurss, mis viib lõpuks digimaailma.</p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1837029,
+    "name": "200 KASUTATUD AUTOT 2.OSA",
+    "authors": [],
+    "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/c2/9c/c29c5fe2697d06498434c937e517122f_main_1.jpeg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 59,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 270
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2023,
+    "isbn": "9772806229022",
+    "ean": "9772806229022",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 755141,
+      "name": "GEENIUS MEEDIA OÜ",
+      "thumbnail_image_url": null,
+      "slug": "geenius-meedia-oü"
+    },
+    "price": {
+      "price": 12.9,
+      "discount": 0,
+      "originalPrice": 12.9,
+      "retailUserPrice": 12.9
+    },
+    "stock_count": 34,
+    "slug": "200-kasutatud-autot-2osa",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p style=\"text-align: justify;\">Kumb kasutatud auto on parem, kas Audi Q7 või BMW X5? Tahan osta\r\nVolkswagen Passatit aastast umbest 2010. Mis selle nõrgad kohad on? Miks sa\r\nmulle Mazdat soovitad, need ju roostetavad kõige hullemini üldse? Uued volvod\r\non nii ilusad, ma ostan niikuinii, aga milline mootor valida? Selliseid\r\nküsimusi kuuleb Autolehe toimetus sisuliselt igal nädalal. Vastused neile ja\r\npaljusid teisi mudeleid puudutavatele küsimustele leiabki sellest kogumikust.</p><p style=\"text-align: justify;\">Väljaande teises osas on ülevaade 50\r\nkasutatud auto kohta Honda CRV-st kuni Mercedes-Benz CLSini.</p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 31178,
+    "name": "50 IDEEAUTOT",
+    "authors": [
+      {
+        "id": 1478413,
+        "name": "Margus-Hans Kuuse",
+        "nav_person_code": "INI004536"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/2d/e0/2de0569acb8c14cc8b38292d54de9cd8_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 80,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 199
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2010,
+    "isbn": "9789985986035",
+    "ean": "9789985986035",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 3440,
+      "name": "PRESSHOUSE OÜ",
+      "thumbnail_image_url": null,
+      "slug": "presshouse-oü"
+    },
+    "price": {
+      "price": 16.17,
+      "discount": 0,
+      "originalPrice": 16.17,
+      "retailUserPrice": 16.17
+    },
+    "stock_count": 57,
+    "slug": "50-ideeautot",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "Ideeautode loojad vaatavad alati hulk aastaid ette. Mis täna paistab ulmeline, võib aastate pärast seista tõepoolest tavakodaniku graa˛iteel. Muidugi mitte üks ühele, teinekord vaid mõne tehnilise lahenduse või disainivõttena, kuid unistustest on siiski saanud reaalsus.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1604789,
+    "name": "AUTOMOTOKROONIKA. TSAARIAEG",
+    "authors": [
+      {
+        "id": 1593847,
+        "name": "René Levoll",
+        "nav_person_code": "A033586"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/b4/14/b414e6623b177b1f4c186b0203bcbac1_main_1.jpeg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 56,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 284
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2021,
+    "isbn": "9789916407868",
+    "ean": "9789916407868",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 752371,
+      "name": "PIKO HOBIKROSS OÜ",
+      "thumbnail_image_url": null,
+      "slug": "piko-hobikross-oü"
+    },
+    "price": {
+      "price": 99.99,
+      "discount": 0,
+      "originalPrice": 99.99,
+      "retailUserPrice": 99.99
+    },
+    "stock_count": 7,
+    "slug": "automotokroonika-tsaariaeg",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p style=\"text-align: justify;\">Käsitleb Eesti ja omaaegse tsaari Venemaa Balti kubermangus\r\ntoimunud auto-moto ajalugu. Raamat on põhjalik teatmeteos, rohkete fotode ja\r\nviidetega arhiividele.</p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1607619,
+    "name": "MOOTORLAEVAMUDELID EESTI MEREMUUSEUMI KOGUS",
+    "authors": [
+      {
+        "id": 1487095,
+        "name": "Mihkel Karu",
+        "nav_person_code": "INI017679"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/5b/dd/5bdd11d2091678ffaec25c79b1e1a714_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 96,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 166
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": [],
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2021,
+    "isbn": "9789949740178",
+    "ean": "9789949740178",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 13437,
+      "name": "EESTI MEREMUUSEUM",
+      "thumbnail_image_url": null,
+      "slug": "eesti-meremuuseum"
+    },
+    "price": {
+      "price": 20.99,
+      "discount": 0,
+      "originalPrice": 20.99,
+      "retailUserPrice": 20.99
+    },
+    "stock_count": 19,
+    "slug": "mootorlaevamudelid-eesti-meremuuseumi-kogus",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p style=\"text-align: justify;\"><span class=\"normaltextrun\">Kataloogis on esitatud valik mootorlaevamudeleid Eesti Meremuuseumi kogudest. Nende hulgas on nii kauba-, kala- kui ka reisilaevu. Lisaks annab kataloog ülevaate mootorlaevanduse ajaloost ja meremuuseumi mootorlaevamudelite kogu kujunemisest ning tutvustab paljude mudelite autori ja meistri kapten Olev Roesi elu ja tegevust. </span><span class=\"eop\"> <u5:p></u5:p></span></p>  <p style=\"text-align: justify;\" rel=\"text-align: justify;\"><u5:p> </u5:p></p>  <p style=\"text-align: justify;\"><span class=\"normaltextrun\">The catalogue contains a selection of motor ship models from the collections of the Estonian Maritime Museum. They include cargo, fishing and passenger vessels. The catalogue also gives an overview of the history of motorized maritime transport and the development of the Estonian Maritime Museum's collection of motor ship models<strong>; </strong>in addition it<strong> </strong>introduces the life and work of Olev Roes, the author and master of many of the models.</span><span class=\"eop\"> <u5:p></u5:p></span></p>  <u5:p></u5:p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1607620,
+    "name": "AURULAEVAMUDELID EESTI MEREMUUSEUMI KOGUS",
+    "authors": [
+      {
+        "id": 1485752,
+        "name": "Teele Saar",
+        "nav_person_code": "INI015947"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/a8/6d/a86d3087416ebd42091ba6d5e1b548bc_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 100,
+        "height": 79
+      },
+      "main": {
+        "width": 200,
+        "height": 157
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": [],
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2021,
+    "isbn": "9789949740185",
+    "ean": "9789949740185",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 13437,
+      "name": "EESTI MEREMUUSEUM",
+      "thumbnail_image_url": null,
+      "slug": "eesti-meremuuseum"
+    },
+    "price": {
+      "price": 20.99,
+      "discount": 0,
+      "originalPrice": 20.99,
+      "retailUserPrice": 20.99
+    },
+    "stock_count": 11,
+    "slug": "aurulaevamudelid-eesti-meremuuseumi-kogus",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p style=\"text-align: justify;\">Kataloog heidab pilgu Eesti Meremuuseumi kogudes olevatele\r\naurulaeva mudelitele ja nende valmimislugudele. Koos lugudega mudelitest\r\nkäsitletakse ka mudelimeistrite elu- ja kujunemisteed. Eestlastele kuulunud\r\naurikud olid enamasti ostetud järelturult, mistõttu võib kataloogi võõrkeelne\r\nlugeja endalegi ootamatuid „vanu tuttavaid“ leida.<br></p><p><u5:p></u5:p></p><p style=\"text-align: justify;\" rel=\"text-align: justify;\"><span class=\"normaltextrun\">This catalogue showcases models of steamships from the collections of the Estonian Maritime Museum and the stories behind them. Through stories about models, you can learn about the professional and personal lives of some of the best known modellists. The steamships owned by Estonians were rarely new, which is why a foreign reader of this catalogue may well come across a few “old friends”.</span><u5:p></u5:p>  <u5:p></u5:p><br></p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 775906,
+    "name": "MILITAARRAUDTEED EESTIS",
+    "authors": [
+      {
+        "id": 1485313,
+        "name": "Mehis Helme",
+        "nav_person_code": "INI015331"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/21/78/21780226161de8311f4c02fa13dae17f_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 56,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 284
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9789949974627",
+    "ean": "9789949974627",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 1595,
+      "name": "GO GROUP AS",
+      "thumbnail_image_url": null,
+      "slug": "go-group-as"
+    },
+    "price": {
+      "price": 16.3,
+      "discount": 0,
+      "originalPrice": 16.3,
+      "retailUserPrice": 16.3
+    },
+    "stock_count": 7,
+    "slug": "militaarraudteed-eestis",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p style=\"text-align: justify;\">Mehis Helme eesti- ja inglise keelne raamat „<strong>Militaarraudteed Eestis</strong>“ sisaldab unikaalset informatsiooni Eestis tegutsenud militaarotsarbelistest raudteedest läbi kahe maailmasõja ja sõjajärgse perioodi. Käsitletud on nii raudteede ehitust ja ekspluatatsiooni kui ka nende rajatisi ning veeremit. Autor on esile toonud ka militaarraudteid millest seni on teadnud vaid vähesed ja kirjutatud pole üldse. Raamatus on rikkalikult skeeme, kaarte ja fotosid, mis annavad lugejale tõepärase ettekujutuse raamatus käsitletud valdkonnast. Valdav osa raamatu sisust jääb I maailmasõja perioodi ja esimese Eesti Vabariigi aegadesse ning väiksem osa II maailmasõja aega ja selle järgsesse perioodi. <br>Raamat on kindlasti huvipakkuv nii militaar- kui raudteeajaloo huvilistele.</p>",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 600435,
+    "name": "BUSSIJUHI ÕPPEMATERJAL",
+    "authors": [],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/13/f1/13f14c8e911577d4d8a5699b836a9698_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 55,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 289
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2014,
+    "isbn": "9789949915569",
+    "ean": "9789949915569",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 149,
+      "name": "AIDE AS",
+      "thumbnail_image_url": null,
+      "slug": "aide-as"
+    },
+    "price": {
+      "price": 17.14,
+      "discount": 0,
+      "originalPrice": 17.14,
+      "retailUserPrice": 17.14
+    },
+    "stock_count": 5,
+    "slug": "bussijuhi-õppematerjal",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "<p>Bussi õpperaamat on mõeldud kasutamiseks D kategooria sõidukite juhtide ettevalmistamisel ning juba töötava juhi enesetäiendamisel.&nbsp;</p><p>Raamatus antakse ülevaade autobusside SCANIA ja VOLVO ehitusest ja tehnohooldusest. Samuti tutvustatakse sõitjateveo korda. Antakse soovitusi busside ohutuks juhtimiseks.</p>",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1614944,
+    "name": "КОРАБЛИ. ИЛЛЮСТРИРОВАННАЯ ЭНЦИКЛОПЕДИЯ",
+    "authors": [
+      {
+        "id": 1501213,
+        "name": "Дэвид Росс",
+        "nav_person_code": "ROSS D-EVID"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/30/1a/301a72fa5e76b4eea316e7ab11cfa8f4_main_1.jpeg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 60,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 265
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 113,
+      "code": "RU",
+      "name": "venekeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2021,
+    "isbn": "9785171384999",
+    "ean": "9785171384999",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 382,
+      "name": "AST",
+      "thumbnail_image_url": null,
+      "slug": "ast"
+    },
+    "price": {
+      "price": 36.99,
+      "discount": 0,
+      "originalPrice": 36.99,
+      "retailUserPrice": 36.99
+    },
+    "stock_count": 1,
+    "slug": "корабли-иллюстрированная-энциклопедия",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "Это уникальный справочник по кораблям и подводным лодкам, в том числе военным, торговым и пассажирским судам, - от возникновения судостроения до наших дней. В книге представлены все известные типы кораблей и подводных лодок мира. Сотри цветных рисунков сопровождаются детальной информацией о стране, времени создания, типе корабля и его технических характеристиках.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 869939,
+    "name": "BIG BOOK OF BOAT CANVAS: A COMPLETE GUIDE TO FABRIC WORK ON BOATS",
+    "authors": [
+      {
+        "id": 469671,
+        "name": "Karen Lipe",
+        "nav_person_code": "A038380"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/d7/21/d721bf4944d1023c2298d4815aa4f2e1_main_3.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 56,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 285
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 1991,
+    "isbn": "9780070380004",
+    "ean": "9780070380004",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 685990,
+      "name": "McGraw-Hill Education - Europe",
+      "thumbnail_image_url": null,
+      "slug": "mcgraw-hill-education-europe"
+    },
+    "price": {
+      "price": 28.89,
+      "discount": 0,
+      "originalPrice": 28.89,
+      "retailUserPrice": 28.89
+    },
+    "stock_count": 2,
+    "slug": "big-book-of-boat-canvas-a-complete-guide-to-fabric-work-on-boats",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "Covers almost everything you need to know to sew comfort, utility, and style into your boat. This book features many traditional canvas projects: sail covers, awnings, duffel bags, dodgers, and Biminis, wind chutes, and winter covers. It also includes many fabric projects: custom interior cushions, fitted sheets and daycovers, and more.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 876932,
+    "name": "BOATBUILDING WITH ALUMINUM",
+    "authors": [
+      {
+        "id": 215701,
+        "name": "Stephen Pollard",
+        "nav_person_code": "A039498"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/d6/38/d638a8d123a493ef0c845c679bed7b27_main_3.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 62,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 260
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2007,
+    "isbn": "9780071443180",
+    "ean": "9780071443180",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 505981,
+      "name": "International Marine Publishing Co",
+      "thumbnail_image_url": null,
+      "slug": "international-marine-publishing-co"
+    },
+    "price": {
+      "price": 68,
+      "discount": 0,
+      "originalPrice": 68,
+      "retailUserPrice": 68
+    },
+    "stock_count": 2,
+    "slug": "boatbuilding-with-aluminum",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "Aluminum is a suitable boatbuilding material - light, economical, maintenance-free, and easy to work with. This title offers you information needed about working with this material, from welding to fitting out and painting.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 1678670,
+    "name": "ABARTH",
+    "authors": [
+      {
+        "id": 226968,
+        "name": "Daniele Buzzonetti",
+        "nav_person_code": "A042270"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/9b/07/9b077ae7a841e54fe37306ec943831da_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 68,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 235
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2019,
+    "isbn": "9788877921680",
+    "ean": "9788877921680",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 755298,
+      "name": "Artioli Editore",
+      "thumbnail_image_url": null,
+      "slug": "artioli-editore"
+    },
+    "price": {
+      "price": 93.52,
+      "discount": 0,
+      "originalPrice": 93.52,
+      "retailUserPrice": 93.52
+    },
+    "stock_count": 3,
+    "slug": "abarth",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": null,
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 1523510,
+    "name": "TITANIC THE SHIP MAGNIFICENT - VOLUME ONE",
+    "authors": [
+      {
+        "id": 557526,
+        "name": "Art Braunschweiger",
+        "nav_person_code": "A041850"
+      },
+      {
+        "id": 1458416,
+        "name": "Bruce Beveridge",
+        "nav_person_code": "A023775"
+      },
+      {
+        "id": 1458418,
+        "name": "Scott Andrews",
+        "nav_person_code": "A023777"
+      },
+      {
+        "id": 1458419,
+        "name": "Steve Hall",
+        "nav_person_code": "A023778"
+      },
+      {
+        "id": 1458417,
+        "name": "Daniel Klistorner",
+        "nav_person_code": "A023776"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9780750968317",
+    "ean": "9780750968317",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 746259,
+      "name": "The History Press Ltd",
+      "thumbnail_image_url": null,
+      "slug": "the-history-press-ltd"
+    },
+    "price": {
+      "price": 102.02,
+      "discount": 0,
+      "originalPrice": 102.02,
+      "retailUserPrice": 102.02
+    },
+    "stock_count": 2,
+    "slug": "titanic-the-ship-magnificent-volume-one",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "Volume Two covers the interior design and fitting out of the ship and presents detailed deck-by-deck information, from the palatial rooms of First Class to areas of the ship seen only by the crew.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  },
+  {
+    "id": 1523511,
+    "name": "TITANIC THE SHIP MAGNIFICENT - VOLUME TWO",
+    "authors": [
+      {
+        "id": 557526,
+        "name": "Art Braunschweiger",
+        "nav_person_code": "A041850"
+      },
+      {
+        "id": 1458416,
+        "name": "Bruce Beveridge",
+        "nav_person_code": "A023775"
+      },
+      {
+        "id": 1458418,
+        "name": "Scott Andrews",
+        "nav_person_code": "A023777"
+      },
+      {
+        "id": 1458419,
+        "name": "Steve Hall",
+        "nav_person_code": "A023778"
+      },
+      {
+        "id": 1458417,
+        "name": "Daniel Klistorner",
+        "nav_person_code": "A023776"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": null,
+    "thumb_file_resolution": null,
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 109,
+      "code": "WEEKS_2_4",
+      "name": "2-4 nädalat"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2016,
+    "isbn": "9780750968324",
+    "ean": "9780750968324",
+    "tags": [],
+    "category": {
+      "id": 281,
+      "parent_id": 1299,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "TRANSPORT",
+      "translations": [
+        {
+          "id": 841,
+          "language": "et",
+          "name": "Autod, lennukid, laevad, mootorrattad",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 842,
+          "language": "en",
+          "name": "Transport & Motor Sports",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 843,
+          "language": "ru",
+          "name": "Транспорт",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 746259,
+      "name": "The History Press Ltd",
+      "thumbnail_image_url": null,
+      "slug": "the-history-press-ltd"
+    },
+    "price": {
+      "price": 102.02,
+      "discount": 0,
+      "originalPrice": 102.02,
+      "retailUserPrice": 102.02
+    },
+    "stock_count": 2,
+    "slug": "titanic-the-ship-magnificent-volume-two",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
+    "description": "Volume Two covers the interior design and fitting out of the ship and presents detailed deck-by-deck information, from the palatial rooms of First Class to areas of the ship seen only by the crew.",
+    "description_special": null,
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
+      "date": "2023-06-06"
+    }
+  }
+]
