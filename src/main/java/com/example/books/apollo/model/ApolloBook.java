@@ -1,9 +1,9 @@
 package com.example.books.apollo.model;
 
-import com.example.books.model.Book;
 import com.fasterxml.jackson.annotation.JsonProperty;
 import java.io.Serializable;
-import java.math.BigDecimal;
+import java.util.ArrayList;
+import java.util.LinkedHashMap;
 import java.util.List;
 
 public class ApolloBook implements Serializable {
@@ -23,6 +23,8 @@ public class ApolloBook implements Serializable {
     private double price;
     @JsonProperty("image")
     private String imagePath;
+
+    private List<String> topics = new ArrayList<>();
 
     public String getName() {
         return name;
@@ -46,6 +48,21 @@ public class ApolloBook implements Serializable {
 
     public String getImagePath() {
         return imagePath;
+    }
+
+    @JsonProperty("category")
+    private void unpackTopics(List<LinkedHashMap<String, Object>> categories) {
+        for (LinkedHashMap<String, Object> category : categories) {
+            topics.add((String) category.get("name"));
+        }
+    }
+
+    public List<String> getTopics() {
+        return topics;
+    }
+
+    public void setTopics(List<String> topics) {
+        this.topics = topics;
     }
 
     public String getPages() {

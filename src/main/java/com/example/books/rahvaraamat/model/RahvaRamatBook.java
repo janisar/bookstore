@@ -59,7 +59,15 @@ public class RahvaRamatBook extends Book {
 
     @JsonProperty("categories")
     private void unpackTopics(List<LinkedHashMap<String, Object>> categories) {
-        this.setTopics(getTopics());
+        for (LinkedHashMap<String, Object> category : categories) {
+            var categoryValue = (LinkedHashMap<String, Object>) category.get("category");
+            var translations = (List<LinkedHashMap<String, Object>>) categoryValue.get("translations");
+            for (LinkedHashMap<String, Object> translation : translations) {
+                if (translation.get("language").equals("et")) {
+                    this.getTopics().add((String) translation.get("name"));
+                }
+            }
+        }
     }
 
     @JsonProperty("languageType")

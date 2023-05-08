@@ -29,6 +29,11 @@ public class BooksController {
         return ResponseEntity.ok(bookService.getAllBooks(author));
     }
 
+    @GetMapping("/authors")
+    public ResponseEntity<List<String>> getAllAuthors() {
+        return ResponseEntity.ok(bookService.getAllAuthors());
+    }
+
     @GetMapping("/categories")
     public ResponseEntity<List<String>> getAllCategories() {
         return ResponseEntity.ok(bookService.getAllCategories());

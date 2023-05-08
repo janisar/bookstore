@@ -54,6 +54,8 @@ public class RahvaRaamatRestClient implements BookStoreRestClient {
         if (rrBook != null) {
             book.setPages(rrBook.getPages());
             book.setTopics(rrBook.getTopics());
+        } else {
+            book.setTopics(rahvaRamatBook.getTopics());
         }
 
         book.setAuthors(rahvaRamatBook.getAuthors());
@@ -62,7 +64,6 @@ public class RahvaRaamatRestClient implements BookStoreRestClient {
         book.setPublisher(rahvaRamatBook.getPublisher());
         book.setPrice(rahvaRamatBook.getPrice());
         book.setYear(rahvaRamatBook.getYear());
-        book.setTopics(rahvaRamatBook.getTopics());
         book.setLanguage(rahvaRamatBook.getLanguage());
         book.getTopics().add(category);
         book.setLink(PUBLIC_URL + rahvaRamatBook.getLink() + "/" + rahvaRamatBook.getId() + "/et");

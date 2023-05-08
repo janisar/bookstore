@@ -76,4 +76,8 @@ public class BookService {
         result.sort(String::compareTo);
         return result;
     }
+
+    public List<String> getAllAuthors() {
+        return authorCache.keySet().stream().map(Author::getName).toList();
+    }
 }

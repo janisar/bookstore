@@ -134,6 +134,7 @@ public class ApolloBookStoreRestClient implements BookStoreRestClient {
         book.setPublisher(apolloBook.getPublisher());
         book.setPrice(BigDecimal.valueOf(apolloBook.getPrice()));
         book.setYear(apolloBook.getYear());
+        book.setTopics(apolloBook.getTopics());
         book.getTopics().add(category);
         book.setLink(APOLLO_PUBLIC_URL + apolloBook.getLink());
         book.setImageUrl(IMAGE_URL + apolloBook.getImagePath());
