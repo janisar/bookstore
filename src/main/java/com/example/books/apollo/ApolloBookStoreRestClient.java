@@ -1,24 +1,25 @@
 package com.example.books.apollo;
 
 import com.example.books.apollo.model.ApolloBook;
+import com.example.books.apollo.model.Author;
 import com.example.books.apollo.model.CategoriesResponse;
+import com.example.books.apollo.model.SearchResponse;
 import com.example.books.model.Book;
 import com.example.books.model.BookStore;
+import com.example.books.model.BookStoreException;
+import com.example.books.rest.RestClient;
 import com.example.books.service.BookStoreRestClient;
-import com.fasterxml.jackson.databind.DeserializationFeature;
-import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
-import java.net.URI;
-import java.net.http.HttpClient;
-import java.net.http.HttpRequest;
-import java.net.http.HttpResponse;
+import java.math.BigDecimal;
 import java.nio.charset.Charset;
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.HashMap;
 import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Locale;
 import java.util.Map;
+import java.util.logging.Logger;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.ClassPathResource;
 import org.springframework.core.io.Resource;
 import org.springframework.stereotype.Component;
@@ -26,84 +27,39 @@ import org.springframework.stereotype.Component;
 @Component
 public class ApolloBookStoreRestClient implements BookStoreRestClient {
 
-    public static final String PHOTOGRAPHY = "FOTOGRAAFI";
+    private static final String APOLLO_PUBLIC_URL = "https://www.apollo.ee/";
+    private static final String IMAGE_URL = "https://apl-api.apollo.ee/img/600/744/resize/catalog/product/";
+
+    private final Logger logger = Logger.getLogger(ApolloBookStoreRestClient.class.getName());
+
+    private static final String ES_PRODUCTS_HOST =
+            "https://apl-api.apollo.ee/api/catalog/apollo_magento_catalog_et/product/_search";
+
+    private static final String ES_CATEGORIES_HOST =
+            "https://apl-api.apollo.ee/api/catalog/apollo_magento_catalog_et/category/_search";
 
     private final Map<String, Integer> categories;
 
-    public ApolloBookStoreRestClient() {
-        Map<String, Integer> categories;
-        try {
-            categories = this.loadCategories();
+    private final RestClient restClient;
 
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-            categories = null;
-        }
-        this.categories = categories;
+    public ApolloBookStoreRestClient(@Autowired RestClient restClient) {
+        this.restClient = restClient;
+        this.categories = this.loadCategories();
     }
 
     @Override
-    public List<Book> getBooksByCategory(String category) throws IOException, InterruptedException {
-        var client = HttpClient.newHttpClient();
-
-        var request = HttpRequest.newBuilder(
-                        URI.create("https://apl-api.apollo.ee/api/catalog/apollo_magento_catalog_et/product/_search"))
-                .header("accept", "application/json")
-                .header("content-type", "application/json")
-                .method("POST", HttpRequest.BodyPublishers.ofString(getCategoryInt(category), Charset.defaultCharset()))
-                .build();
-
-        var responseString = client.send(request, HttpResponse.BodyHandlers.ofString());
-        var result = new ObjectMapper().configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false)
-                .configure(DeserializationFeature.FAIL_ON_INVALID_SUBTYPE, false)
-                .readValue(responseString.body(), Book[].class);
-
-        return Arrays.stream(result).toList();
-    }
-
-    private String getCategoryInt(String category) {
-        return "{\n"
-                + "    \"query\": {\n"
-                + "        \"bool\": {\n"
-                + "            \"filter\": {\n"
-                + "                \"bool\": {\n"
-                + "                    \"must\": [\n"
-                + "                        {\n"
-                + "                            \"terms\": {\n"
-                + "                                \"visibility\": [\n"
-                + "                                    2,\n"
-                + "                                    3,\n"
-                + "                                    4\n"
-                + "                                ]\n"
-                + "                            }\n"
-                + "                        },\n"
-                + "                        {\n"
-                + "                            \"terms\": {\n"
-                + "                                \"status\": [\n"
-                + "                                    0,\n"
-                + "                                    1\n"
-                + "                                ]\n"
-                + "                            }\n"
-                + "                        },\n"
-                + "                        {\n"
-                + "                            \"terms\": {\n"
-                + "                                \"category_ids\": [\n"
-                + this.categories.get(category)
-                + "\n"
-                + "                                ]\n"
-                + "                            }\n"
-                + "                        }\n"
-                + "                    ]\n"
-                + "                }\n"
-                + "            }\n"
-                + "        }\n"
-                + "    }\n"
-                + "}";
+    public List<Book> getBooksByCategory(String category) {
+        var requestBody = getBooksQuery(category);
+        var result = restClient.post(ES_PRODUCTS_HOST, requestBody, SearchResponse.class);
+        if (result.getHits() == null || result.getHits().getHits() == null) {
+            return new ArrayList<>();
+        }
+        return result.getHits().getHits().stream().map(hit -> this.mapToBook(hit.get_source(), category)).toList();
     }
 
     @Override
     public boolean categoryExists(String category) {
-        return categories.containsKey(category);
+        return !getCategories(category).isEmpty();
     }
 
     @Override
@@ -111,39 +67,52 @@ public class ApolloBookStoreRestClient implements BookStoreRestClient {
         return categories.keySet().stream().toList();
     }
 
-    private Map<String, Integer> loadCategories() throws InterruptedException {
-        var client = HttpClient.newHttpClient();
-
-        var url = "https://apl-api.apollo.ee/api/catalog/apollo_magento_catalog_et/category/_search";
-        Resource resource = new ClassPathResource("static/apollo-categories-request.json");
+    private String getBooksQuery(String category) {
+        Resource resource = new ClassPathResource("static/apollo-books-request.json");
         try {
-            Map<String, Integer> categories = new HashMap<>();
             String content = resource.getContentAsString(Charset.defaultCharset());
-            var request = HttpRequest.newBuilder(URI.create(url))
-                    .header("accept", "application/json")
-                    .header("content-type", "application/json")
-                    .method("POST", HttpRequest.BodyPublishers.ofString(content))
-                    .build();
-
-            var responseString = client.send(request, HttpResponse.BodyHandlers.ofString());
-
-            var result = new ObjectMapper().configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false)
-                    .configure(DeserializationFeature.FAIL_ON_INVALID_SUBTYPE, false)
-                    .readValue(responseString.body(), CategoriesResponse.class);
-
-            ArrayList hits = (ArrayList) result.getHits().get("hits");
-            LinkedHashMap<String, Object> source =
-                    (LinkedHashMap<String, Object>) ((LinkedHashMap<String, Object>) hits.get(0)).get("_source");
-            ArrayList<LinkedHashMap<String, Object>> data =
-                    (ArrayList<LinkedHashMap<String, Object>>) source.get("children_data");
-
-            populateCategories(categories, data);
-            return categories;
+            return content.replace("{{categories}}", getCategories(category));
         } catch (IOException e) {
-            e.printStackTrace();
+            logger.warning("Failed to read file: " + resource.getFilename());
+            throw new BookStoreException("Failed to read file: " + resource.getFilename());
         }
+    }
 
-        return new HashMap<>();
+    private CharSequence getCategories(String category) {
+        return this.categories.keySet().stream()
+                .filter(c -> c.equalsIgnoreCase(category)
+                        || c.toUpperCase(Locale.ROOT).contains(category.toUpperCase(Locale.ROOT)))
+                .map(this.categories::get)
+                .map(Object::toString)
+                .reduce((a, b) -> a + "," + b)
+                .orElse("");
+    }
+
+    @SuppressWarnings("unchecked")
+    private Map<String, Integer> loadCategories() {
+        Resource resource = new ClassPathResource("static/apollo-categories-request.json");
+        Map<String, Integer> categories = new HashMap<>();
+        String content = getCategoriesRequestBody(resource);
+        var result = restClient.post(ES_CATEGORIES_HOST, content, CategoriesResponse.class);
+
+        ArrayList<LinkedHashMap<String, Object>> hits =
+                (ArrayList<LinkedHashMap<String, Object>>) result.getHits().get("hits");
+        LinkedHashMap<String, Object> source =
+                (LinkedHashMap<String, Object>) hits.get(0).get("_source");
+        ArrayList<LinkedHashMap<String, Object>> data =
+                (ArrayList<LinkedHashMap<String, Object>>) source.get("children_data");
+
+        populateCategories(categories, data);
+        return categories;
+    }
+
+    private String getCategoriesRequestBody(Resource resource) {
+        try {
+            return resource.getContentAsString(Charset.defaultCharset());
+        } catch (IOException e) {
+            logger.warning("Failed to load categories from Apollo");
+            throw new BookStoreException("Failed to load categories from Apollo");
+        }
     }
 
     private void populateCategories(Map<String, Integer> categories, ArrayList<LinkedHashMap<String, Object>> data) {
@@ -156,14 +125,18 @@ public class ApolloBookStoreRestClient implements BookStoreRestClient {
         });
     }
 
-    private Book mapToBook(ApolloBook apolloBook) {
+    private Book mapToBook(ApolloBook apolloBook, String category) {
         var book = new Book();
-        book.setAuthors(apolloBook.getAuthors());
-        book.setTitle(apolloBook.getTitle());
+        book.setAuthors(List.of(new Author(apolloBook.getAuthor())));
+        book.setTitle(apolloBook.getName());
         book.setBookStore(BookStore.APOLLO);
+        book.setPages(apolloBook.getPages());
         book.setPublisher(apolloBook.getPublisher());
-        book.setPrice(apolloBook.getPrice());
+        book.setPrice(BigDecimal.valueOf(apolloBook.getPrice()));
         book.setYear(apolloBook.getYear());
+        book.getTopics().add(category);
+        book.setLink(APOLLO_PUBLIC_URL + apolloBook.getLink());
+        book.setImageUrl(IMAGE_URL + apolloBook.getImagePath());
         return book;
     }
 }

@@ -1,30 +1,32 @@
 package com.example.books.model;
 
 import com.example.books.apollo.model.Author;
-import com.fasterxml.jackson.annotation.JsonInclude;
-import com.fasterxml.jackson.annotation.JsonProperty;
 import java.io.Serializable;
 import java.math.BigDecimal;
 import java.util.List;
-import java.util.Map;
 
-@JsonInclude(JsonInclude.Include.NON_EMPTY)
 public class Book implements Serializable {
 
-    @JsonProperty("authors")
     private List<Author> authors;
-    @JsonProperty("name")
     private String title;
     private BigDecimal price;
     private String language;
     private List<String> topics;
     private String publisher;
     private String link; //???
-    @JsonProperty("year")
-    private short year;
-    private short pages;
+    private String year;
+    private String pages;
+    private String imageUrl;
 
     private BookStore bookStore;
+
+    public String getImageUrl() {
+        return imageUrl;
+    }
+
+    public void setImageUrl(String imageUrl) {
+        this.imageUrl = imageUrl;
+    }
 
     public List<Author> getAuthors() {
         return authors;
@@ -67,6 +69,9 @@ public class Book implements Serializable {
     }
 
     public List<String> getTopics() {
+        if (topics == null) {
+            topics = new java.util.ArrayList<>();
+        }
         return topics;
     }
 
@@ -82,36 +87,6 @@ public class Book implements Serializable {
         this.publisher = publisher;
     }
 
-    @JsonProperty("price")
-    private void unpackNested(Map<String, Object> price) {
-        this.setPrice(BigDecimal.valueOf(getPrice(price)));
-    }
-
-    @JsonProperty("languageType")
-    private void unpackLanguage(Map<String, Object> language) {
-        if (language != null) {
-            this.setLanguage((String) language.get("name"));
-        }
-    }
-
-    private Double getPrice(Map<String, Object> price) {
-        var amount = price.get("price");
-        if (amount instanceof Double) {
-            return (Double) amount;
-        } else if (amount instanceof Integer) {
-            return ((Integer) amount).doubleValue();
-        } else {
-            throw new IllegalArgumentException("Unknown price type: " + amount.getClass());
-        }
-    }
-
-    @JsonProperty("publisher")
-    private void setPublisher(Map<String, Object> publisher) {
-        if (publisher != null) {
-            this.setPublisher((String) publisher.get("name"));
-        }
-    }
-
     public String getLink() {
         return link;
     }
@@ -120,20 +95,19 @@ public class Book implements Serializable {
         this.link = link;
     }
 
-    @JsonProperty("year")
-    public short getYear() {
+    public String getYear() {
         return year;
     }
 
-    public void setYear(short year) {
+    public void setYear(String year) {
         this.year = year;
     }
 
-    public short getPages() {
+    public String getPages() {
         return pages;
     }
 
-    public void setPages(short pages) {
+    public void setPages(String pages) {
         this.pages = pages;
     }
 }

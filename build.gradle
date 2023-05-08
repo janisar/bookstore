@@ -18,6 +18,10 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     // https://mvnrepository.com/artifact/org.elasticsearch/elasticsearch-core
     implementation group: 'org.elasticsearch', name: 'elasticsearch-core', version: '8.7.1'
+    implementation 'co.elastic.clients:elasticsearch-java:8.7.1'
+    // https://mvnrepository.com/artifact/org.elasticsearch.client/elasticsearch-rest-high-level-client
+    implementation 'org.elasticsearch.client:elasticsearch-rest-high-level-client:7.17.10'
+
 
 }
 

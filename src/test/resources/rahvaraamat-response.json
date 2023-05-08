@@ -1,12 +1,12 @@
 [
   {
-    "id": 1697690,
-    "name": "AJALUGU NELJAL RATTAL",
+    "id": 1751374,
+    "name": "LIIVIMAA PROVINTSI KROONIKA",
     "authors": [
       {
-        "id": 1498045,
-        "name": "Tõnu Ojala",
-        "nav_person_code": "OJALA TÕNU"
+        "id": 1501445,
+        "name": "Balthasar Russow",
+        "nav_person_code": "RUSSOW B."
       }
     ],
     "product_badges": [
@@ -86,15 +86,15 @@
         ]
       }
     ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/b0/75/b075294fe6790308a541426bdd9ae803_main_1.jpg",
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/22/78/2278f67248a2e92c1837227f3b6c34b3_main_1.jpg",
     "thumb_file_resolution": {
       "thumbnail": {
-        "width": 88,
+        "width": 68,
         "height": 80
       },
       "main": {
         "width": 200,
-        "height": 182
+        "height": 235
       }
     },
     "availabilityType": {
@@ -118,56 +118,56 @@
       "name": "Raamat"
     },
     "year": 2022,
-    "isbn": "9789916694411",
-    "ean": "9789916694411",
+    "isbn": "9789916173138",
+    "ean": "9789916173138",
     "tags": [],
     "category": {
-      "id": 281,
-      "parent_id": 1299,
+      "id": 62,
+      "parent_id": 15,
       "root_id": 11,
       "level": 2,
-      "nav_code": "TRANSPORT",
+      "nav_code": "EESTAJAL",
       "translations": [
         {
-          "id": 841,
+          "id": 184,
           "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
+          "name": "Eesti ajalugu",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 842,
+          "id": 185,
           "language": "en",
-          "name": "Transport & Motor Sports",
+          "name": "Estonian History",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 843,
+          "id": 186,
           "language": "ru",
-          "name": "Транспорт",
+          "name": "История Эстонии",
           "product_count": null,
           "sequence": null
         }
       ]
     },
     "publisher": {
-      "id": 4488,
-      "name": "ÜHINENUD AJAKIRJAD",
+      "id": 4223,
+      "name": "TÄNAPÄEV",
       "thumbnail_image_url": null,
-      "slug": "ühinenud-ajakirjad"
+      "slug": "tänapäev"
     },
     "price": {
-      "price": 24.5,
+      "price": 39.99,
       "discount": 0,
-      "originalPrice": 24.5,
-      "retailUserPrice": 24.5
+      "originalPrice": 39.99,
+      "retailUserPrice": 39.99
     },
-    "stock_count": 461,
-    "slug": "ajalugu-neljal-rattal",
+    "stock_count": 646,
+    "slug": "liivimaa-provintsi-kroonika",
     "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p style=\"text-align: justify;\">Mis autoga sõitis 1960. aastatel malekuulsus Paul Keres? Millise sõidukiga saabus vastvalitud president Lennart Meri 1992. aasta sügisel Toompeale ametivannet andma? Kuidas eestlased autod ära rikkusid ja miks arvati 1980. aastate Tallinnas, et Mercedes-Benz SL on auto vaid hädapärast? Sellest kõigest ja veel paljust muust saab teada, kui külastada Halingal asuvat automuuseumi.</p>  <p style=\"text-align: justify;\">Raamatusse on koondatud ülevaade Tallinna-Pärnu maanteel Halingas tegutseva automuuseumi Via Baltica väljapanekust – alates väikestest kolmerattalistest motorolleritest ja omaaegsetest invaautodest ning lõpetades luksuslike Mercedeste ja Rolls-Royce´idega. Autode käekäiku, nende tehnilisi omadusi ja tootmise ajalugu täiendavad muuseumi asutaja, autoentusiasti Peeter Kalli mahlakad taustajutud. </p>",
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Tallinna Pühavaimu kiriku pastori <strong>Balthasar Russowi</strong>\r\n(u 1536–1600) alamsaksakeelne „<strong>Liivimaa provintsi kroonika</strong>“ (trükitud 1578,\r\n1584) on aastasadu kujundanud nii Eesti- kui Liivimaa ning kogu Baltikumi 16.\r\nsajandi ajaloo käsitlust. Kroonika on Liivimaa sõja (1558–1583) ajaloo üks\r\ntähtsamaid ja tuntumaid allikaid, millest saab lugeda ka 16. sajandi Tallinna\r\npõnevat ja usaldusväärset lähiajalugu, mille pani kirja pastor Russow kui\r\nsündmuste kaasaegne ja vahetu tunnistaja. Kroonikat on kasutanud nii ajaloolased\r\nkui kirjandus- ja rahvateadlased, see on pakkunud ainest ajaloolistele\r\nromaanidele, filmidele ja teistele valdkondadele. <strong>Russowi kroonika</strong> uus tõlge\r\neesti keelde loodab rahuldada avalikkuse huvi Liivimaa ja iseäranis Tallinna kauge\r\nmineviku vastu, esimest korda on see eesti keeles varustatud põhjalike\r\nkommentaaride ning saatetekstide ja illustratsioonidega. </p>",
     "description_special": "",
     "delivery": {
       "meta": {
@@ -180,13 +180,13 @@
     }
   },
   {
-    "id": 1682377,
-    "name": "VORMEL 1 KUULSUSED",
+    "id": 1751548,
+    "name": "VANA TALLINNA PÕNEVAD LOOD",
     "authors": [
       {
-        "id": 1494839,
-        "name": "Rein Luik",
-        "nav_person_code": "LUIK REIN"
+        "id": 1482199,
+        "name": "Jaak Juske",
+        "nav_person_code": "INI010930"
       }
     ],
     "product_badges": [
@@ -266,471 +266,7 @@
         ]
       }
     ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/47/a1/47a1ea7a4a99ce5c70c0b30cc0961e18_main_1.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 56,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 285
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 108,
-      "code": "DAYS_1_7",
-      "name": "alates 24h"
-    },
-    "languageType": {
-      "id": 111,
-      "code": "ET",
-      "name": "eestikeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2022,
-    "isbn": "9789916694343",
-    "ean": "9789916694343",
-    "tags": [],
-    "category": {
-      "id": 281,
-      "parent_id": 1299,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "TRANSPORT",
-      "translations": [
-        {
-          "id": 841,
-          "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 842,
-          "language": "en",
-          "name": "Transport & Motor Sports",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 843,
-          "language": "ru",
-          "name": "Транспорт",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 4488,
-      "name": "ÜHINENUD AJAKIRJAD",
-      "thumbnail_image_url": null,
-      "slug": "ühinenud-ajakirjad"
-    },
-    "price": {
-      "price": 23.99,
-      "discount": 0,
-      "originalPrice": 23.99,
-      "retailUserPrice": 23.99
-    },
-    "stock_count": 581,
-    "slug": "vormel-1-kuulsused",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p style=\"text-align: justify;\"><strong></strong><strong>Kas teate, et vormel 1 etapil on sõitja teinud meelega avarii, või et üks tiim on spioneerimise eest saanud 100 miljonit dollarit trahvi?</strong></p>  <p style=\"text-align: justify;\">Uus, täiendatud trükk 2007. aastal ilmunud raamatust „Vormel 1 kuulsused“ pakub lisaks esimeses väljaandes ilmunud tekstidele ja faktidele uusi lugusid vahepealsete aastate jooksul esile kerkinud tippsõitjatest, autodest, skandaalidest ja paljust muust huvitavast. </p>  <p style=\"text-align: justify;\">Raamatusse on koondatud lugusid inimestest ja sündmustest, kes või mis on mingil moel teistest rohkem esile tõusnud ja mõjutanud vormel 1 arenguid, jätnud märgi selle spordiala ajalukku. Juttu on ka neist, kelle teod, oskused ja väärtused kipuvad unustusse vajuma ning vajaks veidi meeldetuletamist. <br>Kümne teema vahele on pikitud mitmesuguseid fakte – enamalt jaolt kindlasti vähetuntud, kuid huvitavaid ja põnevaid, kasulikke või kasutuid. </p>",
-    "description_special": "",
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne eeldatavalt 09.05",
-      "date": "2023-05-09"
-    }
-  },
-  {
-    "id": 1783832,
-    "name": "200 KASUTATUD AUTOT 1.OSA",
-    "authors": [],
-    "product_badges": [
-      {
-        "id": 1,
-        "product_badge_type": {
-          "id": 510,
-          "code": "TOP_WEEK",
-          "name": "7 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 1,
-            "language": "en",
-            "name": "Top 7 days"
-          },
-          {
-            "id": 2,
-            "language": "et",
-            "name": "Nädala Top"
-          },
-          {
-            "id": 3,
-            "language": "ru",
-            "name": "Топ недели"
-          }
-        ]
-      },
-      {
-        "id": 2,
-        "product_badge_type": {
-          "id": 511,
-          "code": "TOP_MONTH",
-          "name": "30 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 4,
-            "language": "en",
-            "name": "Top 30 days"
-          },
-          {
-            "id": 5,
-            "language": "et",
-            "name": "Kuu Top"
-          },
-          {
-            "id": 6,
-            "language": "ru",
-            "name": "Топ месяца"
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "product_badge_type": {
-          "id": 512,
-          "code": "TOP_YEAR",
-          "name": "365 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 7,
-            "language": "en",
-            "name": "Top Year"
-          },
-          {
-            "id": 8,
-            "language": "et",
-            "name": "Aasta Top"
-          },
-          {
-            "id": 9,
-            "language": "ru",
-            "name": "Топ года"
-          }
-        ]
-      }
-    ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/c1/32/c132dfb76b1c91524b5b257bf590e3c0_main_1.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 60,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 267
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 108,
-      "code": "DAYS_1_7",
-      "name": "alates 24h"
-    },
-    "languageType": {
-      "id": 111,
-      "code": "ET",
-      "name": "eestikeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2022,
-    "isbn": "9772806229015",
-    "ean": "9772806229015",
-    "tags": [],
-    "category": {
-      "id": 281,
-      "parent_id": 1299,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "TRANSPORT",
-      "translations": [
-        {
-          "id": 841,
-          "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 842,
-          "language": "en",
-          "name": "Transport & Motor Sports",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 843,
-          "language": "ru",
-          "name": "Транспорт",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 755141,
-      "name": "GEENIUS MEEDIA OÜ",
-      "thumbnail_image_url": null,
-      "slug": "geenius-meedia-oü"
-    },
-    "price": {
-      "price": 9.9,
-      "discount": 0,
-      "originalPrice": 9.9,
-      "retailUserPrice": 9.9
-    },
-    "stock_count": 9,
-    "slug": "200-kasutatud-autot-1-osa",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p style=\"text-align: justify;\">Kumb kasutatud auto on parem, kas Audi Q7 või BMW X5? Tahan osta\r\nVolkswagen Passatit aastast umbest 2010. Mis selle nõrgad kohad on? Miks sa\r\nmulle Mazdat soovitad, need ju roostetavad kõige hullemini üldse? Uued volvod\r\non nii ilusad, ma ostan niikuinii, aga milline mootor valida? Selliseid\r\nküsimusi kuuleb Autolehe toimetus sisuliselt igal nädalal. Vastused neile ja\r\npaljusid teisi mudeleid puudutavatele küsimustele leiabki sellest kogumikust.</p><p style=\"text-align: justify;\">Väljaande\r\nesimeses osas on ülevaade esimese 50 kasutatud auto kohta Alfa Romeost kuni\r\nHonda Civicuni.</p>",
-    "description_special": "",
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne eeldatavalt 09.05",
-      "date": "2023-05-09"
-    }
-  },
-  {
-    "id": 1591481,
-    "name": "TRANSPORDIVAHENDID, MIS MUUTSID MAAILMA",
-    "authors": [
-      {
-        "id": 1452329,
-        "name": "Štěpánka Sekaninová",
-        "nav_person_code": "A017508"
-      },
-      {
-        "id": 1467329,
-        "name": "Tom Velčovský",
-        "nav_person_code": "A032892"
-      }
-    ],
-    "product_badges": [
-      {
-        "id": 3,
-        "product_badge_type": {
-          "id": 512,
-          "code": "TOP_YEAR",
-          "name": "365 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 7,
-            "language": "en",
-            "name": "Top Year"
-          },
-          {
-            "id": 8,
-            "language": "et",
-            "name": "Aasta Top"
-          },
-          {
-            "id": 9,
-            "language": "ru",
-            "name": "Топ года"
-          }
-        ]
-      }
-    ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/c0/b2/c0b2c8e3628e25d537e0502faa38760f_main_2.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 62,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 257
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 108,
-      "code": "DAYS_1_7",
-      "name": "alates 24h"
-    },
-    "languageType": {
-      "id": 111,
-      "code": "ET",
-      "name": "eestikeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2021,
-    "isbn": "9789949081844",
-    "ean": "9789949081844",
-    "tags": [],
-    "category": {
-      "id": 281,
-      "parent_id": 1299,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "TRANSPORT",
-      "translations": [
-        {
-          "id": 841,
-          "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 842,
-          "language": "en",
-          "name": "Transport & Motor Sports",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 843,
-          "language": "ru",
-          "name": "Транспорт",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 3963,
-      "name": "SINISUKK",
-      "thumbnail_image_url": null,
-      "slug": "sinisukk"
-    },
-    "price": {
-      "price": 16.99,
-      "discount": 0,
-      "originalPrice": 16.99,
-      "retailUserPrice": 16.99
-    },
-    "stock_count": 37,
-    "slug": "transpordivahendid-mis-muutsid-maailma",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p style=\"text-align: justify;\">Me kõik reisime aeg-ajalt − kooli, teise linna sõbra juurde või puhkuse ajal sootuks mõnda võõrasse riiki. Aga kas sa oled kunagi mõelnud, kuidas reisiti mitu sajandit tagasi?</p>    <p style=\"text-align: justify;\">Raamatus „<strong>Transpordivahendid, mis muutsid maailma</strong>“ antakse ülevaade olulistest transpordivahenditega seotud verstapostidest: siin räägitakse tillukestest ideedest, mis viisid tehnoloogilise revolutsioonini, aga ka traagilistest õnnetustest, mis tõmbasid projektile jäädavalt kriipsu peale. </p>    <p style=\"text-align: justify;\">Raamatus tutvustatakse kõige kiiremaid, suuremaid, lahedamaid ja vastuolulisemaid masinaid, näiteks Boeing, Apollo 11 ja Titanic. </p>",
-    "description_special": "<p style=\"text-align: justify;\">Me kõik reisime aeg-ajalt − kooli, teise linna sõbra juurde või puhkuse ajal sootuks mõnda võõrasse riiki. Aga kas sa oled kunagi mõelnud, kuidas reisiti mitu sajandit tagasi?\r\n</p><p style=\"text-align: justify;\">Raamatus „<strong>Transpordivahendid, mis muutsid maailma</strong>“ antakse ülevaade olulistest transpordivahenditega seotud verstapostidest: siin räägitakse tillukestest ideedest, mis viisid tehnoloogilise revolutsioonini, aga ka traagilistest õnnetustest, mis tõmbasid projektile jäädavalt kriipsu peale.\r\n</p><p style=\"text-align: justify;\">Raamatus tutvustatakse kõige kiiremaid, suuremaid, lahedamaid ja vastuolulisemaid masinaid, näiteks Boeing, Apollo 11 ja Titanic.\r\n</p><p><img src=\"https://rahvaraamat-product-list.s3.us-east-2.amazonaws.com/8e/4e/8e4e61f980e5572386f9b375bdf4b78d_main_1.png\"></p>",
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne eeldatavalt 09.05",
-      "date": "2023-05-09"
-    }
-  },
-  {
-    "id": 1781547,
-    "name": "100 AASTAT BUSSILIIKLUST TARTUS",
-    "authors": [
-      {
-        "id": 1665196,
-        "name": "Alar Teemusk",
-        "nav_person_code": "A040241"
-      }
-    ],
-    "product_badges": [
-      {
-        "id": 2,
-        "product_badge_type": {
-          "id": 511,
-          "code": "TOP_MONTH",
-          "name": "30 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 4,
-            "language": "en",
-            "name": "Top 30 days"
-          },
-          {
-            "id": 5,
-            "language": "et",
-            "name": "Kuu Top"
-          },
-          {
-            "id": 6,
-            "language": "ru",
-            "name": "Топ месяца"
-          }
-        ]
-      },
-      {
-        "id": 3,
-        "product_badge_type": {
-          "id": 512,
-          "code": "TOP_YEAR",
-          "name": "365 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 7,
-            "language": "en",
-            "name": "Top Year"
-          },
-          {
-            "id": 8,
-            "language": "et",
-            "name": "Aasta Top"
-          },
-          {
-            "id": 9,
-            "language": "ru",
-            "name": "Топ года"
-          }
-        ]
-      }
-    ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/12/f1/12f1d45cbffd435a4d246d79b028e988_main_1.jpg",
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/0e/18/0e1859d4f45eb480c2171b1688ffd341_main_1.jpg",
     "thumb_file_resolution": {
       "thumbnail": {
         "width": 56,
@@ -762,51 +298,56 @@
       "name": "Raamat"
     },
     "year": 2022,
-    "isbn": "9789916414903",
-    "ean": "9789916414903",
+    "isbn": "9789916162828",
+    "ean": "9789916162828",
     "tags": [],
     "category": {
-      "id": 281,
-      "parent_id": 1299,
+      "id": 62,
+      "parent_id": 15,
       "root_id": 11,
       "level": 2,
-      "nav_code": "TRANSPORT",
+      "nav_code": "EESTAJAL",
       "translations": [
         {
-          "id": 841,
+          "id": 184,
           "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
+          "name": "Eesti ajalugu",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 842,
+          "id": 185,
           "language": "en",
-          "name": "Transport & Motor Sports",
+          "name": "Estonian History",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 843,
+          "id": 186,
           "language": "ru",
-          "name": "Транспорт",
+          "name": "История Эстонии",
           "product_count": null,
           "sequence": null
         }
       ]
     },
-    "publisher": null,
-    "price": {
-      "price": 24.99,
-      "discount": 0,
-      "originalPrice": 24.99,
-      "retailUserPrice": 24.99
+    "publisher": {
+      "id": 3279,
+      "name": "PEGASUS",
+      "thumbnail_image_url": null,
+      "slug": "pegasus"
     },
-    "stock_count": 18,
-    "slug": "100-aastat-bussiliiklust-tartus",
+    "price": {
+      "price": 22.5,
+      "discount": 0,
+      "originalPrice": 22.5,
+      "retailUserPrice": 22.5
+    },
+    "stock_count": 53,
+    "slug": "vana-tallinna-põnevad-lood",
     "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p style=\"text-align: justify;\">Augustis 2022 möödus 100 aastat bussiliikluse algusest Tartus. Antud raamat annab sel puhul ülevaate Tartu bussiliikluse ajaloost. See on teadaolevalt esimene raamat, mis vaatleb lähemalt Tartu transpordi olustikku perioodil 1900-1944. Peale seda keskendutakse bussiliikluse kujunemisele, tuues välja kõik tol ajal liine teenindanud ettevõtjad ja nende ajal toimunu. Selle ülevaate koostas transpordiajaloolane Riho Paramonov. Seejärel käsitletakse nõukogude perioodil toimunud arenguid bussiliikluses. Järgnevate perioodide kohta (1991-2022) on ülevaated vastavalt linnas sõitnud ettevõttele ja kehtinud liiniskeemile. Raamatus avaldatakse rohkelt ainulaadseid fotosid bussiliikluse arengust. Kokku on raamatus 115 pilti ja illustratsiooni. Lisaks arhiividele ja ajalehtedele on kasutatud samuti suulisi allikaid: staažikaid bussijuhte ja linna transporditöötajaid. Linna bussiliiklus on teema, mis puudutab paljusid. Raamat on mõeldud kõigile linna ajaloost huvituvatele linnaelanikele ja on huvipakkuv kindlasti transpordi vallas töötavatele inimestele. </p>",
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Tallinna kui linna sünnist on möödas 800 aastat. Siin Soome lahe kaldal on elatud aga aastatuhandeid varem. Iga põlvkond on jätnud oma jälje, kujundanud maastikku, ehitanud linna. Samas elanud ka oma igapäevast elu rõõmude ja muredega. Selle raamatu eesmärk ongi tuletada meelde mõned unustatud lood, aidata taaselustada kadunud Tallinna. </p><p style=\"text-align: justify;\">Viimase kümnendi jooksul on Jaak Juske kirjutanud terve rea raamatuid. Arvukalt vanu pealinna lugusid leiab tema 2012. aastal ilmunud raamatust „Lood unustatud Tallinnast“, samuti 2016. aastal trükivalgust näinud raamatust „100 põnevat lugu Tallinnast“. Neli aastat hiljem sai Lindanise lahingu aastapäeva puhul koondatud vanad lood pealkirja alla „800 aastat lugusid Tallinnast“. Käesolev raamat on omamoodi järjeks neile kõigile.<br></p>",
     "description_special": "",
     "delivery": {
       "meta": {
@@ -819,10 +360,66 @@
     }
   },
   {
-    "id": 1642708,
-    "name": "VEOAUTOJUHI ÕPPEMATERJAL 2022",
-    "authors": [],
+    "id": 1652722,
+    "name": "METSAVENNA KÄSIRAAMAT.  ELLUJÄÄMISÕPETUS",
+    "authors": [
+      {
+        "id": 1490378,
+        "name": "Alfred Käärmann",
+        "nav_person_code": "KÄÄRMANN ALFRED"
+      }
+    ],
     "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
       {
         "id": 3,
         "product_badge_type": {
@@ -849,15 +446,15 @@
         ]
       }
     ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/ec/18/ec18da647de35f12f5ae659d52074573_main_1.jpg",
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/d2/7f/d27f6538d49e44738673cdea52483a98_main_1.jpg",
     "thumb_file_resolution": {
       "thumbnail": {
-        "width": 56,
+        "width": 57,
         "height": 80
       },
       "main": {
         "width": 200,
-        "height": 285
+        "height": 281
       }
     },
     "availabilityType": {
@@ -881,56 +478,56 @@
       "name": "Raamat"
     },
     "year": 2022,
-    "isbn": "9789949745890",
-    "ean": "9789949745890",
+    "isbn": "9789916963180",
+    "ean": "9789916963180",
     "tags": [],
     "category": {
-      "id": 281,
-      "parent_id": 1299,
+      "id": 62,
+      "parent_id": 15,
       "root_id": 11,
       "level": 2,
-      "nav_code": "TRANSPORT",
+      "nav_code": "EESTAJAL",
       "translations": [
         {
-          "id": 841,
+          "id": 184,
           "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
+          "name": "Eesti ajalugu",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 842,
+          "id": 185,
           "language": "en",
-          "name": "Transport & Motor Sports",
+          "name": "Estonian History",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 843,
+          "id": 186,
           "language": "ru",
-          "name": "Транспорт",
+          "name": "История Эстонии",
           "product_count": null,
           "sequence": null
         }
       ]
     },
     "publisher": {
-      "id": 149,
-      "name": "AIDE AS",
+      "id": 3870,
+      "name": "SE&JS KIRJASTUS",
       "thumbnail_image_url": null,
-      "slug": "aide-as"
+      "slug": "se-js-kirjastus"
     },
     "price": {
-      "price": 19.5,
+      "price": 9.5,
       "discount": 0,
-      "originalPrice": 19.5,
-      "retailUserPrice": 19.5
+      "originalPrice": 9.5,
+      "retailUserPrice": 9.5
     },
-    "stock_count": 95,
-    "slug": "veoautojuhi-õppematerjal-2022",
+    "stock_count": 43,
+    "slug": "metsavenna-käsiraamat-ellujäämisõpetus",
     "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "",
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p><i>Et ellu jääda, tuleb õppida nägema, kuulma, mõtlema ja võitlema elu eest.<br></i>Alfred Käärmann</p>  <p style=\"text-align: justify;\">Kirjastuselt SE&JS ilmub legendaarse metsavenna Alfred Käärmanni (1922–2010) „<strong>Metsavenna käsiraamatu</strong>ˮ kolmas trükk, esimene oli 1999. aastal, teine aastal 2010. Miks otsustasime just nüüd raamatu taas välja anda? „Selle raamatu väärtus on mineviku aus esiletoomine, aatelisus ja jätkuva vastupanuvaimu vajaduse rõhutamine,ˮ kirjutas Enn Tarto varasema väljaande eessõnas. „Alfred Käärmanni „<strong>Metsavenna käsiraamatus</strong>ˮ sisalduv teave on vajalik riigikaitsjatele, kaitseliitlastele, õpilastele, kõigile.ˮ  </p>  <p style=\"text-align: justify;\">Alfred Käärmann on kirjutanud mitu raamatut, kuid nende hulgas üks armastatumaid on just „<strong>Metsavenna käsiraamat</strong>ˮ. Ta ellujäämisõpetus sisaldab lihtsat elutarkust, kuidas toime tulla ekstreemsetes olukordades, jääda alati iseendaks ja truuks Eestile. Ta õpetab käsitsema relvi ja ehitama kodu metsas, kui agressor ründab kodumaad. Raamatust loeme, kuidas ja milliseid toiduaineid on mõistlik varuda. Käärmanni kunagisi metsavenna kogemusi võib väga tarvis olla ajal, mil soe toit, joogivesi ja katus pea kohal tähendavad elu, õnne ja rahu. </p>  <p style=\"text-align: justify;\">Tema teadis, et „Surmavaenlane tuleb idast ja ta on olnud sama tuhat aastat.ˮ Ta kirjutas sellest juba üheksakümnendatel aastatel. Käärmann teadis isiklikust kogemusest, et väikerahvana peavad eestlased kõikidel aegadel säilitama tahte ja oskuse kaitsta ennast agressorist Surmavaenlase vastu. Ta võitles Teise maailmasõja rinnetel relvaga käes Eesti eest ja jätkas võitlust KGB operatiivvägede vastu metsavennana aastatel 1944–1952. Südi vastupanu punasele terrorile oli Käärmanni loomuses. Ta teadis, et priius ei ole iseenesestmõistetav nähtus. Käes olid juba 2000. aastad, rahuaastad, kuid Alfred Käärmann rääkis metsavendade kokkusaamisel Lätis ikka selsamal teemal: ärge unustage, et Surmavaenlane tuleb idast. Kuid sedakorda pidas ta oma kõne neljas keeles, mida ta valdas: eesti, läti, vene ja saksa. </p>  <p style=\"text-align: justify;\">Putini ja ta kagebiitidest seltsimeeste poolt algatatud sõda Ukrainas on inimsusevastane kuritegu, kus ilmneb Venemaa agressorile omane salakaval ja valelik propaganda ning julm terror. Kui täna on Surmavaenlase eesmärk ukraina rahva hävitamine, siis ka Balti riikide suunas kõlavad idast aina kõvemad ähvardused.  </p>  <p style=\"text-align: justify;\">Ukrainlased võitlevad erakordse vaprusega mitte üksnes enda maa ja rahva, vaid meie kõigi vabaduse eest. Ukraina kaitseväe vaprus lahingutes ja kogu rahva vankumatu üksmeel – sellest tunneme ära ukrainlase, tänase Euroopa tõelise kangelase. Ja kangelased, nagu on teada, ükskord võidavad niikuinii.  </p>  <p style=\"text-align: justify;\">„<strong>Metsavenna käsiraamatu</strong>ˮ järelsõnas kirjutab ajaloolane Martin Andreller: „Käärmanni juhiseid tuleb vaadata oma ajastu kontekstis, mida tänasesse üle kanda ei ole võimalik ega ka otstarbekas. Ometi jääb läbivalt kõlama mõte, millest juhinduda ja mida edasi kanda; idee, mis on jäänud ajas universaalseks ning on meid rahvuse ja riigina ka kõige raskematest aegadest läbi kandnud. Iga metsavenna viimane mõte ja sõna olgu järgmine: </p>  <p style=\"text-align: justify;\">Vaba Eesti eest surmani!ˮ       </p>  <p style=\"text-align: justify;\">Saatesõna Sirje Endre, järelsõna Martin Andreller (Eesti Mälu Instituut).<br>Fotod Alfred Käärmanni perekonnaarhiiv, Eesti Filmiarhiiv, Scanpix.</p>",
     "description_special": "",
     "delivery": {
       "meta": {
@@ -943,10 +540,66 @@
     }
   },
   {
-    "id": 1690700,
-    "name": "EESTI LAEVANDUSE AASTARAAMAT 2022",
-    "authors": [],
+    "id": 1754196,
+    "name": "TARTU OLULISED HÄVINUD EHITISED",
+    "authors": [
+      {
+        "id": 1482199,
+        "name": "Jaak Juske",
+        "nav_person_code": "INI010930"
+      }
+    ],
     "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
       {
         "id": 3,
         "product_badge_type": {
@@ -973,7 +626,857 @@
         ]
       }
     ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/7d/38/7d386a4a7745aa94a7eedf7b602172cc_main_1.jpg",
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/6d/21/6d216bf9ca6109e77b7c3cbbb76f66b8_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 54,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 299
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2022,
+    "isbn": "9789916702383",
+    "ean": "9789916702383",
+    "tags": [],
+    "category": {
+      "id": 62,
+      "parent_id": 15,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "EESTAJAL",
+      "translations": [
+        {
+          "id": 184,
+          "language": "et",
+          "name": "Eesti ajalugu",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 185,
+          "language": "en",
+          "name": "Estonian History",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 186,
+          "language": "ru",
+          "name": "История Эстонии",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 1759,
+      "name": "HEA LUGU",
+      "thumbnail_image_url": null,
+      "slug": "hea-lugu"
+    },
+    "price": {
+      "price": 22.5,
+      "discount": 0,
+      "originalPrice": 22.5,
+      "retailUserPrice": 22.5
+    },
+    "stock_count": 10,
+    "slug": "tartu-olulised-hävinud-ehitised",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Tartu esmamainimisest kirjalikes allikates  möödub 2030. aastal tuhat aastat. Iga ajastu on jätnud linnale oma jälje.  Emajõe-linn on sõdades ja suurtes tulekahjudes korduvalt põlenud, kuid alati  tuhast tõusnud. See raamat jutustab mitmekümnest Tartu ajaloos olulisest  ehitisest, mida enam pole.</p><p style=\"text-align: justify;\">  Lugeja saab ülevaate Tartu muutumistest ajas. Kadunud linna aitavad  taaselustada rohked vanad fotod ja pildid, mida enne hävingut jõuti hoonetest  teha, neid ajaloo jaoks jäädvustada. Nii mõnigi lugu saab räägitud just nende  kaudu. Aga raamatust leiab ka omaaegsed linnakaardid, sest kohati on  tänavavõrk oluliselt muutunud. Põnevad on väljavõtted vanadest  ajaleheartiklitest.<br><br>  Kuigi suur osa lugusid räägib vanalinnas või mujal linna südames asunud  hoonetest, tutvustatakse teistegi linnaosade ajalugu. Nii leiab raamatust  erineva funktsiooniga hooneid ja ehitisi: mõisaid, pühakodasid, sildu,  linnakindlustusi, kooli- ja rahvamaju, kasarmuid, hotelle ja vabaajaasutusi,  ranna- ja tööstushooneid. Neil kõigil on olnud oluline koht Tartu linnaruumis.<br><br>  Ajarännak kadunud Tartus võib alata!</p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1582519,
+    "name": "ESTONIA: A MODERN HISTORY",
+    "authors": [
+      {
+        "id": 1504884,
+        "name": "Neil Taylor",
+        "nav_person_code": "TAYLOR NEIL"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/28/a3/28a3dd49cfd8bb06458902848125611a_main_2.jpeg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 51,
+        "height": 80
+      },
+      "main": {
+        "width": 192,
+        "height": 300
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 112,
+      "code": "EN",
+      "name": "ingliskeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2020,
+    "isbn": "9781787383371",
+    "ean": "9781787383371",
+    "tags": [],
+    "category": {
+      "id": 62,
+      "parent_id": 15,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "EESTAJAL",
+      "translations": [
+        {
+          "id": 184,
+          "language": "et",
+          "name": "Eesti ajalugu",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 185,
+          "language": "en",
+          "name": "Estonian History",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 186,
+          "language": "ru",
+          "name": "История Эстонии",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 1869,
+      "name": "HURST & COMPANY",
+      "thumbnail_image_url": null,
+      "slug": "hurst-company"
+    },
+    "price": {
+      "price": 23.5,
+      "discount": 0,
+      "originalPrice": 23.5,
+      "retailUserPrice": 23.5
+    },
+    "stock_count": 2,
+    "slug": "estonia-a-modern-history",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">With only 1.3 million inhabitants, Estonia is one of Europe's least populous nations -- yet it boasts one of the continent's fastest growing economies. In the first serious English-language history of this small Baltic state, Neil Taylor charts Estonia's long, arduous journey to its present-day prosperity, through a thousand years of occupation by Danes, Swedes, Germans and Russians. </p><p style=\"text-align: justify;\">In the wake of the First World War, out of the heat of a national awakening and the collapse of the Russian and German empires, Estonia was recognised as an independent nation in 1920. This was not to last - the country was tossed between the Soviets and Nazis during the Second World War, then fully integrated into the USSR, bringing on more than half a century of renewed occupation and misery. But hopes of true independence never dimmed and, in 1991, the Republic of Estonia was restored. </p><p style=\"text-align: justify;\">This unflinching history includes charming moments of colour and levity, from ambassadorial reports on nude bathing and a presidential press conference deliberately held beside a dirty toilet, to the story of a blind pianist, the first foreigner allowed to visit the city of Tartu in the Soviet era.</p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1145743,
+    "name": "EESTI MAFFIA. ORGANISEERITUD KURITEGEVUSE SÜND TAASISESEISVUNUD EESTIS",
+    "authors": [
+      {
+        "id": 1478023,
+        "name": "Paavo Kangur",
+        "nav_person_code": "INI003455"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/ef/c8/efc87885b9517adf1d5c06ca5b56bf6c_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 56,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 287
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2018,
+    "isbn": "9789949725892",
+    "ean": "9789949725892",
+    "tags": [],
+    "category": {
+      "id": 62,
+      "parent_id": 15,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "EESTAJAL",
+      "translations": [
+        {
+          "id": 184,
+          "language": "et",
+          "name": "Eesti ajalugu",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 185,
+          "language": "en",
+          "name": "Estonian History",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 186,
+          "language": "ru",
+          "name": "История Эстонии",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 21377,
+      "name": "RAHVA RAAMAT",
+      "thumbnail_image_url": null,
+      "slug": "rahva-raamat"
+    },
+    "price": {
+      "price": 19.99,
+      "discount": 0,
+      "originalPrice": 19.99,
+      "retailUserPrice": 19.99
+    },
+    "stock_count": 217,
+    "slug": "eesti-maffia-organiseeritud-kuritegevuse-sünd-taasiseseisvunud-eestis",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Selle raamatu kirjutamise ajal sai läbi vaadatud tuhandeid lehekülgi toimikuid ja sadu ajakirjanduses ilmunud artikleid. Vaevalt, et toimikud, süüdistuskokkuvõtted ja kohtuotsused kirjeldavad täit tõde, aga püüame siiski anda edasi pildi, mis näitab võimalikult tõetruult neid hoogsaid sündmusi, mille vallandas Eesti Vabariigi taasiseseisvumine. Uurimise ja süüdistuste koostamise ajal on teinekord kasutada raudkindlad tõendid, kuid vahel vaid ebamäärased vihjed või teadlikult loodud valeinformatsioon.</p><p style=\"text-align: justify;\">Eesti organiseeritud kuritegevuse sünd jäädvustas end ajastu mällu kolme sündmusega: Kibuvitsa baari lahing, Neste bensiinijaama tulistamine ja Vabaduse väljaku pommiplahvatus.</p><p style=\"text-align: justify;\">Organiseeritud kuritegevus on linnalegend, ütles üks prokurör hiljuti ja kahjuks ei ole tal õigus. Vist. Pigem on õigus neil, kes arvavad, et suur osa Eesti kuritegevusest on väikeriigist välja kolinud, et seda juhitakse näiteks Hispaaniast ja see tegutseb näiteks Skandinaavias ja Soomes, olles olemuselt täiesti rahvusvahelistunud. Samas on otsitud ühist rahapotti, sest kui on maffia, siis võiks olla ka ühiskassa, millest lahendatakse ühiseid probleeme. Politsei ei ole leidnud Assar Pauluse rahapada ega Nikolai Tarankovi spordikotti dollaritega. Äkki seda polnudki?   </p>",
+    "description_special": "<p style=\"text-align: justify;\">Selle raamatu kirjutamise ajal sai läbi vaadatud tuhandeid lehekülgi toimikuid ja sadu ajakirjanduses ilmunud artikleid. Vaevalt, et toimikud, süüdistuskokkuvõtted ja kohtuotsused kirjeldavad täit tõde, aga püüame siiski anda edasi pildi, mis näitab võimalikult tõetruult neid hoogsaid sündmusi, mille vallandas Eesti Vabariigi taasiseseisvumine. Uurimise ja süüdistuste koostamise ajal on teinekord kasutada raudkindlad tõendid, kuid vahel vaid ebamäärased vihjed või teadlikult loodud valeinformatsioon.</p><p style=\"text-align: justify;\">Eesti organiseeritud kuritegevuse sünd jäädvustas end ajastu mällu kolme sündmusega: Kibuvitsa baari lahing, Neste bensiinijaama tulistamine ja Vabaduse väljaku pommiplahvatus.</p><p style=\"text-align: justify;\">Organiseeritud kuritegevus on linnalegend, ütles üks prokurör hiljuti ja kahjuks ei ole tal õigus. Vist. Pigem on õigus neil, kes arvavad, et suur osa Eesti kuritegevusest on väikeriigist välja kolinud, et seda juhitakse näiteks Hispaaniast ja see tegutseb näiteks Skandinaavias ja Soomes, olles olemuselt täiesti rahvusvahelistunud. Samas on otsitud ühist rahapotti, sest kui on maffia, siis võiks olla ka ühiskassa, millest lahendatakse ühiseid probleeme. Politsei ei ole leidnud Assar Pauluse rahapada ega Nikolai Tarankovi spordikotti dollaritega. Äkki seda polnudki?   </p>",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1655115,
+    "name": "EESTI VARJAAGIDE LUGU",
+    "authors": [
+      {
+        "id": 1506196,
+        "name": "Mart Vabar",
+        "nav_person_code": "VABAR MART"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/d2/12/d212ce13edcbc612f2b1494d97c1a1a3_main_1.png",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 54,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 297
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2022,
+    "isbn": "9789916410455",
+    "ean": "9789916410455",
+    "tags": [],
+    "category": {
+      "id": 62,
+      "parent_id": 15,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "EESTAJAL",
+      "translations": [
+        {
+          "id": 184,
+          "language": "et",
+          "name": "Eesti ajalugu",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 185,
+          "language": "en",
+          "name": "Estonian History",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 186,
+          "language": "ru",
+          "name": "История Эстонии",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 66,
+      "name": "AABITSAKUKK",
+      "thumbnail_image_url": null,
+      "slug": "aabitsakukk"
+    },
+    "price": {
+      "price": 2.99,
+      "discount": 0,
+      "originalPrice": 2.99,
+      "retailUserPrice": 2.99
+    },
+    "stock_count": 10,
+    "slug": "eesti-varjaagide-lugu",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Raamatu eesmärgiks on ärgitada mõtteid kunagi siinmail tegutsenud varangide, varjaagide üle, et nende pärandit tänases elus esile tõsta.<br><br>Eesti kohta algavad vähegi tihedamad kirjalikud ülestähendused suhteliselt hilja ning saagadega võrdväärne suuline pärimus on hävinud. Õnneks on meil räägitud järjepidevalt sama keelt mitu tuhat aastat: nii võime edukalt otsida teateid kauge mineviku kohta mitte ainult merepõhjast ning maapõuest, vaid ka maakeelest, eriti kohanimedest. Siinsete kaante vahele ongi kogutud mõned leiud sedasorti väljakaevamistelt.</p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1824003,
+    "name": "LIIVIMAA KROONIKA 1556–1562",
+    "authors": [
+      {
+        "id": 1686098,
+        "name": "Johann Renner",
+        "nav_person_code": "A041778"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/e4/44/e444cda57a30817cae06266f7b9d0cb2_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 70,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 228
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2023,
+    "isbn": "9789916173671",
+    "ean": "9789916173671",
+    "tags": [],
+    "category": {
+      "id": 62,
+      "parent_id": 15,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "EESTAJAL",
+      "translations": [
+        {
+          "id": 184,
+          "language": "et",
+          "name": "Eesti ajalugu",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 185,
+          "language": "en",
+          "name": "Estonian History",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 186,
+          "language": "ru",
+          "name": "История Эстонии",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 4223,
+      "name": "TÄNAPÄEV",
+      "thumbnail_image_url": null,
+      "slug": "tänapäev"
+    },
+    "price": {
+      "price": 31.99,
+      "discount": 0,
+      "originalPrice": 31.99,
+      "retailUserPrice": 31.99
+    },
+    "stock_count": 211,
+    "slug": "liivimaa-kroonika-1556-1562",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Saksa ordu ametniku Johann Renneri kirjatöö on Vene-Liivimaa sõja tähtsamaid allikaid, mille on paberile pannud sündmuste vahetu pealtnägija ja kaasaelaja. Alamsaksakeelne kroonika, mis algselt valmis 1562. aastal, jäi ligi neljaks sajandiks käsikirja, kuni Peter Karstedt selle 1953. aastal Saksamaal trükis avaldas. Kroonikat polnud tõlgitud ühtegi kaasaegsesse keelde, enne kui 1995. aastal ilmus selle eestindus Peter Karstedtilt laenatud pealkirjaga „Liivimaa ajalugu 1556–1561“. Käesolevaga jõuab lugeja kätte tõlke juba kolmas, kommenteeritud ja mõnevõrra kohendatud trükk, krooniku enda sõnul „hoiatuseks kõikidele vagadele inimestele.“</p><p style=\"text-align: justify;\">Tõlkija ajaloodoktor Ivar Leimus on Eesti ajaloomuuseumi mündikogu hoidja ja Tallinna ülikooli vanemteadur. Ta on uurinud mündi- ja rahaajalugu alates viikingiajast, eestindanud ja publitseerinud vanu tekste, tegelenud kesk- ja varauusaja majandus- ning kultuurilooga.</p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1691012,
+    "name": "TALLINNA MÕISAD JA MÕISAKESED",
+    "authors": [
+      {
+        "id": 1501923,
+        "name": "Alo Särg",
+        "nav_person_code": "SÄRG ALO"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/85/e7/85e787155314922a9e5646219b691809_main_1.jpg",
     "thumb_file_resolution": {
       "thumbnail": {
         "width": 56,
@@ -1005,56 +1508,56 @@
       "name": "Raamat"
     },
     "year": 2022,
-    "isbn": "9789949995837",
-    "ean": "9789949995837",
+    "isbn": "9789916704004",
+    "ean": "9789916704004",
     "tags": [],
     "category": {
-      "id": 281,
-      "parent_id": 1299,
+      "id": 62,
+      "parent_id": 15,
       "root_id": 11,
       "level": 2,
-      "nav_code": "TRANSPORT",
+      "nav_code": "EESTAJAL",
       "translations": [
         {
-          "id": 841,
+          "id": 184,
           "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
+          "name": "Eesti ajalugu",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 842,
+          "id": 185,
           "language": "en",
-          "name": "Transport & Motor Sports",
+          "name": "Estonian History",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 843,
+          "id": 186,
           "language": "ru",
-          "name": "Транспорт",
+          "name": "История Эстонии",
           "product_count": null,
           "sequence": null
         }
       ]
     },
     "publisher": {
-      "id": 3880,
-      "name": "SEKSTANT",
+      "id": 317,
+      "name": "ARGO",
       "thumbnail_image_url": null,
-      "slug": "sekstant"
+      "slug": "argo"
     },
     "price": {
-      "price": 13.5,
+      "price": 28.5,
       "discount": 0,
-      "originalPrice": 13.5,
-      "retailUserPrice": 13.5
+      "originalPrice": 28.5,
+      "retailUserPrice": 28.5
     },
-    "stock_count": 2,
-    "slug": "eesti-laevanduse-aastaraamat-2022",
+    "stock_count": 33,
+    "slug": "tallinna-mõisad-ja-mõisakesed",
     "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p style=\"text-align: justify;\">Vaatamata tormidest merel ja inimeste maailmas oleme ikkagi lootusrikkad tuleviku suhtes. Laevad arenevad edasi, täiustuvad, aitavad aina rohkem kaasa inimeste elule maal.</p>  <p style=\"text-align: justify;\">Eks laevanduse aastaraamatuski ole vastavaid teemasid, alates sellest kui laevad olid puust ning mehed rauast, seejärel mõlemad rauast ning kurss, mis viib lõpuks digimaailma.</p>",
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Mõis ja linn ei kuulu ilmtingimata kokku. Siiski on iga linnaga, eriti nii suurega nagu Tallinn, seotud mõisaid terve hulk. Tallinnal on alati olnud majandusmõisad, nn linnamõisad, mis varustasid linlasi kõige eluks vajalikuga. Pidevalt kasvades ja laienedes haaras linn enda alla ka ümberkaudseid rüütlimõisaid. Omaette rühma moodustasid suvemõisad, meie praeguste suvilate eelkäijad. Paljud neist olid populaarsed kuurordid, kus käisid puhkamas nimekad literaadid ja lausa kroonitud pead.\r\n</p><p style=\"text-align: justify;\">Mõnda suurt ja kuulsat Tallinna mõisat nagu Kadriorg ja Glehni loss teab igaüks, aga väiksemaid nende seast ei pruugi me praegu enam äragi tunda. Osa neist on saanud uue ilme või jäänud tänapäevase hoonestuse alla. See raamat tutvustab ohtra pildimaterjali saatel neid kõiki. Sirvimist ja uurimist hõlbustavad raamatusse lisatud täpsed asukohad ja üksikasjalikud kaardid, samuti mõisamaade omaaegsed plaanid.\r\n</p>",
     "description_special": "",
     "delivery": {
       "meta": {
@@ -1067,8 +1570,193 @@
     }
   },
   {
-    "id": 1837029,
-    "name": "200 KASUTATUD AUTOT 2.OSA",
+    "id": 1764096,
+    "name": "MOODSA ELU ÕPPETUNNID",
+    "authors": [
+      {
+        "id": 1480623,
+        "name": "Anu Kannike",
+        "nav_person_code": "INI008458"
+      },
+      {
+        "id": 1659453,
+        "name": "Madle Uibo",
+        "nav_person_code": "A039347"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/5e/24/5e24d2f471321552644435393fc0151a_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 55,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 289
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2022,
+    "isbn": "9789916704165",
+    "ean": "9789916704165",
+    "tags": [],
+    "category": {
+      "id": 62,
+      "parent_id": 15,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "EESTAJAL",
+      "translations": [
+        {
+          "id": 184,
+          "language": "et",
+          "name": "Eesti ajalugu",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 185,
+          "language": "en",
+          "name": "Estonian History",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 186,
+          "language": "ru",
+          "name": "История Эстонии",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 317,
+      "name": "ARGO",
+      "thumbnail_image_url": null,
+      "slug": "argo"
+    },
+    "price": {
+      "price": 35.99,
+      "discount": 0,
+      "originalPrice": 35.99,
+      "retailUserPrice": 35.99
+    },
+    "stock_count": 55,
+    "slug": "moodsa-elu-õppetunnid",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Käesolev raamat jutustab moodsa eluviisi omaksvõtust 20. sajandi alguskümnendite Eestis. Toonaste muutuste võlu, valu, kirgi ja vastuolusid kajastavad lood toidust, kommetest, kodust, ilust, tervisest ning kehakultuurist. Millised uuendused tekitasid inimestes imetlust ja ihalust, mis pahandas ja põhjustas vaidlusi? Kuidas moodne eluolu levis, kellest võeti eeskuju, kuidas kasvatati rahvast kultuursemaks ja euroopalikumaks? Kuidas muutusid ettekujutused kaasaegsest mehest ja naisest?</p>  <p style=\"text-align: justify;\">Toiduharjumused ja etikett, puhtus ja ilu ning arusaamad õigest ja korralikust kodust sünnitasid esimesel iseseisvusajal elavat avalikku arutelu. Survet viisipäraselt välja näha, käituda ja tarbida avaldasid nii riik kui kodanikuühendused, aga järjest enam ka äri ning reklaam. Nii mõnedki algul uudsed ja harjumatud maitsed, seltskondliku suhtluse vormid või kehaharjutused said ajapikku enesestmõistetavaks. Ometi püsisid visalt vana eluviisi „saarekesed“ ja kihistused. Hõõrdumised moodsa elulaadiga kohanemisel peegeldasid nii sotsiaalseid kui põlvkondlikke erijooni. Uute ja vanade moraalsete tõekspidamiste põrkumine väljendus eriti selgelt naiste kuvandi ja eneseteadvuse muutumises ning sellega kaasnenud kultuurilahingutes.</p>    <p style=\"text-align: justify;\">Etnoloogi, filosoofiadoktori ja Eesti Rahva Muuseumi vanemteaduri<strong> Anu Kannikese </strong>peamine uurimisvaldkond<strong> </strong>on 20. ja 21. sajandi argikultuur ja kultuuripärandi tõlgendused tänapäeval. </p>    Ajaloolane ja Tartu Linnamuuseumi teadur<strong> Madle Uibo</strong> uurib 20. sajandi argiajalugu ja suulist ajalugu.",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1802478,
+    "name": "EESTI MERENDUSE AJALUGU I OSA",
     "authors": [],
     "product_badges": [
       {
@@ -1147,15 +1835,15 @@
         ]
       }
     ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/c2/9c/c29c5fe2697d06498434c937e517122f_main_1.jpeg",
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/80/3a/803a72d38d3156a1f945ea8908eb3dcc_main_1.jpg",
     "thumb_file_resolution": {
       "thumbnail": {
-        "width": 59,
+        "width": 57,
         "height": 80
       },
       "main": {
         "width": 200,
-        "height": 270
+        "height": 282
       }
     },
     "availabilityType": {
@@ -1179,56 +1867,56 @@
       "name": "Raamat"
     },
     "year": 2023,
-    "isbn": "9772806229022",
-    "ean": "9772806229022",
+    "isbn": "9789985353967",
+    "ean": "9789985353967",
     "tags": [],
     "category": {
-      "id": 281,
-      "parent_id": 1299,
+      "id": 62,
+      "parent_id": 15,
       "root_id": 11,
       "level": 2,
-      "nav_code": "TRANSPORT",
+      "nav_code": "EESTAJAL",
       "translations": [
         {
-          "id": 841,
+          "id": 184,
           "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
+          "name": "Eesti ajalugu",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 842,
+          "id": 185,
           "language": "en",
-          "name": "Transport & Motor Sports",
+          "name": "Estonian History",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 843,
+          "id": 186,
           "language": "ru",
-          "name": "Транспорт",
+          "name": "История Эстонии",
           "product_count": null,
           "sequence": null
         }
       ]
     },
     "publisher": {
-      "id": 755141,
-      "name": "GEENIUS MEEDIA OÜ",
+      "id": 4597,
+      "name": "VARRAK",
       "thumbnail_image_url": null,
-      "slug": "geenius-meedia-oü"
+      "slug": "varrak"
     },
     "price": {
-      "price": 12.9,
+      "price": 34.5,
       "discount": 0,
-      "originalPrice": 12.9,
-      "retailUserPrice": 12.9
+      "originalPrice": 34.5,
+      "retailUserPrice": 34.5
     },
-    "stock_count": 34,
-    "slug": "200-kasutatud-autot-2osa",
+    "stock_count": 10,
+    "slug": "eesti-merenduse-ajalugu-i-osa",
     "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p style=\"text-align: justify;\">Kumb kasutatud auto on parem, kas Audi Q7 või BMW X5? Tahan osta\r\nVolkswagen Passatit aastast umbest 2010. Mis selle nõrgad kohad on? Miks sa\r\nmulle Mazdat soovitad, need ju roostetavad kõige hullemini üldse? Uued volvod\r\non nii ilusad, ma ostan niikuinii, aga milline mootor valida? Selliseid\r\nküsimusi kuuleb Autolehe toimetus sisuliselt igal nädalal. Vastused neile ja\r\npaljusid teisi mudeleid puudutavatele küsimustele leiabki sellest kogumikust.</p><p style=\"text-align: justify;\">Väljaande teises osas on ülevaade 50\r\nkasutatud auto kohta Honda CRV-st kuni Mercedes-Benz CLSini.</p>",
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Eesti merenduse ajalugu on saanud raamatuks. Koguteose I köide käsitleb selle olulisi teetähiseid alates esiajaloost kuni 1940. aastani.</p>  <p style=\"text-align: justify;\">Raamatu I osas annavad Jüri Vassiljev, Aivar Kriiska, Marika Mägi ja Kristin Ilves ülevaate Läänemere arengust ja meresõidu algusajast, mis hõlmab kivi-, raua- ja pronksiaega, sh saagadest tuntuks saanud viikingiperioodi. Merenduse edasist arengut, eriti Hansa aega kuni Vene-Liivi sõjani, valgustavad Jüri Kivimäe, Tõnu Raid, Kristin Ilves, Külvi Kuusk, Mirey Rütman ja Vello Mäss. Sõdade- ja sündmusterohke uusaja mõtestavad lahti Aldur Vunk, Jaan Lutt, Tõnu Tannberg, Külvi Kuusk, Erki Tammiksaar ja Bruno Pao. Eesti merenduse arengut 19. sajandi keskpaigast Esimese maailmasõjani kirjeldavad Bruno Pao, Reet Naber, Teele Saar, Ago Rullingo ja Aldur Vunk. Olulisimaid peatükke iseseisva Eesti riigi merenduse arengus käsitlevad põhjalikult Arto Oll, Reet Naber, Jaan Lutt, Hannes Vask, Raimo ja Risto Pullat, Teele Saar, Enn Kreem, Rein Albri ja Piret Hiie-Kivi. Teosele on eessõna kirjutanud Tarmo Soomere, sissejuhatused üksikosadele Tarmo Kõuts, Mart Meri, Mart Kuldkepp, Mart Laar ja Jüri Lember. </p>  <p style=\"text-align: justify;\">Kuigi raamat on mahukas ja sisutihe, ei suuda see kajastada kõiki sündmusi meie merenduse tormisest ajaloost, need peatükid tuleb kirja panna noorematel ajaloolastel. Ees seisab suur töö koguteose II köitega, kuhu saavad panustada parimad asjatundjad alates ajaloolastest ja merendusteadlastest kuni mereväelaste ja kapteniteni. Eesti merenduse ajalugu on mõeldud nii merenduse asjatundjatele, meremeheks pürgijatele kui ka kõigile huvilistele. Head lugemist! </p>",
     "description_special": "",
     "delivery": {
       "meta": {
@@ -1241,16 +1929,60 @@
     }
   },
   {
-    "id": 31178,
-    "name": "50 IDEEAUTOT",
-    "authors": [
-      {
-        "id": 1478413,
-        "name": "Margus-Hans Kuuse",
-        "nav_person_code": "INI004536"
-      }
-    ],
+    "id": 1799801,
+    "name": "KALEVI ALT VÄLJA",
+    "authors": [],
     "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
       {
         "id": 3,
         "product_badge_type": {
@@ -1277,15 +2009,15 @@
         ]
       }
     ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/2d/e0/2de0569acb8c14cc8b38292d54de9cd8_main_2.jpg",
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/04/f0/04f07b2032981beaa967664fad28a667_main_1.jpg",
     "thumb_file_resolution": {
       "thumbnail": {
-        "width": 80,
+        "width": 55,
         "height": 80
       },
       "main": {
         "width": 200,
-        "height": 199
+        "height": 290
       }
     },
     "availabilityType": {
@@ -1308,187 +2040,57 @@
       "code": "BOOK",
       "name": "Raamat"
     },
-    "year": 2010,
-    "isbn": "9789985986035",
-    "ean": "9789985986035",
+    "year": 2023,
+    "isbn": "9789916142196",
+    "ean": "9789916142196",
     "tags": [],
     "category": {
-      "id": 281,
-      "parent_id": 1299,
+      "id": 62,
+      "parent_id": 15,
       "root_id": 11,
       "level": 2,
-      "nav_code": "TRANSPORT",
+      "nav_code": "EESTAJAL",
       "translations": [
         {
-          "id": 841,
+          "id": 184,
           "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
+          "name": "Eesti ajalugu",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 842,
+          "id": 185,
           "language": "en",
-          "name": "Transport & Motor Sports",
+          "name": "Estonian History",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 843,
+          "id": 186,
           "language": "ru",
-          "name": "Транспорт",
+          "name": "История Эстонии",
           "product_count": null,
           "sequence": null
         }
       ]
     },
     "publisher": {
-      "id": 3440,
-      "name": "PRESSHOUSE OÜ",
+      "id": 21377,
+      "name": "RAHVA RAAMAT",
       "thumbnail_image_url": null,
-      "slug": "presshouse-oü"
+      "slug": "rahva-raamat"
     },
     "price": {
-      "price": 16.17,
+      "price": 22.99,
       "discount": 0,
-      "originalPrice": 16.17,
-      "retailUserPrice": 16.17
+      "originalPrice": 22.99,
+      "retailUserPrice": 22.99
     },
-    "stock_count": 57,
-    "slug": "50-ideeautot",
+    "stock_count": 316,
+    "slug": "kalevi-alt-välja",
     "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "Ideeautode loojad vaatavad alati hulk aastaid ette. Mis täna paistab ulmeline, võib aastate pärast seista tõepoolest tavakodaniku graa˛iteel. Muidugi mitte üks ühele, teinekord vaid mõne tehnilise lahenduse või disainivõttena, kuid unistustest on siiski saanud reaalsus.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne eeldatavalt 09.05",
-      "date": "2023-05-09"
-    }
-  },
-  {
-    "id": 1604789,
-    "name": "AUTOMOTOKROONIKA. TSAARIAEG",
-    "authors": [
-      {
-        "id": 1593847,
-        "name": "René Levoll",
-        "nav_person_code": "A033586"
-      }
-    ],
-    "product_badges": [
-      {
-        "id": 3,
-        "product_badge_type": {
-          "id": 512,
-          "code": "TOP_YEAR",
-          "name": "365 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 7,
-            "language": "en",
-            "name": "Top Year"
-          },
-          {
-            "id": 8,
-            "language": "et",
-            "name": "Aasta Top"
-          },
-          {
-            "id": 9,
-            "language": "ru",
-            "name": "Топ года"
-          }
-        ]
-      }
-    ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/b4/14/b414e6623b177b1f4c186b0203bcbac1_main_1.jpeg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 56,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 284
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 108,
-      "code": "DAYS_1_7",
-      "name": "alates 24h"
-    },
-    "languageType": {
-      "id": 111,
-      "code": "ET",
-      "name": "eestikeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2021,
-    "isbn": "9789916407868",
-    "ean": "9789916407868",
-    "tags": [],
-    "category": {
-      "id": 281,
-      "parent_id": 1299,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "TRANSPORT",
-      "translations": [
-        {
-          "id": 841,
-          "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 842,
-          "language": "en",
-          "name": "Transport & Motor Sports",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 843,
-          "language": "ru",
-          "name": "Транспорт",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 752371,
-      "name": "PIKO HOBIKROSS OÜ",
-      "thumbnail_image_url": null,
-      "slug": "piko-hobikross-oü"
-    },
-    "price": {
-      "price": 99.99,
-      "discount": 0,
-      "originalPrice": 99.99,
-      "retailUserPrice": 99.99
-    },
-    "stock_count": 7,
-    "slug": "automotokroonika-tsaariaeg",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p style=\"text-align: justify;\">Käsitleb Eesti ja omaaegse tsaari Venemaa Balti kubermangus\r\ntoimunud auto-moto ajalugu. Raamat on põhjalik teatmeteos, rohkete fotode ja\r\nviidetega arhiividele.</p>",
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\"><strong>„Kalevi alt välja. LGBT+ inimeste lugusid 19. ja 20 sajandi Eestist“ </strong>väljaandmise aastal tähistame Eestis homoseksuaalsuse dekriminaliseerimise 30. aastapäeva: 1. juunil 1992. aastal jõustus taasiseseisvunud Eesti Vabariigi kriminaalkoodeks, milles meeste homoseksuaalseid suhteid enam ei keelatud. Viimase kümnekonna aasta jooksul on hakatud uurima Eesti soo- ja seksuaalvähemuste ajalugu ning Eesti avalikkus on LGBT+ inimesed ja teemad üha enam omaks võtnud. Lootuses, et oma kaasaja mõtestamisel võib ajaloo tundmisest abi olla, on nende kaante vahele kogutud lesbide, geide ja biseksuaalsete ning transsooliste ja ennast sooliselt mittebinaarselt väljendavate inimeste lugusid 19. ja 20. sajandist kaheteistkümne autori sulest. Olgu raamat abiks nii LGBT+ inimeste kui ka Eesti ajaloo mõistmisel uuest vaatevinklist!</p>",
     "description_special": "",
     "delivery": {
       "meta": {
@@ -1501,13 +2103,13 @@
     }
   },
   {
-    "id": 1607619,
-    "name": "MOOTORLAEVAMUDELID EESTI MEREMUUSEUMI KOGUS",
+    "id": 1783444,
+    "name": "TALLINNA OLULISED HÄVINUD EHITISED",
     "authors": [
       {
-        "id": 1487095,
-        "name": "Mihkel Karu",
-        "nav_person_code": "INI017679"
+        "id": 1482199,
+        "name": "Jaak Juske",
+        "nav_person_code": "INI010930"
       }
     ],
     "product_badges": [
@@ -1562,259 +2164,7 @@
         ]
       }
     ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/5b/dd/5bdd11d2091678ffaec25c79b1e1a714_main_1.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 96,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 166
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 108,
-      "code": "DAYS_1_7",
-      "name": "alates 24h"
-    },
-    "languageType": [],
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2021,
-    "isbn": "9789949740178",
-    "ean": "9789949740178",
-    "tags": [],
-    "category": {
-      "id": 281,
-      "parent_id": 1299,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "TRANSPORT",
-      "translations": [
-        {
-          "id": 841,
-          "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 842,
-          "language": "en",
-          "name": "Transport & Motor Sports",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 843,
-          "language": "ru",
-          "name": "Транспорт",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 13437,
-      "name": "EESTI MEREMUUSEUM",
-      "thumbnail_image_url": null,
-      "slug": "eesti-meremuuseum"
-    },
-    "price": {
-      "price": 20.99,
-      "discount": 0,
-      "originalPrice": 20.99,
-      "retailUserPrice": 20.99
-    },
-    "stock_count": 19,
-    "slug": "mootorlaevamudelid-eesti-meremuuseumi-kogus",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p style=\"text-align: justify;\"><span class=\"normaltextrun\">Kataloogis on esitatud valik mootorlaevamudeleid Eesti Meremuuseumi kogudest. Nende hulgas on nii kauba-, kala- kui ka reisilaevu. Lisaks annab kataloog ülevaate mootorlaevanduse ajaloost ja meremuuseumi mootorlaevamudelite kogu kujunemisest ning tutvustab paljude mudelite autori ja meistri kapten Olev Roesi elu ja tegevust. </span><span class=\"eop\"> <u5:p></u5:p></span></p>  <p style=\"text-align: justify;\" rel=\"text-align: justify;\"><u5:p> </u5:p></p>  <p style=\"text-align: justify;\"><span class=\"normaltextrun\">The catalogue contains a selection of motor ship models from the collections of the Estonian Maritime Museum. They include cargo, fishing and passenger vessels. The catalogue also gives an overview of the history of motorized maritime transport and the development of the Estonian Maritime Museum's collection of motor ship models<strong>; </strong>in addition it<strong> </strong>introduces the life and work of Olev Roes, the author and master of many of the models.</span><span class=\"eop\"> <u5:p></u5:p></span></p>  <u5:p></u5:p>",
-    "description_special": "",
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne eeldatavalt 09.05",
-      "date": "2023-05-09"
-    }
-  },
-  {
-    "id": 1607620,
-    "name": "AURULAEVAMUDELID EESTI MEREMUUSEUMI KOGUS",
-    "authors": [
-      {
-        "id": 1485752,
-        "name": "Teele Saar",
-        "nav_person_code": "INI015947"
-      }
-    ],
-    "product_badges": [
-      {
-        "id": 3,
-        "product_badge_type": {
-          "id": 512,
-          "code": "TOP_YEAR",
-          "name": "365 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 7,
-            "language": "en",
-            "name": "Top Year"
-          },
-          {
-            "id": 8,
-            "language": "et",
-            "name": "Aasta Top"
-          },
-          {
-            "id": 9,
-            "language": "ru",
-            "name": "Топ года"
-          }
-        ]
-      }
-    ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/a8/6d/a86d3087416ebd42091ba6d5e1b548bc_main_1.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 100,
-        "height": 79
-      },
-      "main": {
-        "width": 200,
-        "height": 157
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 108,
-      "code": "DAYS_1_7",
-      "name": "alates 24h"
-    },
-    "languageType": [],
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2021,
-    "isbn": "9789949740185",
-    "ean": "9789949740185",
-    "tags": [],
-    "category": {
-      "id": 281,
-      "parent_id": 1299,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "TRANSPORT",
-      "translations": [
-        {
-          "id": 841,
-          "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 842,
-          "language": "en",
-          "name": "Transport & Motor Sports",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 843,
-          "language": "ru",
-          "name": "Транспорт",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 13437,
-      "name": "EESTI MEREMUUSEUM",
-      "thumbnail_image_url": null,
-      "slug": "eesti-meremuuseum"
-    },
-    "price": {
-      "price": 20.99,
-      "discount": 0,
-      "originalPrice": 20.99,
-      "retailUserPrice": 20.99
-    },
-    "stock_count": 11,
-    "slug": "aurulaevamudelid-eesti-meremuuseumi-kogus",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p style=\"text-align: justify;\">Kataloog heidab pilgu Eesti Meremuuseumi kogudes olevatele\r\naurulaeva mudelitele ja nende valmimislugudele. Koos lugudega mudelitest\r\nkäsitletakse ka mudelimeistrite elu- ja kujunemisteed. Eestlastele kuulunud\r\naurikud olid enamasti ostetud järelturult, mistõttu võib kataloogi võõrkeelne\r\nlugeja endalegi ootamatuid „vanu tuttavaid“ leida.<br></p><p><u5:p></u5:p></p><p style=\"text-align: justify;\" rel=\"text-align: justify;\"><span class=\"normaltextrun\">This catalogue showcases models of steamships from the collections of the Estonian Maritime Museum and the stories behind them. Through stories about models, you can learn about the professional and personal lives of some of the best known modellists. The steamships owned by Estonians were rarely new, which is why a foreign reader of this catalogue may well come across a few “old friends”.</span><u5:p></u5:p>  <u5:p></u5:p><br></p>",
-    "description_special": "",
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne eeldatavalt 09.05",
-      "date": "2023-05-09"
-    }
-  },
-  {
-    "id": 775906,
-    "name": "MILITAARRAUDTEED EESTIS",
-    "authors": [
-      {
-        "id": 1485313,
-        "name": "Mehis Helme",
-        "nav_person_code": "INI015331"
-      }
-    ],
-    "product_badges": [
-      {
-        "id": 3,
-        "product_badge_type": {
-          "id": 512,
-          "code": "TOP_YEAR",
-          "name": "365 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 7,
-            "language": "en",
-            "name": "Top Year"
-          },
-          {
-            "id": 8,
-            "language": "et",
-            "name": "Aasta Top"
-          },
-          {
-            "id": 9,
-            "language": "ru",
-            "name": "Топ года"
-          }
-        ]
-      }
-    ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/21/78/21780226161de8311f4c02fa13dae17f_main_2.jpg",
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/84/0a/840abeebdf653b9a9e78e74160437836_main_1.png",
     "thumb_file_resolution": {
       "thumbnail": {
         "width": 56,
@@ -1822,7 +2172,7 @@
       },
       "main": {
         "width": 200,
-        "height": 284
+        "height": 288
       }
     },
     "availabilityType": {
@@ -1845,58 +2195,58 @@
       "code": "BOOK",
       "name": "Raamat"
     },
-    "year": 2016,
-    "isbn": "9789949974627",
-    "ean": "9789949974627",
+    "year": 2022,
+    "isbn": "9789916702697",
+    "ean": "9789916702697",
     "tags": [],
     "category": {
-      "id": 281,
-      "parent_id": 1299,
+      "id": 62,
+      "parent_id": 15,
       "root_id": 11,
       "level": 2,
-      "nav_code": "TRANSPORT",
+      "nav_code": "EESTAJAL",
       "translations": [
         {
-          "id": 841,
+          "id": 184,
           "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
+          "name": "Eesti ajalugu",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 842,
+          "id": 185,
           "language": "en",
-          "name": "Transport & Motor Sports",
+          "name": "Estonian History",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 843,
+          "id": 186,
           "language": "ru",
-          "name": "Транспорт",
+          "name": "История Эстонии",
           "product_count": null,
           "sequence": null
         }
       ]
     },
     "publisher": {
-      "id": 1595,
-      "name": "GO GROUP AS",
+      "id": 1759,
+      "name": "HEA LUGU",
       "thumbnail_image_url": null,
-      "slug": "go-group-as"
+      "slug": "hea-lugu"
     },
     "price": {
-      "price": 16.3,
+      "price": 23.5,
       "discount": 0,
-      "originalPrice": 16.3,
-      "retailUserPrice": 16.3
+      "originalPrice": 23.5,
+      "retailUserPrice": 23.5
     },
-    "stock_count": 7,
-    "slug": "militaarraudteed-eestis",
+    "stock_count": 30,
+    "slug": "tallinna-olulised-hävinud-ehitised",
     "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p style=\"text-align: justify;\">Mehis Helme eesti- ja inglise keelne raamat „<strong>Militaarraudteed Eestis</strong>“ sisaldab unikaalset informatsiooni Eestis tegutsenud militaarotsarbelistest raudteedest läbi kahe maailmasõja ja sõjajärgse perioodi. Käsitletud on nii raudteede ehitust ja ekspluatatsiooni kui ka nende rajatisi ning veeremit. Autor on esile toonud ka militaarraudteid millest seni on teadnud vaid vähesed ja kirjutatud pole üldse. Raamatus on rikkalikult skeeme, kaarte ja fotosid, mis annavad lugejale tõepärase ettekujutuse raamatus käsitletud valdkonnast. Valdav osa raamatu sisust jääb I maailmasõja perioodi ja esimese Eesti Vabariigi aegadesse ning väiksem osa II maailmasõja aega ja selle järgsesse perioodi. <br>Raamat on kindlasti huvipakkuv nii militaar- kui raudteeajaloo huvilistele.</p>",
-    "description_special": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Menuki teine, täiendatud trükk!</p><p style=\"text-align: justify;\">  Tallinna kindlast esmamainimisest kirjalikes allikates möödus 2019. aastal  kaheksa sajandit. Muinasaegne asustus ulatub siinkandis aga enam kui 5000  aasta taha. Nii on inimesed tänase Eesti pealinna alal tuhandete aastate  jooksul kas peatunud või elanud, kujundades maastikku ning rajades erinevaid  ehitisi. Nii nagu on igavikku kadunud kümned põlvkonnad, nii on hävinud ka  tuhanded kunagised siinsed hooned. Jaak Juske raamat toob teieni Tallinna  sadakonna olulise ja eripärase ehitise saatuse. Nii mõneski peatükis on juttu  rohkem kui ühe hoone ajaloost, sest tihti on samas lähikonnas hävinud mitu  üksteisega seotud objekti. Autor valis välja ehitised, mis on kas täielikult  hävinud või on neist alles vaid mõni üksik müürijupp, pargipuu, aiapost.<br>  Raamatust leiab erineva funktsiooniga hooneid ja ehitisi: mõisaid, pühakodasid,  sildu ja laululavasid, erinevad linnakindlustusi, kooli- ja rahvamaju,  kasarmuid, hotelle ja vabaajaasutusi, villasid, ranna- ja tööstushooneid. Neil  kõigil on olnud omas ajas oluline koht Tallinna linnaruumis. Lisatud on rida  vanu fotosid ja pilte ehitistest, mida enne hävingut jõuti jäädvustada, samuti  omaaegsed linnakaardid, sest kohati on tänavavõrk oluliselt muutunud.  Ajarännak kadunud Tallinnas võib alata!</p>",
+    "description_special": "",
     "delivery": {
       "meta": {
         "name": "Rahva Raamatu kauplus",
@@ -1908,9 +2258,170 @@
     }
   },
   {
-    "id": 600435,
-    "name": "BUSSIJUHI ÕPPEMATERJAL",
-    "authors": [],
+    "id": 1393529,
+    "name": "PÄRNU KADUNUD VAATED",
+    "authors": [
+      {
+        "id": 1498108,
+        "name": "Aare Olander",
+        "nav_person_code": "OLANDER AARE"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/a9/a1/a9a19f446964d48968e80cb55e436286_main_2.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 67,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 240
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2022,
+    "isbn": "9789949858118",
+    "ean": "9789949858118",
+    "tags": [],
+    "category": {
+      "id": 62,
+      "parent_id": 15,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "EESTAJAL",
+      "translations": [
+        {
+          "id": 184,
+          "language": "et",
+          "name": "Eesti ajalugu",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 185,
+          "language": "en",
+          "name": "Estonian History",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 186,
+          "language": "ru",
+          "name": "История Эстонии",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 4223,
+      "name": "TÄNAPÄEV",
+      "thumbnail_image_url": null,
+      "slug": "tänapäev"
+    },
+    "price": {
+      "price": 41.99,
+      "discount": 0,
+      "originalPrice": 41.99,
+      "retailUserPrice": 41.99
+    },
+    "stock_count": 271,
+    "slug": "pärnu-kadunud-vaated",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\"><strong></strong><strong>„Kadunud vaadete“</strong> sarja seitsmes raamat on Pärnust. Linna rikkalik ajalugu pakub arhitektuuri erinevatest sajanditest ja stiilidest, siin on näiteid Rootsi võimu ajalt, aga ka sakslaste ja venelaste toodud mõjutusi oma kodumaalt, rääkimata XX sajandi funkarhitektuuri laialt tuntud näidetest. Raamatus on umbes 1500 ajaloolist ja kaasaegset pilti, millel kujutatud kesklinn, silla lähem ümbrus Ülejõel, puiesteed kesklinna ümber, rannavillade rajoon ning supelrand.</p><p style=\"text-align: justify;\">Sarjas on varem ilmunud raamatud:</p><p style=\"text-align: justify;\">„Kadunud vaated“ (Tallinn)</p><p style=\"text-align: justify;\">„Tartu kadunud vaated“</p><p style=\"text-align: justify;\">„Viljandi kadunud vaated“</p><p style=\"text-align: justify;\">„Valga, Tõrva ja Otepää kadunud vaated“</p><p style=\"text-align: justify;\">„Võrumaa kadunud vaated“</p><p style=\"text-align: justify;\">„Põlvamaa kadunud vaated“</p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1635411,
+    "name": "ESTONIA SALADUSED",
+    "authors": [
+      {
+        "id": 1438614,
+        "name": "J.k. Tamminen",
+        "nav_person_code": "A003475"
+      }
+    ],
     "product_badges": [
       {
         "id": 3,
@@ -1938,7 +2449,342 @@
         ]
       }
     ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/13/f1/13f14c8e911577d4d8a5699b836a9698_main_2.jpg",
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/fe/9f/fe9f0c9117f1f2054a2c9f3725ec8e69_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 56,
+        "height": 80
+      },
+      "main": {
+        "width": 200,
+        "height": 288
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2022,
+    "isbn": "9789949082278",
+    "ean": "9789949082278",
+    "tags": [],
+    "category": {
+      "id": 62,
+      "parent_id": 15,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "EESTAJAL",
+      "translations": [
+        {
+          "id": 184,
+          "language": "et",
+          "name": "Eesti ajalugu",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 185,
+          "language": "en",
+          "name": "Estonian History",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 186,
+          "language": "ru",
+          "name": "История Эстонии",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 3963,
+      "name": "SINISUKK",
+      "thumbnail_image_url": null,
+      "slug": "sinisukk"
+    },
+    "price": {
+      "price": 26.99,
+      "discount": 0,
+      "originalPrice": 26.99,
+      "retailUserPrice": 26.99
+    },
+    "stock_count": 170,
+    "slug": "estonia-saladused",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Parvlaeva Estonia uppumine 28. septembril 1994. aastal vapustas kogu maailma. 989-st pardalolijast uppus 852. Estonia juhtumit on uuritud laeva uppumise hetkest saati ning selle kohta on kogunenud pidevalt uut ja vastuolulist tõendusmaterjali. Kas me ka päriselt teame, mis ja miks juhtus?</p>    <p style=\"text-align: justify;\">J. K. Tammineni raamat vaatleb Estoniaga juhtunut uuest perspektiivist, pakkudes infot, mida varem pole avaldatud. Raamat on jagatud kolme ossa: esimene kirjeldab suurõnnetuse tausta ja õnnetuse ööl juhtunud sündmusi, teise on lisatud Estonia uurimiskomisjoni endise esimehe Margus Kurmi 2020. aastal peetud ettekanne ja viimane osa sisaldab raamatu autori aastate jooksul tehtud intervjuusid. </p>    <p style=\"text-align: justify;\">„<strong>Estonia saladused</strong>“ puudutab parvlaev Estonia uppumisega seotud asjaolusid, millest seni on avalikkuses vaikitud. </p>    <p style=\"text-align: justify;\">J. K. Tamminen on Eestis elav kirjanik, jurist ja teoloog, kelle sulest on ilmunud üks krimitriloogia ja mitmeid mitteilukirjanduslikke teoseid. Eesti keeles on varem ilmunud tema „Mees Pasilast“.</p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1827715,
+    "name": "VABADUSE HIND",
+    "authors": [
+      {
+        "id": 1490378,
+        "name": "Alfred Käärmann",
+        "nav_person_code": "KÄÄRMANN ALFRED"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/f1/40/f1405eea6f06e1bd9be8681b101ce5ec_main_1.jpg",
+    "thumb_file_resolution": {
+      "thumbnail": {
+        "width": 53,
+        "height": 80
+      },
+      "main": {
+        "width": 198,
+        "height": 300
+      }
+    },
+    "availabilityType": {
+      "id": 103,
+      "code": "AVAILABLE",
+      "name": "Product is available"
+    },
+    "deliveryTimeType": {
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
+    },
+    "languageType": {
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
+    },
+    "type": {
+      "id": 148,
+      "code": "BOOK",
+      "name": "Raamat"
+    },
+    "year": 2023,
+    "isbn": "9789916980330",
+    "ean": "9789916980330",
+    "tags": [],
+    "category": {
+      "id": 62,
+      "parent_id": 15,
+      "root_id": 11,
+      "level": 2,
+      "nav_code": "EESTAJAL",
+      "translations": [
+        {
+          "id": 184,
+          "language": "et",
+          "name": "Eesti ajalugu",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 185,
+          "language": "en",
+          "name": "Estonian History",
+          "product_count": null,
+          "sequence": null
+        },
+        {
+          "id": 186,
+          "language": "ru",
+          "name": "История Эстонии",
+          "product_count": null,
+          "sequence": null
+        }
+      ]
+    },
+    "publisher": {
+      "id": 3870,
+      "name": "SE&JS KIRJASTUS",
+      "thumbnail_image_url": null,
+      "slug": "se-js-kirjastus"
+    },
+    "price": {
+      "price": 19.99,
+      "discount": 0,
+      "originalPrice": 19.99,
+      "retailUserPrice": 19.99
+    },
+    "stock_count": 57,
+    "slug": "vabaduse-hind",
+    "_highlight": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p><i>Mälestusi surmavaenlase vangilaagritest Siberis ja Mordvas</i></p>    <p style=\"text-align: justify;\">Alfred Käärmanni (1922–2010) Võrumaa legendaarse metsavenna põhimõte oli, et mees peab oma elus hakkama saama iga olukorra ja iga tööga. „Minu põlvkond kasvas üles Vabadussõja võidu vaimus ja kindlustundes, et kõik on ja jääbki nii.” Ta ise oli vabaduse vaimu mehisemaid kandjaid nii elus, metsades end varjates kui ka Venemaa vangilaagrites. </p>  <p style=\"text-align: justify;\">Raamatust leiate Alfred Käärmanni mälestusi ta vangivõtmisest NKVD hävituspataljoni poolt 1952. aasta sügisel ja elust Venemaa põhjatutes laagrites Siberis ja Mordvas 1953–1967. Käärmann kirjeldab masendavat vangielu GULAGi laagrites üksikasjalise täpsuse ja sarkasmiga, aga alati mingi erilise rahuga. „Vangide seltskond oli Mordva suures meestelaagris esinduslik, peaga poisid Baltikumist, Lääne-Ukrainast, Moskva noored mässumeelsed.” Alfred Käärmann oli kindel, et Vene terroristlik režiim temast jagu ei saa. Ega saanudki. Alfredi poeg Asso kirjutab raamatus unustamatust õhtust novembris 1967, mil isa Venemaa vangilaagrist koju jõudis. </p>  <p style=\"text-align: justify;\">1990. aastatel osales Alfred energiliselt Eesti Vabariigi taastamisel, ta oli Eesti Kongressi saadik ja Kaitseliidu üks taasloojaid. Tema kohta võib öelda, et Käärmann oli inimesena sama otsustuskindel, nagu eestlased, kes kunagi kuulutasid välja Eesti Vabariigi ja võitlesid selle riigi eest Vabadussõjas. </p>  <p style=\"text-align: justify;\"><strong>Katkend teosest: </strong></p>  <p style=\"text-align: justify;\">Alfred Käärmann: Mordva 7. laagris hakati vange ükshaaval poliitkasvatuse ülema juurde vestlusele kutsuma. Kutsuti ka mind ja esitati küsimus: „Kas tunnete Juri Gagarinit?” - „Ei tunne,” vastasin. „Kuidas ei tunne meest, kes käis kosmoses?” - „Aga kas tema mind tunneb? Kas ja kus ta käis, seda mina ei tea.” - Ülem sai nüüd väga pahaseks: „Gagarin ei peagi teid tundma. Olete vang, riiklik kurjategija! Kas te lehti ei loe?” - „Loen ikka. Ka seda, et meil enam üle 15 aasta pikkuseid karistusi ei ole. Aga mul on ikka veel 25 + 5.” - Sellega meie „kasvatuslik” vestlus kiiresti lõppes.</p>",
+    "description_special": "",
+    "delivery": {
+      "meta": {
+        "name": "Rahva Raamatu kauplus",
+        "code": "RR_SHOP",
+        "type": "DEFAULT"
+      },
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
+    }
+  },
+  {
+    "id": 1651615,
+    "name": "TOOME TULED",
+    "authors": [
+      {
+        "id": 1503753,
+        "name": "Lauri Sommer",
+        "nav_person_code": "SOMMER LAURI"
+      }
+    ],
+    "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "product_badge_type": {
+          "id": 512,
+          "code": "TOP_YEAR",
+          "name": "365 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 7,
+            "language": "en",
+            "name": "Top Year"
+          },
+          {
+            "id": 8,
+            "language": "et",
+            "name": "Aasta Top"
+          },
+          {
+            "id": 9,
+            "language": "ru",
+            "name": "Топ года"
+          }
+        ]
+      }
+    ],
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/df/be/dfbe04191d88866d4812cc206454dcb4_main_1.jpg",
     "thumb_file_resolution": {
       "thumbnail": {
         "width": 55,
@@ -1969,58 +2815,58 @@
       "code": "BOOK",
       "name": "Raamat"
     },
-    "year": 2014,
-    "isbn": "9789949915569",
-    "ean": "9789949915569",
+    "year": 2022,
+    "isbn": "9789949686544",
+    "ean": "9789949686544",
     "tags": [],
     "category": {
-      "id": 281,
-      "parent_id": 1299,
+      "id": 62,
+      "parent_id": 15,
       "root_id": 11,
       "level": 2,
-      "nav_code": "TRANSPORT",
+      "nav_code": "EESTAJAL",
       "translations": [
         {
-          "id": 841,
+          "id": 184,
           "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
+          "name": "Eesti ajalugu",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 842,
+          "id": 185,
           "language": "en",
-          "name": "Transport & Motor Sports",
+          "name": "Estonian History",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 843,
+          "id": 186,
           "language": "ru",
-          "name": "Транспорт",
+          "name": "История Эстонии",
           "product_count": null,
           "sequence": null
         }
       ]
     },
     "publisher": {
-      "id": 149,
-      "name": "AIDE AS",
+      "id": 2719,
+      "name": "MENU KIRJASTUS",
       "thumbnail_image_url": null,
-      "slug": "aide-as"
+      "slug": "menu-kirjastus"
     },
     "price": {
-      "price": 17.14,
+      "price": 27.99,
       "discount": 0,
-      "originalPrice": 17.14,
-      "retailUserPrice": 17.14
+      "originalPrice": 27.99,
+      "retailUserPrice": 27.99
     },
-    "stock_count": 5,
-    "slug": "bussijuhi-õppematerjal",
+    "stock_count": 30,
+    "slug": "toome-tuled",
     "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "<p>Bussi õpperaamat on mõeldud kasutamiseks D kategooria sõidukite juhtide ettevalmistamisel ning juba töötava juhi enesetäiendamisel.&nbsp;</p><p>Raamatus antakse ülevaade autobusside SCANIA ja VOLVO ehitusest ja tehnohooldusest. Samuti tutvustatakse sõitjateveo korda. Antakse soovitusi busside ohutuks juhtimiseks.</p>",
-    "description_special": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">\"Toome tuled\" valgustavad Tartu salasoppe ja pajatavad uut selle linna poeetidest (Alliksaar, Masing, Hirv jt). Jälgitakse vaimu ja sydame vastasmängu läbi muutliku aja. Kahekymnendaist lähiminevikku ulatuv dokumentaalne loostik on põimitud unenägude, paljude piltide, luule ja autori eluseikadega. <br>\r\n</p>",
+    "description_special": "",
     "delivery": {
       "meta": {
         "name": "Rahva Raamatu kauplus",
@@ -2032,16 +2878,66 @@
     }
   },
   {
-    "id": 1614944,
-    "name": "КОРАБЛИ. ИЛЛЮСТРИРОВАННАЯ ЭНЦИКЛОПЕДИЯ",
+    "id": 1016725,
+    "name": "PASTORAAT. ÜHE BALTISAKSA SUGUVÕSA LUGU",
     "authors": [
       {
-        "id": 1501213,
-        "name": "Дэвид Росс",
-        "nav_person_code": "ROSS D-EVID"
+        "id": 1443310,
+        "name": "Cord  Aschenbrenner",
+        "nav_person_code": "A008286"
       }
     ],
     "product_badges": [
+      {
+        "id": 1,
+        "product_badge_type": {
+          "id": 510,
+          "code": "TOP_WEEK",
+          "name": "7 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 1,
+            "language": "en",
+            "name": "Top 7 days"
+          },
+          {
+            "id": 2,
+            "language": "et",
+            "name": "Nädala Top"
+          },
+          {
+            "id": 3,
+            "language": "ru",
+            "name": "Топ недели"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "product_badge_type": {
+          "id": 511,
+          "code": "TOP_MONTH",
+          "name": "30 days top"
+        },
+        "product_badge_translations": [
+          {
+            "id": 4,
+            "language": "en",
+            "name": "Top 30 days"
+          },
+          {
+            "id": 5,
+            "language": "et",
+            "name": "Kuu Top"
+          },
+          {
+            "id": 6,
+            "language": "ru",
+            "name": "Топ месяца"
+          }
+        ]
+      },
       {
         "id": 3,
         "product_badge_type": {
@@ -2068,15 +2964,15 @@
         ]
       }
     ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/30/1a/301a72fa5e76b4eea316e7ab11cfa8f4_main_1.jpeg",
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/bc/66/bc66f7439a17a3a5828fc292970c1aa4_main_2.jpg",
     "thumb_file_resolution": {
       "thumbnail": {
-        "width": 60,
+        "width": 55,
         "height": 80
       },
       "main": {
         "width": 200,
-        "height": 265
+        "height": 291
       }
     },
     "availabilityType": {
@@ -2090,67 +2986,67 @@
       "name": "alates 24h"
     },
     "languageType": {
-      "id": 113,
-      "code": "RU",
-      "name": "venekeelne"
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
     },
     "type": {
       "id": 148,
       "code": "BOOK",
       "name": "Raamat"
     },
-    "year": 2021,
-    "isbn": "9785171384999",
-    "ean": "9785171384999",
+    "year": 2017,
+    "isbn": "9789949607310",
+    "ean": "9789949607310",
     "tags": [],
     "category": {
-      "id": 281,
-      "parent_id": 1299,
+      "id": 62,
+      "parent_id": 15,
       "root_id": 11,
       "level": 2,
-      "nav_code": "TRANSPORT",
+      "nav_code": "EESTAJAL",
       "translations": [
         {
-          "id": 841,
+          "id": 184,
           "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
+          "name": "Eesti ajalugu",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 842,
+          "id": 185,
           "language": "en",
-          "name": "Transport & Motor Sports",
+          "name": "Estonian History",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 843,
+          "id": 186,
           "language": "ru",
-          "name": "Транспорт",
+          "name": "История Эстонии",
           "product_count": null,
           "sequence": null
         }
       ]
     },
     "publisher": {
-      "id": 382,
-      "name": "AST",
+      "id": 317,
+      "name": "ARGO",
       "thumbnail_image_url": null,
-      "slug": "ast"
+      "slug": "argo"
     },
     "price": {
-      "price": 36.99,
+      "price": 7.5,
       "discount": 0,
-      "originalPrice": 36.99,
-      "retailUserPrice": 36.99
+      "originalPrice": 7.5,
+      "retailUserPrice": 7.5
     },
-    "stock_count": 1,
-    "slug": "корабли-иллюстрированная-энциклопедия",
+    "stock_count": 20,
+    "slug": "pastoraat-ühe-baltisaksa-suguvõsa-lugu",
     "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "Это уникальный справочник по кораблям и подводным лодкам, в том числе военным, торговым и пассажирским судам, - от возникновения судостроения до наших дней. В книге представлены все известные типы кораблей и подводных лодок мира. Сотри цветных рисунков сопровождаются детальной информацией о стране, времени создания, типе корабля и его технических характеристиках.",
-    "description_special": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Kirikhärra, kirikuõpetaja, pastor... Need sõnad tekitavad eestlastes mingit ebamäärast vaenu, trotsi või ängi, neid seostatakse tänini mõisasunni, võõra võimu, rahvusliku survega. Ometi ei tohiks tähelepanuta jääda töö, mida valdavalt baltisakslastest vaimulikud tegid eestlaste seas hariduse ja kirjasõna levitamiseks ning vaeste ja väetite hoolekandeks. Ka omas ajas pälvis nii mõnigi neist oma koguduse siira lugupidamise ja isegi armastuse. Vahel püsisid pastoraadid isade, poegade ja pojapoegade käes aastakümneid, lähendades neid veelgi enam kohalikule rahvale. Kiriklate roll ja tähtsus Eesti ajaloos on suuresti veel avastamata ja avamata.</p><p style=\"text-align: justify;\">See raamat jutustab kaheksast sugupõlvest Hoerschelmannidest enam kui kahesaja aasta vältel, mil nad Eestis vaimulikena töötasid. Esimesena neist saabus siia 1768. aastal ühe Tüüringi pastori poeg Ernst August Wilhelm, et hakata õpetajaks Tallinna gümnaasiumis. Sealtpeale Hoerschelmannid aina jutlustasid, ristisid, leeritasid, laulatasid, matsid, lohutasid ja jagasid lootust. Edendasid koole, õpetasid muusikat ja arendasid kohalikku ajakirjandust. Sündisid, kasvasid, armusid, abiellusid, said järglasi, vananesid, surid ja maeti ka ise, kõike seda ikka siin, Eestis. Pidasid kirikumõisaid, kuid jätkasid oma tööd ka siis, kui mõisaid enam polnud. Lõpuks tuli koos teiste baltisakslastega lahkuda, ent Hoerschelmannide kaheksandasse põlvkonda kuuluv Paul-Gerhard naasis taasiseseisvunud Eestisse, et juhtida aastatel 1996–1998 rektorina EELK Usuteaduse Instituuti ja rajada siin pastoraalseminar.</p><p style=\"text-align: justify;\">Cord Aschenbrenner on Hamburgis elav ja töötav kirjanik, ajakirjanik ning ajakirjandusõppejõud. Teos sai 2016. aastal Saksamaal maineka, Tallinnas sündinud kunstiajaloolase Georg Dehio järgi nimetatud raamatuauhinna.</p>",
+    "description_special": "",
     "delivery": {
       "meta": {
         "name": "Rahva Raamatu kauplus",
@@ -2162,13 +3058,13 @@
     }
   },
   {
-    "id": 869939,
-    "name": "BIG BOOK OF BOAT CANVAS: A COMPLETE GUIDE TO FABRIC WORK ON BOATS",
+    "id": 1700471,
+    "name": "BALTISAKSLASE MÄLESTUSED VABADUSSÕJAST JA II MAAILMASÕJAST SÕDURI, LAAGRIVALVURI JA VANGINA",
     "authors": [
       {
-        "id": 469671,
-        "name": "Karen Lipe",
-        "nav_person_code": "A038380"
+        "id": 1633418,
+        "name": "Nicolai Klawan",
+        "nav_person_code": "A036610"
       }
     ],
     "product_badges": [
@@ -2198,7 +3094,7 @@
         ]
       }
     ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/d7/21/d721bf4944d1023c2298d4815aa4f2e1_main_3.jpg",
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/2b/ba/2bba26501e5e3deda73b01ae54facce8_main_1.jpg",
     "thumb_file_resolution": {
       "thumbnail": {
         "width": 56,
@@ -2206,7 +3102,7 @@
       },
       "main": {
         "width": 200,
-        "height": 285
+        "height": 284
       }
     },
     "availabilityType": {
@@ -2215,220 +3111,90 @@
       "name": "Product is available"
     },
     "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
     },
     "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
     },
     "type": {
       "id": 148,
       "code": "BOOK",
       "name": "Raamat"
     },
-    "year": 1991,
-    "isbn": "9780070380004",
-    "ean": "9780070380004",
+    "year": 2022,
+    "isbn": "9789949605569",
+    "ean": "9789949605569",
     "tags": [],
     "category": {
-      "id": 281,
-      "parent_id": 1299,
+      "id": 62,
+      "parent_id": 15,
       "root_id": 11,
       "level": 2,
-      "nav_code": "TRANSPORT",
+      "nav_code": "EESTAJAL",
       "translations": [
         {
-          "id": 841,
+          "id": 184,
           "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
+          "name": "Eesti ajalugu",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 842,
+          "id": 185,
           "language": "en",
-          "name": "Transport & Motor Sports",
+          "name": "Estonian History",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 843,
+          "id": 186,
           "language": "ru",
-          "name": "Транспорт",
+          "name": "История Эстонии",
           "product_count": null,
           "sequence": null
         }
       ]
     },
     "publisher": {
-      "id": 685990,
-      "name": "McGraw-Hill Education - Europe",
+      "id": 1649,
+      "name": "GRENADER GRUPP",
       "thumbnail_image_url": null,
-      "slug": "mcgraw-hill-education-europe"
+      "slug": "grenader-grupp"
     },
     "price": {
-      "price": 28.89,
+      "price": 20.99,
       "discount": 0,
-      "originalPrice": 28.89,
-      "retailUserPrice": 28.89
+      "originalPrice": 20.99,
+      "retailUserPrice": 20.99
     },
-    "stock_count": 2,
-    "slug": "big-book-of-boat-canvas-a-complete-guide-to-fabric-work-on-boats",
+    "stock_count": 41,
+    "slug": "baltisakslase-mälestused-vabadussõjast-ja-ii-maailmasõjast-sõduri-laagrivalvuri-ja-vangina",
     "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "Covers almost everything you need to know to sew comfort, utility, and style into your boat. This book features many traditional canvas projects: sail covers, awnings, duffel bags, dodgers, and Biminis, wind chutes, and winter covers. It also includes many fabric projects: custom interior cushions, fitted sheets and daycovers, and more.",
-    "description_special": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\"><strong></strong><strong>Baltisakslase Nicolai Klawani</strong> (1901-1991) mälestused tema pikast ja seiklusrohkest elust, mille ta pani kirja 80-aastasena, need hämmastavad detailirohkuse ja sündmuste ajalise ning ajaloolise täpsusega.</p>  <p style=\"text-align: justify;\">Tsoorust Heedo talust pärit Klawan viibis Vabadussõjas Balti pataljoni võitlejana Narva rindel. Kirjeldatud on sõdurielu ja lahingusündmuste kirjeldusi Pagari, Mäetaguse ja Iisaku mõisa juures, Kuremäe kloostris, Vasknarvas ja teisel pool Narva jõge.</p>  <p style=\"text-align: justify;\">1939. aasta sügisel pidi ta oma kodu maha jätma ja Saksamaale siirduma. Sõja puhkedes sai Nicolai Klawanist Relva-SSi ohvitser. Ta määrati „tööle” Stutthofi koonduslaagrisse praeguse Põhja-Poola alal. Stutthof oli hitlerlik koonduslaager Poolas 1939‒1945 (aastani 1942 SS-i erilaager), kus peeti kinni umbes 120 000 inimest 24 maalt (enamik Baltimaadest), neist hävitati või hukkus 85 000.</p>  <p style=\"text-align: justify;\">Klawani ausalt kirja pandud meenutused Stutthofi laagrist ja selle elust on eestlasest lugejale väga huvitavad. Teatavasti oli Stutthofi erilaager määratud Baltimaade, Taani ja Norra kodanikele, selles viibisid ka homod, mustlased ja Jehoova tunnistajad.</p>  <p style=\"text-align: justify;\">Tema teenistus laagris blokijuhina kestis peaaegu sõja lõpuni. Kui Nõukogude ja Poola väed 1945. aasta kevadel laagri vabastasid, poodi kogu laagri personal samas kohas üles. Nicolai Klawan oli aga enne seda laagrist lahkunud, sest evakueeris rongiga vange Mauthauseni surmalaagrisse, seal langes ta ameeriklaste kätte vangi ja istus viis aastat vangis, peamiselt Poolas. Surmanuhtlust talle ei määratud, kuna ta polnud kogu laagriteenistuse jooksul kedagi isegi mitte löönud, ja tema suhtes polnud endistel vangidel mingeid kaebusi.</p>  <p style=\"text-align: justify;\">Hiljem õnnestus tal oma perega liituda ja elada kõrge vanuseni.</p>",
+    "description_special": "",
     "delivery": {
       "meta": {
         "name": "Rahva Raamatu kauplus",
         "code": "RR_SHOP",
         "type": "DEFAULT"
       },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
     }
   },
   {
-    "id": 876932,
-    "name": "BOATBUILDING WITH ALUMINUM",
+    "id": 1700470,
+    "name": "VABADUSSÕDA SÕNAS JA PILDIS",
     "authors": [
       {
-        "id": 215701,
-        "name": "Stephen Pollard",
-        "nav_person_code": "A039498"
-      }
-    ],
-    "product_badges": [
-      {
-        "id": 3,
-        "product_badge_type": {
-          "id": 512,
-          "code": "TOP_YEAR",
-          "name": "365 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 7,
-            "language": "en",
-            "name": "Top Year"
-          },
-          {
-            "id": 8,
-            "language": "et",
-            "name": "Aasta Top"
-          },
-          {
-            "id": 9,
-            "language": "ru",
-            "name": "Топ года"
-          }
-        ]
-      }
-    ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/d6/38/d638a8d123a493ef0c845c679bed7b27_main_3.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 62,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 260
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2007,
-    "isbn": "9780071443180",
-    "ean": "9780071443180",
-    "tags": [],
-    "category": {
-      "id": 281,
-      "parent_id": 1299,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "TRANSPORT",
-      "translations": [
-        {
-          "id": 841,
-          "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 842,
-          "language": "en",
-          "name": "Transport & Motor Sports",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 843,
-          "language": "ru",
-          "name": "Транспорт",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 505981,
-      "name": "International Marine Publishing Co",
-      "thumbnail_image_url": null,
-      "slug": "international-marine-publishing-co"
-    },
-    "price": {
-      "price": 68,
-      "discount": 0,
-      "originalPrice": 68,
-      "retailUserPrice": 68
-    },
-    "stock_count": 2,
-    "slug": "boatbuilding-with-aluminum",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "Aluminum is a suitable boatbuilding material - light, economical, maintenance-free, and easy to work with. This title offers you information needed about working with this material, from welding to fitting out and painting.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 1678670,
-    "name": "ABARTH",
-    "authors": [
-      {
-        "id": 226968,
-        "name": "Daniele Buzzonetti",
-        "nav_person_code": "A042270"
+        "id": 1493383,
+        "name": "Mart Laar",
+        "nav_person_code": "LAAR MART"
       }
     ],
     "product_badges": [
@@ -2483,15 +3249,15 @@
         ]
       }
     ],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/9b/07/9b077ae7a841e54fe37306ec943831da_main_2.jpg",
+    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/2c/01/2c01a5ebc3d9e75fae700565f2ac4b02_main_1.jpg",
     "thumb_file_resolution": {
       "thumbnail": {
-        "width": 68,
+        "width": 64,
         "height": 80
       },
       "main": {
         "width": 200,
-        "height": 235
+        "height": 252
       }
     },
     "availabilityType": {
@@ -2500,362 +3266,80 @@
       "name": "Product is available"
     },
     "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
+      "id": 108,
+      "code": "DAYS_1_7",
+      "name": "alates 24h"
     },
     "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
+      "id": 111,
+      "code": "ET",
+      "name": "eestikeelne"
     },
     "type": {
       "id": 148,
       "code": "BOOK",
       "name": "Raamat"
     },
-    "year": 2019,
-    "isbn": "9788877921680",
-    "ean": "9788877921680",
+    "year": 2022,
+    "isbn": "9789949605552",
+    "ean": "9789949605552",
     "tags": [],
     "category": {
-      "id": 281,
-      "parent_id": 1299,
+      "id": 62,
+      "parent_id": 15,
       "root_id": 11,
       "level": 2,
-      "nav_code": "TRANSPORT",
+      "nav_code": "EESTAJAL",
       "translations": [
         {
-          "id": 841,
+          "id": 184,
           "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
+          "name": "Eesti ajalugu",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 842,
+          "id": 185,
           "language": "en",
-          "name": "Transport & Motor Sports",
+          "name": "Estonian History",
           "product_count": null,
           "sequence": null
         },
         {
-          "id": 843,
+          "id": 186,
           "language": "ru",
-          "name": "Транспорт",
+          "name": "История Эстонии",
           "product_count": null,
           "sequence": null
         }
       ]
     },
     "publisher": {
-      "id": 755298,
-      "name": "Artioli Editore",
+      "id": 1649,
+      "name": "GRENADER GRUPP",
       "thumbnail_image_url": null,
-      "slug": "artioli-editore"
+      "slug": "grenader-grupp"
     },
     "price": {
-      "price": 93.52,
+      "price": 49.99,
       "discount": 0,
-      "originalPrice": 93.52,
-      "retailUserPrice": 93.52
+      "originalPrice": 49.99,
+      "retailUserPrice": 49.99
     },
-    "stock_count": 3,
-    "slug": "abarth",
+    "stock_count": 31,
+    "slug": "vabadussõda-sõnas-ja-pildis",
     "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": null,
-    "description_special": null,
+    "categoryPath": "Raamatud/Ajalugu ja poliitika/Eesti ajalugu",
+    "description": "<p style=\"text-align: justify;\">Suuremahuline pildialbum Vabadussõjast – Eesti Vabariigi ja Nõukogude Venemaa vahelisest relvakonfliktist, mis kestis 28. novembrist 1918 kuni 2. veebruarini 1920. Lisaks hõlmas see sõda Lõuna-Eestis ja Põhja-Lätis vahemikus 1919. aasta 5. juunist kuni 3. juulini peetud Landesveeri sõda baltisaksa väekoondiste vastu.</p>  <p style=\"text-align: justify;\">Raamatusse on pika ettevalmistustöö jooksul koondatud fotode jt illustratsioonide paremik. Allikateks on peamiselt Eesti mäluasutused, aga ka mõned erakogud. Esitatud on ka Vabadussõjale eelnenud sündmused, mis olid proloogiks iseseisva Eesti riigi tekkele. Raamatu lõpetavad fotod Vabadusristi Vendade päevadest jt üritustest ning Vabadussõja monumentide taasavamistest alates 1988. aastast.</p>",
+    "description_special": "",
     "delivery": {
       "meta": {
         "name": "Rahva Raamatu kauplus",
         "code": "RR_SHOP",
         "type": "DEFAULT"
       },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 1523510,
-    "name": "TITANIC THE SHIP MAGNIFICENT - VOLUME ONE",
-    "authors": [
-      {
-        "id": 557526,
-        "name": "Art Braunschweiger",
-        "nav_person_code": "A041850"
-      },
-      {
-        "id": 1458416,
-        "name": "Bruce Beveridge",
-        "nav_person_code": "A023775"
-      },
-      {
-        "id": 1458418,
-        "name": "Scott Andrews",
-        "nav_person_code": "A023777"
-      },
-      {
-        "id": 1458419,
-        "name": "Steve Hall",
-        "nav_person_code": "A023778"
-      },
-      {
-        "id": 1458417,
-        "name": "Daniel Klistorner",
-        "nav_person_code": "A023776"
-      }
-    ],
-    "product_badges": [
-      {
-        "id": 3,
-        "product_badge_type": {
-          "id": 512,
-          "code": "TOP_YEAR",
-          "name": "365 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 7,
-            "language": "en",
-            "name": "Top Year"
-          },
-          {
-            "id": 8,
-            "language": "et",
-            "name": "Aasta Top"
-          },
-          {
-            "id": 9,
-            "language": "ru",
-            "name": "Топ года"
-          }
-        ]
-      }
-    ],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9780750968317",
-    "ean": "9780750968317",
-    "tags": [],
-    "category": {
-      "id": 281,
-      "parent_id": 1299,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "TRANSPORT",
-      "translations": [
-        {
-          "id": 841,
-          "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 842,
-          "language": "en",
-          "name": "Transport & Motor Sports",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 843,
-          "language": "ru",
-          "name": "Транспорт",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 746259,
-      "name": "The History Press Ltd",
-      "thumbnail_image_url": null,
-      "slug": "the-history-press-ltd"
-    },
-    "price": {
-      "price": 102.02,
-      "discount": 0,
-      "originalPrice": 102.02,
-      "retailUserPrice": 102.02
-    },
-    "stock_count": 2,
-    "slug": "titanic-the-ship-magnificent-volume-one",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "Volume Two covers the interior design and fitting out of the ship and presents detailed deck-by-deck information, from the palatial rooms of First Class to areas of the ship seen only by the crew.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 1523511,
-    "name": "TITANIC THE SHIP MAGNIFICENT - VOLUME TWO",
-    "authors": [
-      {
-        "id": 557526,
-        "name": "Art Braunschweiger",
-        "nav_person_code": "A041850"
-      },
-      {
-        "id": 1458416,
-        "name": "Bruce Beveridge",
-        "nav_person_code": "A023775"
-      },
-      {
-        "id": 1458418,
-        "name": "Scott Andrews",
-        "nav_person_code": "A023777"
-      },
-      {
-        "id": 1458419,
-        "name": "Steve Hall",
-        "nav_person_code": "A023778"
-      },
-      {
-        "id": 1458417,
-        "name": "Daniel Klistorner",
-        "nav_person_code": "A023776"
-      }
-    ],
-    "product_badges": [
-      {
-        "id": 3,
-        "product_badge_type": {
-          "id": 512,
-          "code": "TOP_YEAR",
-          "name": "365 days top"
-        },
-        "product_badge_translations": [
-          {
-            "id": 7,
-            "language": "en",
-            "name": "Top Year"
-          },
-          {
-            "id": 8,
-            "language": "et",
-            "name": "Aasta Top"
-          },
-          {
-            "id": 9,
-            "language": "ru",
-            "name": "Топ года"
-          }
-        ]
-      }
-    ],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9780750968324",
-    "ean": "9780750968324",
-    "tags": [],
-    "category": {
-      "id": 281,
-      "parent_id": 1299,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "TRANSPORT",
-      "translations": [
-        {
-          "id": 841,
-          "language": "et",
-          "name": "Autod, lennukid, laevad, mootorrattad",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 842,
-          "language": "en",
-          "name": "Transport & Motor Sports",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 843,
-          "language": "ru",
-          "name": "Транспорт",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 746259,
-      "name": "The History Press Ltd",
-      "thumbnail_image_url": null,
-      "slug": "the-history-press-ltd"
-    },
-    "price": {
-      "price": 102.02,
-      "discount": 0,
-      "originalPrice": 102.02,
-      "retailUserPrice": 102.02
-    },
-    "stock_count": 2,
-    "slug": "titanic-the-ship-magnificent-volume-two",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Tehnika/Autod, lennukid, laevad, mootorrattad",
-    "description": "Volume Two covers the interior design and fitting out of the ship and presents detailed deck-by-deck information, from the palatial rooms of First Class to areas of the ship seen only by the crew.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
+      "message": "Tarne eeldatavalt 09.05",
+      "date": "2023-05-09"
     }
   }
 ]

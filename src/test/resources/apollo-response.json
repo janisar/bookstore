@@ -1,2027 +1,3887 @@
-[
-  {
-    "id": 681340,
-    "name": "DON MCCULLIN",
-    "authors": [
-      {
-        "id": 1078296,
-        "name": "Don Mccullin",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/89/ed/89ed4d65cabb87e59127b1cab5742519_main_3.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 76,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 209
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2015,
-    "isbn": "9781910702017",
-    "ean": "9781910702017",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 747072,
-      "name": "Vintage Publishing",
-      "thumbnail_image_url": null,
-      "slug": "vintage-publishing"
-    },
-    "price": {
-      "price": 85.02,
-      "discount": 0,
-      "originalPrice": 85.02,
-      "retailUserPrice": 85.02
-    },
-    "stock_count": 7,
-    "slug": "don-mccullin",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "The updated retrospective published for McCullin's 80th birthday. Contains 40 new unpublished photographs and a new introduction - the definitive edition.   McCullin's reputation has long been established as one of the greatest photographers of conflict in the last century.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
+{
+  "took": 3,
+  "timed_out": false,
+  "_shards": {
+    "total": 5,
+    "successful": 5,
+    "skipped": 0,
+    "failed": 0
   },
-  {
-    "id": 682070,
-    "name": "STEPHEN SHORE: SURVIVORS IN UKRAINE",
-    "authors": [
+  "hits": {
+    "total": 103,
+    "max_score": 0,
+    "hits": [
       {
-        "id": 161870,
-        "name": "Stephen Shore",
-        "nav_person_code": null
-      },
-      {
-        "id": 178240,
-        "name": "Jane Kramer",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/e8/1f/e81f52cb334786b32c8b1101ee218bbd_main_2.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 59,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 271
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2015,
-    "isbn": "9780714869506",
-    "ean": "9780714869506",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
+        "_index": "apollo_magento_catalog_et_1683343801",
+        "_type": "product",
+        "_id": "78030",
+        "_score": 0,
+        "_source": {
+          "entity_type_id": "4",
+          "attribute_set_id": 9,
+          "type_id": "simple",
+          "sku": "2083219",
+          "created_at": "2014-04-17 18:49:36",
+          "updated_at": "2014-04-17 20:26:56",
+          "id": 78030,
+          "options_container": "container2",
+          "url_key": "suhtesolmed",
+          "url_path": "suhtesolmed.html",
+          "small_image": "/9/7/9789949953219.jpg.jpg",
+          "thumbnail": "/9/7/9789949953219.jpg.jpg",
+          "image": "/9/7/9789949953219.jpg.jpg",
+          "image_label": null,
+          "small_image_label": null,
+          "thumbnail_label": null,
+          "zanr": "",
+          "e_format": "",
+          "name": "Suhtesõlmed",
+          "from": "",
+          "studio": "",
+          "lavastaja": "",
+          "actor": "",
+          "audio_text": "",
+          "max_ale": "0",
+          "kujundaja": "",
+          "lk": "368",
+          "tolk": "",
+          "toim": "",
+          "kirjastus": "Legend",
+          "ribakood": "9789949953219",
+          "illustr": "",
+          "autor": "Inga Raitar",
+          "e_raamatu_hankija_kood": "",
+          "moot": "215x135",
+          "sari": "",
+          "subtiitrid": "",
+          "orgin_title": "",
+          "film_riik": "",
+          "isbn": "",
+          "lisapealkiri": "",
+          "alapk": "Köitvast seksist tõelise armastuseni",
+          "ilmus": "2014",
+          "film_aeg": "",
+          "audio_formaat": "",
+          "audio_pikkus": "",
+          "audio_tootja": "",
+          "audio_product_code": "",
+          "audio_truncated": "",
+          "osa": "",
+          "treiler_1": "",
+          "treiler_2": "",
+          "treiler_3": "",
+          "counter_start": "28.11.2019 1:02",
+          "counter_end": "29.11.2019 23:59",
+          "product_links_source_category": "1137",
+          "pl_qty": "0",
+          "plveeb_qty": "0",
+          "prioriteet": "101",
+          "ts": "2023-02-27T14:29:25",
+          "seotud_toode": "E9789949724901",
+          "special_from_date": null,
+          "aeg": "2014-04-17 00:00:00",
+          "weight": 0,
+          "veebi_kampaaniahind": 0,
+          "hind_enne": 0,
+          "app_kampaania_hind": 0,
+          "hind_kaupluses_kool": 15.3495,
+          "price": 18.95,
+          "hind_kaupluses_aed": 16.1075,
+          "hind_kaupluses_apollo": 14.9705,
+          "hind_kaupluses_kogud": 11.3698,
+          "hind_kaupluses_klient10": 17.055,
+          "hind_kaupluses_klient15": 16.1075,
+          "hind_kaupluses_klient5": 18.0024,
+          "description": "Suhete mõistmiseni jõudnud on tegelikult jõudnud ka elu põhitõdede mõistmiseni \r\nning seeläbi rahuloluni enda ja maailmaga. Suhtesõlmedes viseldes jooksevad pusasse ka muud elu olulised niidid. Või tegelikult – kas üldse ongi mingit muud elu? Elu, mis ei põhineks suhetel kellegiga, olgu või sinu suhtel sinu endaga? \r\nLähisuhteid samastatakse seksiga. Mis on see, mis teeb seksist meie suhete sünonüümi ja miks me tegelikult peame seksi oma elus nii oluliseks? Miks tundub olevat nii raske jõuda tõelise armastuseni ning mis seisab minu ja mu soovi vahel armastada ja olla armastatud?\r\nPikaajaline naisteajakirja peatoimetaja ja erinevate vaimsete teadmiste uurija Inga Raitar on läbi isiklikel kogemustel põhinevate äratundmiste jõudnud suhete mõistmises väga üllatavate järeldusteni.\r\n",
+          "issuu": "",
+          "audio": [
+            ""
+          ],
+          "keel": [
+            ""
+          ],
+          "regioon": [
+            ""
+          ],
+          "hoiatus_veeb": "",
+          "kaupluste_saadavus": [
+            "354"
+          ],
+          "valiku_abi": [
+            ""
+          ],
+          "keelsus": 155,
+          "muusika_formaat": 0,
+          "e_raamat": 0,
+          "e_levitaja": 0,
+          "formaat": 26,
+          "mangude_formaat": 0,
+          "filmi_formaat": 0,
+          "filtri_kategooria": 0,
+          "vastavus_margis": 0,
+          "vastavus_margis2": 0,
+          "kampaania_hind": 0,
+          "kampaania_hind_veebis": 0,
+          "parit": 0,
+          "visibility": 4,
+          "tax_class_id": 5,
+          "kampaania_hind_app": 0,
+          "kategooria": 181,
+          "status": 1,
+          "tarnekuva": 0,
+          "saadavus": 144,
+          "tarne24": 0,
+          "slug": "suhteslmed-78030",
+          "tsk": 1683343801,
+          "stock": {
+            "product_id": 78030,
+            "item_id": 457124105,
+            "stock_id": 1,
+            "qty": 0,
+            "is_in_stock": true,
+            "is_qty_decimal": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": false,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 0,
+            "use_config_backorders": false,
+            "backorders": true,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 0,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": false,
+            "manage_stock": true,
+            "low_stock_date": "2017-10-20 11:13:14",
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": true,
+            "stock_status": 1
+          },
+          "configurable_children": [],
+          "category": [
+            {
+              "category_id": 5,
+              "name": "Eestikeelsed raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 68,
+              "name": "Psühholoogia",
+              "position": 9999
+            },
+            {
+              "category_id": 69,
+              "name": "Suhted ja perekond",
+              "position": 9999
+            },
+            {
+              "category_id": 683,
+              "name": "Raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 1137,
+              "name": "Suhted",
+              "position": 9999
+            },
+            {
+              "category_id": 1139,
+              "name": "Armastus, seks, erootika",
+              "position": 9999
+            }
+          ],
+          "category_ids": [
+            5,
+            68,
+            69,
+            683,
+            1137,
+            1139
+          ],
+          "final_price": 18.95,
+          "regular_price": 18.95,
+          "tier_prices": [
+            {
+              "customer_group_id": 20,
+              "value": 16.1075,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 18,
+              "value": 14.9705,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 8,
+              "value": 15.3495,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 7,
+              "value": 11.3698,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 6,
+              "value": 16.1075,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 5,
+              "value": 17.055,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 4,
+              "value": 18.0024,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            }
+          ],
+          "on_sale_flag": 0,
+          "reviews": {},
+          "product_links": [
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "65389225",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "32422417",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23994082",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890278",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "41457005",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "49542208",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890131",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0721004",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "39102414",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890124",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "65389249",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0389810",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "65389232",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0381314",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0723337",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "39914780",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "49542024",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0725815",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890087",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "32420611",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "other",
+              "linked_product_sku": "0381888",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "other",
+              "linked_product_sku": "0399925",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "other",
+              "linked_product_sku": "3630738",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "other",
+              "linked_product_sku": "30890087",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            },
+            {
+              "link_type": "other",
+              "linked_product_sku": "08147179",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "2083219"
+            }
+          ],
+          "original_price": 18.95,
+          "original_price_tax": 0,
+          "original_price_incl_tax": 18.95,
+          "original_final_price": 18.95,
+          "price_tax": 0,
+          "price_incl_tax": 18.95,
+          "final_price_tax": 0,
+          "final_price_incl_tax": 18.95,
+          "special_price": 0,
+          "special_price_tax": 0,
+          "special_price_incl_tax": 0
         }
-      ]
-    },
-    "publisher": {
-      "id": 747026,
-      "name": "Phaidon Press Ltd",
-      "thumbnail_image_url": null,
-      "slug": "phaidon-press-ltd"
-    },
-    "price": {
-      "price": 76.52,
-      "discount": 0,
-      "originalPrice": 76.52,
-      "retailUserPrice": 76.52
-    },
-    "stock_count": 1,
-    "slug": "stephen-shore-survivors-in-ukraine",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "A powerful and haunting visual record, Stephen Shore's portraits highlight the resilience and hope of Ukraine's Holocaust survivors.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
       },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 696058,
-    "name": "ISHIUCHI MIYAKO - POSTWAR SHADOWS",
-    "authors": [
       {
-        "id": 400348,
-        "name": "Amanda Maddox",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2015,
-    "isbn": "9781606064559",
-    "ean": "9781606064559",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
+        "_index": "apollo_magento_catalog_et_1683343801",
+        "_type": "product",
+        "_id": "79521",
+        "_score": 0,
+        "_source": {
+          "entity_type_id": "4",
+          "attribute_set_id": 9,
+          "type_id": "simple",
+          "sku": "0300561",
+          "created_at": "2014-05-30 13:48:32",
+          "updated_at": "2014-05-30 15:54:36",
+          "id": 79521,
+          "options_container": "container2",
+          "url_key": "emmanuelle-2-raamat-antisuutus",
+          "url_path": "emmanuelle-2-raamat-antisuutus.html",
+          "country_of_manufacture": null,
+          "msrp_enabled": "2",
+          "msrp_display_actual_price_type": "4",
+          "meta_title": null,
+          "meta_description": null,
+          "image": "/9/7/9789985330562.jpg",
+          "small_image": "/9/7/9789985330562.jpg",
+          "thumbnail": "/9/7/9789985330562.jpg",
+          "custom_design": null,
+          "page_layout": null,
+          "gift_message_available": null,
+          "image_label": null,
+          "small_image_label": null,
+          "thumbnail_label": null,
+          "osa": "",
+          "zanr": "",
+          "e_format": "",
+          "name": "Emmanuelle 2. raamat. Antisüütus",
+          "from": "",
+          "studio": "",
+          "lavastaja": "",
+          "actor": "",
+          "audio_text": "",
+          "max_ale": "0.0001",
+          "kujundaja": "",
+          "lk": "272",
+          "tolk": "Pille Kruus",
+          "toim": "",
+          "kirjastus": "Varrak",
+          "ribakood": "9789985330562",
+          "illustr": "",
+          "autor": "Emmanuelle Arsan",
+          "e_raamatu_hankija_kood": "",
+          "moot": "200x143",
+          "sari": "",
+          "subtiitrid": "",
+          "orgin_title": "",
+          "film_riik": "",
+          "isbn": "",
+          "lisapealkiri": "",
+          "alapk": "",
+          "ilmus": "2014",
+          "film_aeg": "",
+          "audio_formaat": "",
+          "audio_pikkus": "",
+          "audio_tootja": "",
+          "audio_product_code": "",
+          "audio_truncated": "",
+          "prioriteet": "101",
+          "treiler_1": "",
+          "treiler_2": "",
+          "treiler_3": "",
+          "counter_end": "12.11.2018 23:59",
+          "counter_start": "8.11.2018 10:57",
+          "ts": "2018-11-08T22:58:21",
+          "seotud_toode": "E9789985331101",
+          "product_links_source_category": "1056",
+          "plveeb_qty": "0",
+          "pl_qty": "0",
+          "special_from_date": null,
+          "news_from_date": null,
+          "hind_aeg": null,
+          "special_to_date": null,
+          "custom_design_from": null,
+          "custom_design_to": null,
+          "aeg": "2014-05-30 00:00:00",
+          "weight": 0,
+          "special_price": 0,
+          "msrp": null,
+          "price": 3,
+          "hind_enne": 22.35,
+          "app_kampaania_hind": 18.99,
+          "veebi_kampaaniahind": 0,
+          "short_description": null,
+          "meta_keyword": null,
+          "custom_layout_update": null,
+          "audio": [
+            ""
+          ],
+          "keel": [
+            ""
+          ],
+          "regioon": [
+            ""
+          ],
+          "hoiatus_veeb": "",
+          "description": "Romaan on jätk 1950ndate lõpus anonüümselt ja 1967. aastal Emmanuelle Arsani nime all ilmunud erootilisele romaanile „Emmanuelle. Inimsuse õppetund”. Emmanuelle’i lood kuuluvad kahtlemata erootikaklassikasse ja nende põhjal on valminud arvukaid filmiversioone. Noor sarmikas prantslanna Emmanuelle, kes on Bangkokki ärimehest abikaasa juurde kolinud, jätkab oma hedonistlikku elu Bangkokis resideeruvate Lääne kodanike seltskonnas. Itaalia aristokraat Mario, kellega Emmanuelle raamatu esimeses osas tutvus, õhutab Emmanuelle’i seksuaalsete kogemuste otsinguil veelgi kaugemale minema ja voodipartnerite arvu kasvatama. Emmanuelle ja Mario kohtuvad noore uskliku Anna Maria Serguine’iga, kes on neitsi. Emmanuelle armub tüdrukusse. Kirg saab Anna Mariast lõpuks võitu ja moodustub õnnelik kolmik...Emmanuelle’i lugude autorlus on mõnevõrra segane. Väidetavalt on romaani kirjutanud autorinime Emmanuelle Arsani taha peitunud Marayat Rollet-Andriane, kes sündis 1932. (või hoopis 1940.) aastal Tais, t",
+          "issuu": "",
+          "valiku_abi": [
+            "194"
+          ],
+          "hsaadaval": 0,
+          "is_recurring": false,
+          "keelsus": 155,
+          "muusika_formaat": 0,
+          "e_raamat": 0,
+          "e_levitaja": 0,
+          "formaat": 26,
+          "mangude_formaat": 0,
+          "filmi_formaat": 0,
+          "filtri_kategooria": 0,
+          "vastavus_margis": 0,
+          "vastavus_margis2": 0,
+          "kampaania_hind": 1,
+          "kampaania_hind_veebis": 0,
+          "parit": 0,
+          "visibility": 4,
+          "tax_class_id": 5,
+          "kampaania_hind_app": 0,
+          "kategooria": 181,
+          "status": 1,
+          "tarnekuva": 0,
+          "saadavus": 144,
+          "tarne24": 0,
+          "slug": "emmanuelle-2-raamat-antistus-79521",
+          "tsk": 1683343801,
+          "stock": {
+            "product_id": 79521,
+            "item_id": 457124627,
+            "stock_id": 1,
+            "qty": 0,
+            "is_in_stock": false,
+            "is_qty_decimal": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": false,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 0,
+            "use_config_backorders": false,
+            "backorders": false,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 0,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": false,
+            "manage_stock": true,
+            "low_stock_date": "2017-10-20 11:14:26",
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": true,
+            "stock_status": 0
+          },
+          "configurable_children": [],
+          "category": [
+            {
+              "category_id": 5,
+              "name": "Eestikeelsed raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 57,
+              "name": "Ilukirjandus",
+              "position": 9999
+            },
+            {
+              "category_id": 69,
+              "name": "Suhted ja perekond",
+              "position": 9999
+            },
+            {
+              "category_id": 683,
+              "name": "Raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 1056,
+              "name": "Kaasaegne välismaalt",
+              "position": 9999
+            },
+            {
+              "category_id": 1139,
+              "name": "Armastus, seks, erootika",
+              "position": 9999
+            }
+          ],
+          "category_ids": [
+            5,
+            57,
+            69,
+            683,
+            1056,
+            1139
+          ],
+          "final_price": 3,
+          "regular_price": 3,
+          "on_sale_flag": 0,
+          "reviews": {},
+          "product_links": [
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "68790941",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "56079649",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "64799082",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "16546110",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "39103831",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66552573",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "16546059",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "39917613",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66552535",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23994358",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "32422523",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "20369168",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "39917514",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "39917477",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "32422509",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "49542802",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "16545922",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "24876930",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "32422226",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23994143",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0300561"
+            }
+          ],
+          "original_price": 3,
+          "original_price_tax": 0,
+          "original_price_incl_tax": 3,
+          "original_final_price": 3,
+          "price_tax": 0,
+          "price_incl_tax": 3,
+          "final_price_tax": 0,
+          "final_price_incl_tax": 3,
+          "special_price_tax": 0,
+          "special_price_incl_tax": 0
         }
-      ]
-    },
-    "publisher": {
-      "id": 729438,
-      "name": "Getty Trust Publications",
-      "thumbnail_image_url": null,
-      "slug": "getty-trust-publications"
-    },
-    "price": {
-      "price": 68.02,
-      "discount": 0,
-      "originalPrice": 68.02,
-      "retailUserPrice": 68.02
-    },
-    "stock_count": 1,
-    "slug": "ishiuchi-miyako-postwar-shadows",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "A maverick in the history of photography, lshiuchi Miyako burst onto the photography scene in Tokyo in the mid-1970s, at a time when men dominated the field in Japan. Working prodigiously over the last forty years, she has created an impressive oeuvre and quietly influenced generations of photographers born in the postwar era.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 685918,
-    "name": "CREATING THE ILLUSION (TURNER CLASSIC MOVIES)",
-    "authors": [
-      {
-        "id": 1010939,
-        "name": "Ali Macgraw",
-        "nav_person_code": null
       },
       {
-        "id": 1107662,
-        "name": "Donald Scoggins",
-        "nav_person_code": null
-      },
-      {
-        "id": 1446448,
-        "name": "Jay Jorgensen",
-        "nav_person_code": "A011505"
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/aa/6a/aa6a3dad0e999c3b77e1f6a96522c773_main_2.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 70,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 229
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2015,
-    "isbn": "9780762456611",
-    "ean": "9780762456611",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
+        "_index": "apollo_magento_catalog_et_1683343801",
+        "_type": "product",
+        "_id": "18076",
+        "_score": 0,
+        "_source": {
+          "entity_type_id": "4",
+          "attribute_set_id": 9,
+          "type_id": "simple",
+          "sku": "0698065",
+          "created_at": "2012-03-01 12:48:52",
+          "updated_at": "2012-03-04 09:03:49",
+          "id": 18076,
+          "options_container": "container2",
+          "url_key": "armastuse-mangureeglid",
+          "url_path": "armastuse-mangureeglid.html",
+          "image_label": null,
+          "small_image_label": null,
+          "thumbnail_label": null,
+          "small_image": "r24/armastusemangureeglid.jpg",
+          "thumbnail": "r24/armastusemangureeglid.jpg",
+          "image": "r24/armastusemangureeglid.jpg",
+          "treiler_3": "",
+          "treiler_1": "",
+          "treiler_2": "",
+          "zanr": "",
+          "e_format": "",
+          "name": "Armastuse mängureeglid",
+          "from": "",
+          "seotud_toode": "",
+          "studio": "",
+          "lavastaja": "",
+          "actor": "",
+          "audio_text": "",
+          "max_ale": "0.0001",
+          "kujundaja": "",
+          "lk": "238",
+          "tolk": "",
+          "toim": "",
+          "kirjastus": "Tänapäev",
+          "ribakood": "9789985628065",
+          "illustr": "",
+          "autor": "Richard Templar",
+          "e_raamatu_hankija_kood": "",
+          "moot": "143x215",
+          "sari": "",
+          "subtiitrid": "",
+          "orgin_title": "",
+          "film_riik": "",
+          "isbn": "",
+          "lisapealkiri": "",
+          "alapk": "Kuidas leida ja hoida õnnelikku suhet",
+          "ilmus": "2009",
+          "film_aeg": "",
+          "audio_formaat": "",
+          "audio_pikkus": "",
+          "audio_tootja": "",
+          "audio_product_code": "",
+          "audio_truncated": "",
+          "osa": "",
+          "counter_end": "13.05.2019 23:59",
+          "counter_start": "12.05.2019 23:50",
+          "prioriteet": "101",
+          "ts": "2019-12-14T04:57:04.793",
+          "product_links_source_category": "1137",
+          "plveeb_qty": "0",
+          "pl_qty": "0",
+          "special_from_date": null,
+          "aeg": "2009-08-28 00:00:00",
+          "weight": 0,
+          "special_price": 0,
+          "price": 9.99,
+          "hind_enne": 15.09,
+          "app_kampaania_hind": 12.72,
+          "veebi_kampaaniahind": 0,
+          "audio": [
+            ""
+          ],
+          "keel": [
+            ""
+          ],
+          "regioon": [
+            ""
+          ],
+          "hoiatus_veeb": "",
+          "description": "Elu tuumaks on vastupidavad suhted. Mõni inimene on nende sõlmimises väga osav. Ta leiab endale partneri, kes muudab ta õnnelikuks, ning tundub, nagu ta teaks juba alateadlikult, kuidas rasketel aegadel toime tulla ja suhet värske ning väärtuslikuna hoida. Samuti on nad nurgakiviks tugevale ja toetavale perekonnale. Tundub, nagu see tuleks neil iseenesest. <br>\r\nKas need inimesed teavad midagi sellist, mida meie ei tea? On see ehk miski, millele ehk meiegi toetuda võiksime? Vastuseks on kindel jah. Nad tunnevad armastuse mängureegleid.<br>\r\nArmastuse mängureeglid on kogumik elupõhimõtetest, mis aitavad sul luua tugeva, vastupidava ja lõpptulemusena elukvaliteeti parandava suhte ning seda ka hoida.<br>\r\nSellest raamatust on abi nii sulle endale kui ka kõigile teistele sinu läheduses.\r\n",
+          "issuu": "",
+          "kaupluste_saadavus": [
+            "354"
+          ],
+          "valiku_abi": [
+            "194"
+          ],
+          "keelsus": 155,
+          "muusika_formaat": 0,
+          "e_raamat": 0,
+          "e_levitaja": 0,
+          "formaat": 26,
+          "mangude_formaat": 0,
+          "filmi_formaat": 0,
+          "filtri_kategooria": 0,
+          "vastavus_margis": 0,
+          "vastavus_margis2": 0,
+          "kampaania_hind": 1,
+          "kampaania_hind_veebis": 0,
+          "parit": 0,
+          "visibility": 4,
+          "tax_class_id": 5,
+          "kampaania_hind_app": 0,
+          "kategooria": 181,
+          "status": 1,
+          "tarnekuva": 0,
+          "saadavus": 144,
+          "tarne24": 0,
+          "slug": "armastuse-mngureeglid-18076",
+          "tsk": 1683343801,
+          "stock": {
+            "product_id": 18076,
+            "item_id": 457103054,
+            "stock_id": 1,
+            "qty": 0,
+            "is_in_stock": false,
+            "is_qty_decimal": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": false,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 0,
+            "use_config_backorders": false,
+            "backorders": false,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 0,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": false,
+            "manage_stock": true,
+            "low_stock_date": "2017-10-20 10:27:23",
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": true,
+            "stock_status": 0
+          },
+          "configurable_children": [],
+          "category": [
+            {
+              "category_id": 5,
+              "name": "Eestikeelsed raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 68,
+              "name": "Psühholoogia",
+              "position": 9999
+            },
+            {
+              "category_id": 69,
+              "name": "Suhted ja perekond",
+              "position": 9999
+            },
+            {
+              "category_id": 683,
+              "name": "Raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 1137,
+              "name": "Suhted",
+              "position": 9999
+            },
+            {
+              "category_id": 1139,
+              "name": "Armastus, seks, erootika",
+              "position": 9999
+            },
+            {
+              "category_id": 8449,
+              "name": "Soodsad raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 8468,
+              "name": "Soodsad eestikeelsed raamatud",
+              "position": 9999
+            }
+          ],
+          "category_ids": [
+            5,
+            68,
+            69,
+            683,
+            1137,
+            1139,
+            8449,
+            8468
+          ],
+          "final_price": 9.99,
+          "regular_price": 9.99,
+          "on_sale_flag": 0,
+          "reviews": {},
+          "product_links": [
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "65389225",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "32422417",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23994082",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890278",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "41457005",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "49542208",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890131",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0721004",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "39102414",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890124",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "65389249",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0389810",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "65389232",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0381314",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0723337",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "39914780",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "49542024",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0725815",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890087",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "32420611",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0698065"
+            }
+          ],
+          "original_price": 9.99,
+          "original_price_tax": 0,
+          "original_price_incl_tax": 9.99,
+          "original_final_price": 9.99,
+          "price_tax": 0,
+          "price_incl_tax": 9.99,
+          "final_price_tax": 0,
+          "final_price_incl_tax": 9.99,
+          "special_price_tax": 0,
+          "special_price_incl_tax": 0
         }
-      ]
-    },
-    "publisher": {
-      "id": 746231,
-      "name": "Running Press,U.S.",
-      "thumbnail_image_url": null,
-      "slug": "running-press-u-s"
-    },
-    "price": {
-      "price": 85.02,
-      "discount": 0,
-      "originalPrice": 85.02,
-      "retailUserPrice": 85.02
-    },
-    "stock_count": 3,
-    "slug": "creating-the-illusion-turner-classic-movies",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "One of two books launching an exciting new publishing partnership with Turner Classic Movies, Hollywood Costume Design is a complete directory of fashion on film from the silent era to modern-day blockbusters, featuring hundreds of never-before-seen images and previously unpublished stories from the greatest films in cinematic history.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
       },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 792229,
-    "name": "LANDSCAPE PHOTOGRAPHER OF THE YEAR",
-    "authors": [
       {
-        "id": 1094281,
-        "name": "Charlie Waite",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9780749578268",
-    "ean": "9780749578268",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
+        "_index": "apollo_magento_catalog_et_1683343801",
+        "_type": "product",
+        "_id": "18785",
+        "_score": 0,
+        "_source": {
+          "entity_type_id": "4",
+          "attribute_set_id": 9,
+          "type_id": "simple",
+          "sku": "0723269",
+          "created_at": "2012-03-01 13:28:20",
+          "updated_at": "2012-04-01 01:12:45",
+          "id": 18785,
+          "options_container": "container2",
+          "url_key": "armastamine",
+          "url_path": "armastamine.html",
+          "image_label": null,
+          "small_image_label": null,
+          "thumbnail_label": null,
+          "small_image": "r25/armastamine.jpg",
+          "thumbnail": "r25/armastamine.jpg",
+          "image": "r25/armastamine.jpg",
+          "treiler_3": "",
+          "treiler_1": "",
+          "treiler_2": "",
+          "osa": "",
+          "zanr": "",
+          "e_format": "",
+          "name": "Armastamine",
+          "ts": "2016-08-01T10:12:33",
+          "from": "",
+          "counter_start": "",
+          "counter_end": "",
+          "seotud_toode": "",
+          "studio": "",
+          "lavastaja": "",
+          "actor": "",
+          "audio_text": "",
+          "max_ale": "0",
+          "kujundaja": "",
+          "lk": "238",
+          "tolk": "Hana Arras",
+          "toim": "Mare Luuk",
+          "kirjastus": "Pegasus",
+          "ribakood": "9789949453269",
+          "illustr": "",
+          "autor": "Osho",
+          "e_raamatu_hankija_kood": "",
+          "moot": "140x210",
+          "sari": "",
+          "subtiitrid": "",
+          "orgin_title": "",
+          "film_riik": "",
+          "isbn": "",
+          "lisapealkiri": "",
+          "alapk": "Kuidas armastada vabalt ja suhelda hirmuvabalt",
+          "ilmus": "2009/2014",
+          "film_aeg": "",
+          "audio_formaat": "",
+          "audio_pikkus": "",
+          "audio_tootja": "",
+          "audio_product_code": "",
+          "audio_truncated": "",
+          "prioriteet": "101",
+          "product_links_source_category": "1139",
+          "pl_qty": "0",
+          "plveeb_qty": "0",
+          "special_from_date": null,
+          "aeg": "2014-02-01 00:00:00",
+          "weight": 0,
+          "special_price": 0,
+          "app_kampaania_hind": 12.7184,
+          "veebi_kampaaniahind": 12.72,
+          "hind_enne": 0,
+          "price": 15.25,
+          "hind_kaupluses_kool": 12.3524,
+          "hind_kaupluses_aed": 12.9625,
+          "hind_kaupluses_apollo": 12.0474,
+          "hind_kaupluses_kogud": 9.7544,
+          "hind_kaupluses_klient10": 13.725,
+          "hind_kaupluses_klient15": 12.9625,
+          "hind_kaupluses_klient5": 14.4875,
+          "description": "Osho \"ARMASTAMINE\" sisaldab radikaalseid ja kohati šokeerivaid mõtteid armastuse, abielu ja seksi kohta – mõtteid, mis olid revolutsioonilised enam kui 20 aastat tagasi, kuid mõjuvad värskendavalt ka tänapäeval. Osho ütleb: \"Armasus on ainus religioon, ainus jumal, ainus mõistatus, mida on vaja elada ja mõista... See ei ole midagi keerulist.\" Igaüks meist saab ise otsustada, kas või kui suurel määral on meie elus armastust. Püüdke kujutleda, milline oleks armastus ilma meie võltside, kinnistunud ja jäikade uskumusteta, et armastust saab kogeda ainult teatud kindlal viisil, teatud kindla isikuga ja vaid teatud ajahetkel? Osho kummutab need veendumused, väites järgmist:<br><br>\r\n\r\n     • \"Armastus ei ole kohustus. Kohustus on vale armastuse aseaine.\" <br>\r\n     • \"Abielu on teatavas mõttes püsivat laadi prostitutsioon.\" <br>\r\n     • \"Uues maailmas ei tohi olla abielu, on ainult armastajad.\"",
+          "issuu": "",
+          "audio": [
+            ""
+          ],
+          "keel": [
+            ""
+          ],
+          "regioon": [
+            ""
+          ],
+          "hoiatus_veeb": "",
+          "valiku_abi": [
+            ""
+          ],
+          "keelsus": 155,
+          "muusika_formaat": 0,
+          "e_raamat": 0,
+          "e_levitaja": 0,
+          "formaat": 26,
+          "mangude_formaat": 0,
+          "filmi_formaat": 0,
+          "filtri_kategooria": 0,
+          "vastavus_margis": 0,
+          "vastavus_margis2": 0,
+          "kampaania_hind": 0,
+          "kampaania_hind_veebis": 0,
+          "parit": 0,
+          "visibility": 4,
+          "tax_class_id": 5,
+          "kampaania_hind_app": 0,
+          "kategooria": 181,
+          "status": 1,
+          "tarnekuva": 0,
+          "saadavus": 144,
+          "tarne24": 0,
+          "slug": "armastamine-18785",
+          "tsk": 1683343801,
+          "stock": {
+            "product_id": 18785,
+            "item_id": 457103565,
+            "stock_id": 1,
+            "qty": 0,
+            "is_in_stock": false,
+            "is_qty_decimal": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": false,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 0,
+            "use_config_backorders": false,
+            "backorders": false,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 0,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": false,
+            "manage_stock": true,
+            "low_stock_date": "2017-10-20 10:28:29",
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": true,
+            "stock_status": 0
+          },
+          "configurable_children": [],
+          "category": [
+            {
+              "category_id": 5,
+              "name": "Eestikeelsed raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 69,
+              "name": "Suhted ja perekond",
+              "position": 9999
+            },
+            {
+              "category_id": 683,
+              "name": "Raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 1139,
+              "name": "Armastus, seks, erootika",
+              "position": 9999
+            }
+          ],
+          "category_ids": [
+            5,
+            69,
+            683,
+            1139
+          ],
+          "final_price": 15.25,
+          "regular_price": 15.25,
+          "tier_prices": [
+            {
+              "customer_group_id": 20,
+              "value": 12.9625,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 18,
+              "value": 12.0474,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 8,
+              "value": 12.3524,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 7,
+              "value": 9.7544,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 6,
+              "value": 12.9625,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 5,
+              "value": 13.725,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 4,
+              "value": 14.4875,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            }
+          ],
+          "on_sale_flag": 0,
+          "reviews": {},
+          "product_links": [
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890353",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "41505437",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66558211",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0723337",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "49542024",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "79300073",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0381545",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "3288256",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23990404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66553482",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "36880657",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559882",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23991808",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30891989",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559493",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "6479404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "59463187",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0722478",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0866419",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0861162",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0723269"
+            }
+          ],
+          "original_price": 15.25,
+          "original_price_tax": 0,
+          "original_price_incl_tax": 15.25,
+          "original_final_price": 15.25,
+          "price_tax": 0,
+          "price_incl_tax": 15.25,
+          "final_price_tax": 0,
+          "final_price_incl_tax": 15.25,
+          "special_price_tax": 0,
+          "special_price_incl_tax": 0
         }
-      ]
-    },
-    "publisher": {
-      "id": 64,
-      "name": "AA PUBLISHING",
-      "thumbnail_image_url": null,
-      "slug": "aa-publishing"
-    },
-    "price": {
-      "price": 42.51,
-      "discount": 0,
-      "originalPrice": 42.51,
-      "retailUserPrice": 42.51
-    },
-    "stock_count": 3,
-    "slug": "landscape-photographer-of-the-year",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "Showcases all the winning and commended entries from the 10th Landscape Photographer of the Year competition, the largest of its kind in the UK.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
       },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 793059,
-    "name": "ADVENTURES IN THE LEA VALLEY",
-    "authors": [
       {
-        "id": 1486967,
-        "name": "David Campany",
-        "nav_person_code": "INI017532"
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9781910566121",
-    "ean": "9781910566121",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
+        "_index": "apollo_magento_catalog_et_1683343801",
+        "_type": "product",
+        "_id": "28059",
+        "_score": 0,
+        "_source": {
+          "entity_type_id": "4",
+          "attribute_set_id": 9,
+          "type_id": "simple",
+          "sku": "0990453",
+          "created_at": "2012-03-01 21:33:22",
+          "updated_at": "2012-03-04 21:35:03",
+          "id": 28059,
+          "options_container": "container2",
+          "url_key": "seksipiibel",
+          "url_path": "seksipiibel.html",
+          "image_label": null,
+          "small_image_label": null,
+          "thumbnail_label": null,
+          "small_image": "r22/seksipiibel.jpg",
+          "thumbnail": "r22/seksipiibel.jpg",
+          "image": "r22/seksipiibel.jpg",
+          "treiler_3": "",
+          "treiler_1": "",
+          "treiler_2": "",
+          "zanr": "",
+          "e_format": "",
+          "name": "Seksipiibel",
+          "ts": "2015-05-25T21:58:06",
+          "from": "",
+          "counter_start": "",
+          "counter_end": "",
+          "seotud_toode": "",
+          "studio": "",
+          "lavastaja": "",
+          "actor": "",
+          "audio_text": "",
+          "max_ale": "0",
+          "kujundaja": "",
+          "lk": "255",
+          "tolk": "Kristjan Kaljund",
+          "toim": "",
+          "kirjastus": "Digipraktik",
+          "ribakood": "9789985980453",
+          "illustr": "",
+          "autor": "Susan Crain Bakos",
+          "e_raamatu_hankija_kood": "",
+          "moot": "255x255",
+          "sari": "",
+          "subtiitrid": "",
+          "orgin_title": "",
+          "film_riik": "",
+          "isbn": "",
+          "lisapealkiri": "",
+          "alapk": "",
+          "ilmus": "2007",
+          "film_aeg": "",
+          "audio_formaat": "",
+          "audio_pikkus": "",
+          "audio_tootja": "",
+          "audio_product_code": "",
+          "audio_truncated": "",
+          "prioriteet": "101",
+          "osa": "",
+          "product_links_source_category": "1139",
+          "pl_qty": "0",
+          "plveeb_qty": "0",
+          "special_from_date": null,
+          "aeg": "2007-10-30 00:00:00",
+          "weight": 0,
+          "special_price": 0,
+          "hind_enne": 0,
+          "veebi_kampaaniahind": 23.14,
+          "price": 27.45,
+          "app_kampaania_hind": 23.14,
+          "hind_kaupluses_kool": 22.2345,
+          "hind_kaupluses_aed": 23.3325,
+          "hind_kaupluses_apollo": 21.6856,
+          "hind_kaupluses_kogud": 17.604,
+          "hind_kaupluses_klient10": 24.7051,
+          "hind_kaupluses_klient15": 23.3325,
+          "hind_kaupluses_klient5": 26.0775,
+          "description": "Seksuaalse armastuse teejuht.",
+          "issuu": "",
+          "audio": [
+            ""
+          ],
+          "keel": [
+            ""
+          ],
+          "regioon": [
+            ""
+          ],
+          "hoiatus_veeb": "",
+          "valiku_abi": [
+            ""
+          ],
+          "muusika_formaat": 0,
+          "e_raamat": 0,
+          "e_levitaja": 0,
+          "formaat": 26,
+          "mangude_formaat": 0,
+          "filmi_formaat": 0,
+          "filtri_kategooria": 0,
+          "vastavus_margis": 0,
+          "vastavus_margis2": 0,
+          "kampaania_hind": 0,
+          "kampaania_hind_veebis": 0,
+          "parit": 0,
+          "kategooria": 0,
+          "visibility": 4,
+          "tax_class_id": 5,
+          "kampaania_hind_app": 0,
+          "status": 1,
+          "tarnekuva": 0,
+          "saadavus": 144,
+          "tarne24": 0,
+          "slug": "seksipiibel-28059",
+          "tsk": 1683343801,
+          "stock": {
+            "product_id": 28059,
+            "item_id": 457110988,
+            "stock_id": 1,
+            "qty": 0,
+            "is_in_stock": false,
+            "is_qty_decimal": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": false,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 0,
+            "use_config_backorders": false,
+            "backorders": false,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 0,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": false,
+            "manage_stock": true,
+            "low_stock_date": "2017-10-20 10:44:22",
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": true,
+            "stock_status": 0
+          },
+          "configurable_children": [],
+          "category": [
+            {
+              "category_id": 5,
+              "name": "Eestikeelsed raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 69,
+              "name": "Suhted ja perekond",
+              "position": 9999
+            },
+            {
+              "category_id": 683,
+              "name": "Raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 1139,
+              "name": "Armastus, seks, erootika",
+              "position": 9999
+            }
+          ],
+          "category_ids": [
+            5,
+            69,
+            683,
+            1139
+          ],
+          "final_price": 27.45,
+          "regular_price": 27.45,
+          "tier_prices": [
+            {
+              "customer_group_id": 20,
+              "value": 23.3325,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 18,
+              "value": 21.6856,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 8,
+              "value": 22.2345,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 7,
+              "value": 17.604,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 6,
+              "value": 23.3325,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 5,
+              "value": 24.7051,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 4,
+              "value": 26.0775,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            }
+          ],
+          "on_sale_flag": 0,
+          "reviews": {
+            "statistic": {
+              "5": {
+                "count": 1,
+                "percent": 100
+              }
+            },
+            "avg": 100,
+            "items": [
+              {
+                "review_id": 237098,
+                "avg": 100,
+                "nickname": "Mati kannisto",
+                "created_at": "2019-12-08 16:18:10",
+                "detail": "Väga hea raamat, soovitan!\r\n\r\n",
+                "title": "summary",
+                "customer_id": 0
+              }
+            ]
+          },
+          "product_links": [
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890353",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "41505437",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66558211",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0723337",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "49542024",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "79300073",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0381545",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "3288256",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23990404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66553482",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "36880657",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559882",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23991808",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30891989",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559493",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "6479404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "59463187",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0722478",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0866419",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0861162",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0990453"
+            }
+          ],
+          "original_price": 27.45,
+          "original_price_tax": 0,
+          "original_price_incl_tax": 27.45,
+          "original_final_price": 27.45,
+          "price_tax": 0,
+          "price_incl_tax": 27.45,
+          "final_price_tax": 0,
+          "final_price_incl_tax": 27.45,
+          "special_price_tax": 0,
+          "special_price_incl_tax": 0
         }
-      ]
-    },
-    "publisher": {
-      "id": 33529,
-      "name": "HOXTON MINI PRESS",
-      "thumbnail_image_url": null,
-      "slug": "hoxton-mini-press"
-    },
-    "price": {
-      "price": 25.42,
-      "discount": 0,
-      "originalPrice": 25.42,
-      "retailUserPrice": 25.42
-    },
-    "stock_count": 1,
-    "slug": "adventures-in-the-lea-valley",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": null,
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
       },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 779503,
-    "name": "OTHERWORLDS",
-    "authors": [
       {
-        "id": 1479088,
-        "name": "Michael Benson",
-        "nav_person_code": "INI005697"
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9780565093877",
-    "ean": "9780565093877",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
+        "_index": "apollo_magento_catalog_et_1683343801",
+        "_type": "product",
+        "_id": "34243",
+        "_score": 0,
+        "_source": {
+          "entity_type_id": "4",
+          "attribute_set_id": 9,
+          "type_id": "simple",
+          "sku": "1992292",
+          "created_at": "2012-03-02 15:58:28",
+          "updated_at": "2012-03-02 15:58:28",
+          "id": 34243,
+          "options_container": "container2",
+          "url_key": "seksuaalsuse-luhiajalugu",
+          "url_path": "seksuaalsuse-luhiajalugu.html",
+          "small_image": "r26/seksuaalsuse-lõhiajaluguõ.jpg",
+          "thumbnail": "r26/seksuaalsuse-lõhiajaluguõ.jpg",
+          "image": "r26/seksuaalsuse-lõhiajaluguõ.jpg",
+          "treiler_3": "",
+          "treiler_1": "",
+          "treiler_2": "",
+          "zanr": "",
+          "e_format": "",
+          "name": "Seksuaalsuse lühiajalugu",
+          "ts": "2015-05-25T21:58:06",
+          "from": "",
+          "counter_start": "",
+          "counter_end": "",
+          "seotud_toode": "",
+          "studio": "",
+          "lavastaja": "",
+          "actor": "",
+          "audio_text": "",
+          "max_ale": "0",
+          "kujundaja": "",
+          "lk": "48",
+          "tolk": "",
+          "toim": "",
+          "kirjastus": "Intuitiivteaduste Kool",
+          "ribakood": "9789949912292",
+          "illustr": "",
+          "autor": "Ingvar Luhaäär",
+          "e_raamatu_hankija_kood": "",
+          "moot": "210x145",
+          "sari": "Bioenergeetika sari",
+          "subtiitrid": "",
+          "orgin_title": "",
+          "film_riik": "",
+          "isbn": "",
+          "lisapealkiri": "",
+          "alapk": "",
+          "ilmus": "2011",
+          "film_aeg": "",
+          "audio_formaat": "",
+          "audio_pikkus": "",
+          "audio_tootja": "",
+          "audio_product_code": "",
+          "audio_truncated": "",
+          "prioriteet": "101",
+          "osa": "",
+          "product_links_source_category": "1139",
+          "plveeb_qty": "0",
+          "pl_qty": "0",
+          "special_from_date": null,
+          "aeg": "2012-01-09 00:00:00",
+          "weight": 0,
+          "special_price": 0,
+          "veebi_kampaaniahind": 3.35,
+          "hind_enne": 0,
+          "price": 3.95,
+          "app_kampaania_hind": 3.35,
+          "hind_kaupluses_kool": 3.1996,
+          "hind_kaupluses_aed": 3.3575,
+          "hind_kaupluses_apollo": 3.1206,
+          "hind_kaupluses_kogud": 2.5266,
+          "hind_kaupluses_klient10": 3.555,
+          "hind_kaupluses_klient15": 3.3575,
+          "hind_kaupluses_klient5": 3.7525,
+          "description": "Seksuaalsed tõekspidamised on ruumis ja ajas väga muutuvad-vastupidi üldlevinud uskumusele, et kõiges sellesse valdkonda puutuvas on ainuõige ja loomulik see, mida meie arvame... <P>\r\n\r\nRomantika ja naudingud on meie päralt, <br>\r\nlas teised ütlevad, et pahad me! <br>\r\nLavendliööd on meie suurim aare, <br>\r\nneis oleme, kes olla tahame.  <br>",
+          "issuu": "",
+          "audio": [
+            ""
+          ],
+          "keel": [
+            ""
+          ],
+          "regioon": [
+            ""
+          ],
+          "hoiatus_veeb": "",
+          "valiku_abi": [
+            ""
+          ],
+          "keelsus": 155,
+          "muusika_formaat": 0,
+          "e_raamat": 0,
+          "e_levitaja": 0,
+          "formaat": 26,
+          "mangude_formaat": 0,
+          "filmi_formaat": 0,
+          "filtri_kategooria": 0,
+          "vastavus_margis": 0,
+          "vastavus_margis2": 0,
+          "kampaania_hind": 0,
+          "kampaania_hind_veebis": 0,
+          "parit": 0,
+          "kategooria": 0,
+          "visibility": 4,
+          "tax_class_id": 5,
+          "kampaania_hind_app": 0,
+          "status": 1,
+          "tarnekuva": 0,
+          "saadavus": 144,
+          "tarne24": 0,
+          "slug": "seksuaalsuse-lhiajalugu-34243",
+          "tsk": 1683343801,
+          "stock": {
+            "product_id": 34243,
+            "item_id": 457113180,
+            "stock_id": 1,
+            "qty": 0,
+            "is_in_stock": false,
+            "is_qty_decimal": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": false,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 0,
+            "use_config_backorders": false,
+            "backorders": false,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 0,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": false,
+            "manage_stock": true,
+            "low_stock_date": "2017-10-20 10:49:10",
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": true,
+            "stock_status": 0
+          },
+          "configurable_children": [],
+          "category": [
+            {
+              "category_id": 5,
+              "name": "Eestikeelsed raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 69,
+              "name": "Suhted ja perekond",
+              "position": 9999
+            },
+            {
+              "category_id": 683,
+              "name": "Raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 1139,
+              "name": "Armastus, seks, erootika",
+              "position": 9999
+            }
+          ],
+          "category_ids": [
+            5,
+            69,
+            683,
+            1139
+          ],
+          "final_price": 3.95,
+          "regular_price": 3.95,
+          "tier_prices": [
+            {
+              "customer_group_id": 20,
+              "value": 3.3575,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 18,
+              "value": 3.1206,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 8,
+              "value": 3.1996,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 7,
+              "value": 2.5266,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 6,
+              "value": 3.3575,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 5,
+              "value": 3.555,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 4,
+              "value": 3.7525,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            }
+          ],
+          "on_sale_flag": 0,
+          "reviews": {},
+          "product_links": [
+            {
+              "link_type": "related",
+              "linked_product_sku": "1992292",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "crosssell",
+              "linked_product_sku": "1992292",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "related",
+              "linked_product_sku": "2640170",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "crosssell",
+              "linked_product_sku": "2640170",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890353",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "41505437",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66558211",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0723337",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "49542024",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "79300073",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0381545",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "3288256",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23990404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66553482",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "36880657",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559882",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23991808",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30891989",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559493",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "6479404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "59463187",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0722478",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0866419",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0861162",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "1992292"
+            }
+          ],
+          "original_price": 3.95,
+          "original_price_tax": 0,
+          "original_price_incl_tax": 3.95,
+          "original_final_price": 3.95,
+          "price_tax": 0,
+          "price_incl_tax": 3.95,
+          "final_price_tax": 0,
+          "final_price_incl_tax": 3.95,
+          "special_price_tax": 0,
+          "special_price_incl_tax": 0
         }
-      ]
-    },
-    "publisher": {
-      "id": 1815,
-      "name": "THE NATURAL HISTORY MUSEUM",
-      "thumbnail_image_url": null,
-      "slug": "the-natural-history-museum"
-    },
-    "price": {
-      "price": 42.51,
-      "discount": 0,
-      "originalPrice": 42.51,
-      "retailUserPrice": 42.51
-    },
-    "stock_count": 3,
-    "slug": "otherworlds",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "A visual journey of awe-inspiring beauty from planet Earth to the other planets in our Solar System. Michael Benson uses the black-and-white raw frames sent back by spacecraft to create groundbreaking artworks that capture planetary landscapes as they might look if humans could visit them and view them with their own eyes.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
       },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 779535,
-    "name": "BEATLES A HARD DAY'S NIGHT",
-    "authors": [
       {
-        "id": 1484451,
-        "name": "Mark Lewisohn",
-        "nav_person_code": "INI014166"
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/4e/9b/4e9ba891ee4aa9619fdb49d2a6970b6e_main_2.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 73,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 218
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9780714871851",
-    "ean": "9780714871851",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
+        "_index": "apollo_magento_catalog_et_1683343801",
+        "_type": "product",
+        "_id": "19313",
+        "_score": 0,
+        "_source": {
+          "entity_type_id": "4",
+          "attribute_set_id": 9,
+          "type_id": "simple",
+          "sku": "0768542",
+          "created_at": "2012-03-01 13:52:46",
+          "updated_at": "2012-03-04 10:31:45",
+          "id": 19313,
+          "options_container": "container2",
+          "url_key": "avameelselt-armastusest",
+          "url_path": "avameelselt-armastusest.html",
+          "image_label": null,
+          "small_image_label": null,
+          "thumbnail_label": null,
+          "small_image": "r21/avameelseltarmastusest.jpg",
+          "thumbnail": "r21/avameelseltarmastusest.jpg",
+          "image": "r21/avameelseltarmastusest.jpg",
+          "treiler_3": "",
+          "treiler_1": "",
+          "treiler_2": "",
+          "zanr": "",
+          "e_format": "",
+          "name": "Avameelselt armastusest",
+          "ts": "2015-06-03T23:29:55",
+          "from": "",
+          "counter_start": "",
+          "counter_end": "",
+          "seotud_toode": "",
+          "studio": "",
+          "lavastaja": "",
+          "actor": "",
+          "audio_text": "",
+          "max_ale": "0.0001",
+          "kujundaja": "",
+          "lk": "48",
+          "tolk": "",
+          "toim": "",
+          "kirjastus": "Tammerraamat",
+          "ribakood": "9789985978542",
+          "illustr": "",
+          "autor": "",
+          "e_raamatu_hankija_kood": "",
+          "moot": "120x180",
+          "sari": "",
+          "subtiitrid": "",
+          "orgin_title": "",
+          "film_riik": "",
+          "isbn": "9985969243",
+          "lisapealkiri": "",
+          "alapk": "",
+          "ilmus": "2007",
+          "film_aeg": "",
+          "audio_formaat": "",
+          "audio_pikkus": "",
+          "audio_tootja": "",
+          "audio_product_code": "",
+          "audio_truncated": "",
+          "prioriteet": "101",
+          "osa": "",
+          "product_links_source_category": "1058",
+          "pl_qty": "0",
+          "plveeb_qty": "0",
+          "special_from_date": null,
+          "aeg": "2007-03-01 00:00:00",
+          "weight": 0,
+          "special_price": 0,
+          "hind_enne": 7.6055,
+          "veebi_kampaaniahind": 0.64,
+          "price": 0.75,
+          "app_kampaania_hind": 7.925,
+          "hind_kaupluses_kool": 0.6076,
+          "hind_kaupluses_aed": 0.6375,
+          "hind_kaupluses_apollo": 0.5925,
+          "hind_kaupluses_kogud": 0.4857,
+          "hind_kaupluses_klient10": 0.675,
+          "hind_kaupluses_klient15": 0.6375,
+          "hind_kaupluses_klient5": 0.7125,
+          "description": "Mis on vaja mehel teha, et teada saada kõiki oma puudusi?<br> Abielluda.<br>\r\nSelles raamatus on armastuse igavikulised küsimused. Naljakad, aga tõsielulised. Nii palju küsimusi, nii palju erinevaid vastuseid. Tegemist on kinkeraamatuga, kus illustratsioonideks kasutatud vanu naljakaid postkaarte ja luuletusi.",
+          "issuu": "",
+          "audio": [
+            ""
+          ],
+          "keel": [
+            ""
+          ],
+          "regioon": [
+            ""
+          ],
+          "hoiatus_veeb": "",
+          "valiku_abi": [
+            ""
+          ],
+          "keelsus": 155,
+          "muusika_formaat": 0,
+          "e_raamat": 0,
+          "e_levitaja": 0,
+          "formaat": 27,
+          "mangude_formaat": 0,
+          "filmi_formaat": 0,
+          "filtri_kategooria": 0,
+          "vastavus_margis": 0,
+          "vastavus_margis2": 0,
+          "kampaania_hind": 0,
+          "kampaania_hind_veebis": 0,
+          "parit": 0,
+          "kategooria": 0,
+          "visibility": 4,
+          "tax_class_id": 5,
+          "kampaania_hind_app": 0,
+          "status": 1,
+          "tarnekuva": 0,
+          "saadavus": 144,
+          "tarne24": 0,
+          "slug": "avameelselt-armastusest-19313",
+          "tsk": 1683343801,
+          "stock": {
+            "product_id": 19313,
+            "item_id": 457104032,
+            "stock_id": 1,
+            "qty": 0,
+            "is_in_stock": false,
+            "is_qty_decimal": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": false,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 0,
+            "use_config_backorders": false,
+            "backorders": false,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 0,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": false,
+            "manage_stock": true,
+            "low_stock_date": "2017-10-20 10:29:29",
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": true,
+            "stock_status": 0
+          },
+          "configurable_children": [],
+          "category": [
+            {
+              "category_id": 5,
+              "name": "Eestikeelsed raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 57,
+              "name": "Ilukirjandus",
+              "position": 9999
+            },
+            {
+              "category_id": 69,
+              "name": "Suhted ja perekond",
+              "position": 9999
+            },
+            {
+              "category_id": 683,
+              "name": "Raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 1058,
+              "name": "Luule",
+              "position": 9999
+            },
+            {
+              "category_id": 1139,
+              "name": "Armastus, seks, erootika",
+              "position": 9999
+            }
+          ],
+          "category_ids": [
+            5,
+            57,
+            69,
+            683,
+            1058,
+            1139
+          ],
+          "final_price": 0.75,
+          "regular_price": 0.75,
+          "tier_prices": [
+            {
+              "customer_group_id": 20,
+              "value": 0.6375,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 18,
+              "value": 0.5925,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 8,
+              "value": 0.6076,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 7,
+              "value": 0.4857,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 6,
+              "value": 0.6375,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 5,
+              "value": 0.675,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 4,
+              "value": 0.7125,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            }
+          ],
+          "on_sale_flag": 0,
+          "reviews": {},
+          "product_links": [
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "68790934",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "73259978",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "27106880",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "69327997",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "24038733",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "80318406",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "20998982",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "59468597",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "77686846",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "68577483",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "81797308",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "24873280",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "38153442",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "77398239",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "68577414",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "3910608",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "45375142",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "24058019",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "71475399",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "24135601",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0768542"
+            }
+          ],
+          "original_price": 0.75,
+          "original_price_tax": 0,
+          "original_price_incl_tax": 0.75,
+          "original_final_price": 0.75,
+          "price_tax": 0,
+          "price_incl_tax": 0.75,
+          "final_price_tax": 0,
+          "final_price_incl_tax": 0.75,
+          "special_price_tax": 0,
+          "special_price_incl_tax": 0
         }
-      ]
-    },
-    "publisher": {
-      "id": 747026,
-      "name": "Phaidon Press Ltd",
-      "thumbnail_image_url": null,
-      "slug": "phaidon-press-ltd"
-    },
-    "price": {
-      "price": 135.95,
-      "discount": 0,
-      "originalPrice": 135.95,
-      "retailUserPrice": 135.95
-    },
-    "stock_count": 1,
-    "slug": "beatles-a-hard-day-s-night",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "Including never-before-seen photographs and ephemera, a behind-the-scenes look into The Beatles' acclaimed first film",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
       },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 782355,
-    "name": "ANIMAL SOUL",
-    "authors": [
       {
-        "id": 1112641,
-        "name": "Robert Bahou",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9781910453216",
-    "ean": "9781910453216",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
+        "_index": "apollo_magento_catalog_et_1683343801",
+        "_type": "product",
+        "_id": "19062",
+        "_score": 0,
+        "_source": {
+          "entity_type_id": "4",
+          "attribute_set_id": 9,
+          "type_id": "simple",
+          "sku": "0729730",
+          "created_at": "2012-03-01 13:41:08",
+          "updated_at": "2012-03-04 10:16:56",
+          "id": 19062,
+          "options_container": "container2",
+          "url_key": "erose-kutkeis",
+          "url_path": "erose-kutkeis.html",
+          "image_label": null,
+          "small_image_label": null,
+          "thumbnail_label": null,
+          "small_image": "r20/erosekutkeis.jpg",
+          "thumbnail": "r20/erosekutkeis.jpg",
+          "image": "r20/erosekutkeis.jpg",
+          "treiler_3": "",
+          "treiler_1": "",
+          "treiler_2": "",
+          "zanr": "",
+          "e_format": "",
+          "name": "Erose kütkeis",
+          "ts": "2015-06-03T23:29:55",
+          "from": "",
+          "counter_start": "",
+          "counter_end": "",
+          "seotud_toode": "",
+          "studio": "",
+          "lavastaja": "",
+          "actor": "",
+          "audio_text": "",
+          "max_ale": "0.0001",
+          "kujundaja": "",
+          "lk": "312",
+          "tolk": "",
+          "toim": "Inna Lusti",
+          "kirjastus": "Pegasus",
+          "ribakood": "9789949409730",
+          "illustr": "",
+          "autor": "Urmas Espenberg",
+          "e_raamatu_hankija_kood": "",
+          "moot": "150x230",
+          "sari": "",
+          "subtiitrid": "",
+          "orgin_title": "",
+          "film_riik": "",
+          "isbn": "994940973x",
+          "lisapealkiri": "",
+          "alapk": "",
+          "ilmus": "2005",
+          "film_aeg": "",
+          "audio_formaat": "",
+          "audio_pikkus": "",
+          "audio_tootja": "",
+          "audio_product_code": "",
+          "audio_truncated": "",
+          "prioriteet": "101",
+          "osa": "",
+          "product_links_source_category": "1139",
+          "pl_qty": "0",
+          "plveeb_qty": "0",
+          "special_from_date": null,
+          "aeg": "2005-10-28 00:00:00",
+          "weight": 0,
+          "special_price": 0,
+          "veebi_kampaaniahind": 4.99,
+          "hind_enne": 7.989,
+          "price": 5.6,
+          "app_kampaania_hind": 4.9851,
+          "hind_kaupluses_kool": 4.5351,
+          "hind_kaupluses_aed": 4.759,
+          "hind_kaupluses_apollo": 4.4231,
+          "hind_kaupluses_kogud": 3.7724,
+          "hind_kaupluses_klient10": 5.039,
+          "hind_kaupluses_klient15": 4.759,
+          "hind_kaupluses_klient5": 5.319,
+          "description": "\"Erose kütkeis\" on praktiline käsiraamat, mis peaks aitama inimestel nende armu- ja seksuaalelu probleemides paremini orienteeruda. Ennekõike domineerib siin ratsionaalne analüüs: tegu on uurimusliku lähenemisega, mille tuumaks teoreetilist ja praktilist laadi seksuaaluuringud. \r\n",
+          "issuu": "",
+          "audio": [
+            ""
+          ],
+          "keel": [
+            ""
+          ],
+          "regioon": [
+            ""
+          ],
+          "hoiatus_veeb": "",
+          "valiku_abi": [
+            ""
+          ],
+          "keelsus": 155,
+          "muusika_formaat": 0,
+          "e_raamat": 0,
+          "e_levitaja": 0,
+          "formaat": 26,
+          "mangude_formaat": 0,
+          "filmi_formaat": 0,
+          "filtri_kategooria": 0,
+          "vastavus_margis": 0,
+          "vastavus_margis2": 0,
+          "kampaania_hind": 0,
+          "kampaania_hind_veebis": 0,
+          "parit": 0,
+          "kategooria": 0,
+          "visibility": 4,
+          "tax_class_id": 5,
+          "kampaania_hind_app": 0,
+          "status": 1,
+          "tarnekuva": 0,
+          "saadavus": 144,
+          "tarne24": 0,
+          "slug": "erose-ktkeis-19062",
+          "tsk": 1683343801,
+          "stock": {
+            "product_id": 19062,
+            "item_id": 457103826,
+            "stock_id": 1,
+            "qty": 0,
+            "is_in_stock": false,
+            "is_qty_decimal": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": false,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 0,
+            "use_config_backorders": false,
+            "backorders": false,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 0,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": false,
+            "manage_stock": true,
+            "low_stock_date": "2017-10-20 10:29:03",
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": true,
+            "stock_status": 0
+          },
+          "configurable_children": [],
+          "category": [
+            {
+              "category_id": 5,
+              "name": "Eestikeelsed raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 69,
+              "name": "Suhted ja perekond",
+              "position": 9999
+            },
+            {
+              "category_id": 683,
+              "name": "Raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 1139,
+              "name": "Armastus, seks, erootika",
+              "position": 9999
+            }
+          ],
+          "category_ids": [
+            5,
+            69,
+            683,
+            1139
+          ],
+          "final_price": 5.6,
+          "regular_price": 5.6,
+          "tier_prices": [
+            {
+              "customer_group_id": 20,
+              "value": 4.759,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 18,
+              "value": 4.4231,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 8,
+              "value": 4.5351,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 7,
+              "value": 3.7724,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 6,
+              "value": 4.759,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 5,
+              "value": 5.039,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 4,
+              "value": 5.319,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            }
+          ],
+          "on_sale_flag": 0,
+          "reviews": {},
+          "product_links": [
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890353",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "41505437",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66558211",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0723337",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "49542024",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "79300073",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0381545",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "3288256",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23990404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66553482",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "36880657",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559882",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23991808",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30891989",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559493",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "6479404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "59463187",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0722478",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0866419",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0861162",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0729730"
+            }
+          ],
+          "original_price": 5.6,
+          "original_price_tax": 0,
+          "original_price_incl_tax": 5.6,
+          "original_final_price": 5.6,
+          "price_tax": 0,
+          "price_incl_tax": 5.6,
+          "final_price_tax": 0,
+          "final_price_incl_tax": 5.6,
+          "special_price_tax": 0,
+          "special_price_incl_tax": 0
         }
-      ]
-    },
-    "publisher": {
-      "id": 746829,
-      "name": "RedDoor Press",
-      "thumbnail_image_url": null,
-      "slug": "reddoor-press"
-    },
-    "price": {
-      "price": 51.01,
-      "discount": 0,
-      "originalPrice": 51.01,
-      "retailUserPrice": 51.01
-    },
-    "stock_count": 2,
-    "slug": "animal-soul",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "A stunning collection of animal portraits from award-winning photographer Robert Bahou",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 782417,
-    "name": "50 CONTEMPORARY PHOTOGRAPHERS YOU SHOULD KNOW",
-    "authors": [
-      {
-        "id": 225726,
-        "name": "Florian Heine",
-        "nav_person_code": null
       },
       {
-        "id": 1479622,
-        "name": "Brad Finger",
-        "nav_person_code": "INI006723"
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9783791382593",
-    "ean": "9783791382593",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
+        "_index": "apollo_magento_catalog_et_1683343801",
+        "_type": "product",
+        "_id": "29010",
+        "_score": 0,
+        "_source": {
+          "entity_type_id": "4",
+          "attribute_set_id": 9,
+          "type_id": "simple",
+          "sku": "0993928",
+          "created_at": "2012-03-02 07:11:37",
+          "updated_at": "2012-03-04 22:39:22",
+          "id": 29010,
+          "options_container": "container2",
+          "url_key": "oraalseksi-kunst",
+          "url_path": "oraalseksi-kunst.html",
+          "image_label": null,
+          "small_image_label": null,
+          "thumbnail_label": null,
+          "small_image": "r23/ed99cab0e5.jpg",
+          "thumbnail": "r23/ed99cab0e5.jpg",
+          "image": "r23/ed99cab0e5.jpg",
+          "treiler_3": "",
+          "treiler_1": "",
+          "treiler_2": "",
+          "zanr": "",
+          "e_format": "",
+          "name": "Oraalseksi kunst",
+          "ts": "2015-06-03T23:29:55",
+          "from": "",
+          "counter_start": "",
+          "counter_end": "",
+          "seotud_toode": "",
+          "studio": "",
+          "lavastaja": "",
+          "actor": "",
+          "audio_text": "",
+          "max_ale": "0.0001",
+          "kujundaja": "",
+          "lk": "160",
+          "tolk": "",
+          "toim": "",
+          "kirjastus": "Digipraktik",
+          "ribakood": "9789985983928",
+          "illustr": "",
+          "autor": "Ian ja Alicia Denchasy",
+          "e_raamatu_hankija_kood": "",
+          "moot": "205x260",
+          "sari": "",
+          "subtiitrid": "",
+          "orgin_title": "",
+          "film_riik": "",
+          "isbn": "",
+          "lisapealkiri": "",
+          "alapk": "",
+          "ilmus": "2008",
+          "film_aeg": "",
+          "audio_formaat": "",
+          "audio_pikkus": "",
+          "audio_tootja": "",
+          "audio_product_code": "",
+          "audio_truncated": "",
+          "prioriteet": "101",
+          "osa": "",
+          "product_links_source_category": "1139",
+          "pl_qty": "0",
+          "plveeb_qty": "0",
+          "special_from_date": null,
+          "aeg": "2008-07-08 00:00:00",
+          "weight": 0,
+          "special_price": 0,
+          "veebi_kampaaniahind": 16.49,
+          "hind_enne": 17.81,
+          "price": 0.49,
+          "app_kampaania_hind": 16.5531,
+          "description": "Kas sa teadsid, et: <br>\r\n• oraalseks on tervisele hea? Seksuaalrefleksoloogia on arvamusel, et iga suguorgani piirkond mõjutab organismi teist organit, näiteks meheuhkuse ehk peenise pea mõjutab kopse ja südant. <br>\r\n• meie poolt tarvitatud toit mõjutab meie armastuse pesa?<br>\r\n• kanna sisepiirkond on otseselt seotud suguorganitega ja selle piirkonna pehme ja kerge näpistamisega masseerimine võib tõsta seksuaalset erutust?<br>\r\n• närvilõpmete tihedus naise kliitoril on suurim teadaolevate elusolendite seas?<br>\r\n• on üks müstiline punkt, mida nimetatakse G-punktiks, mis õige hellituse korral võib viia stratosfääri kõrgusega võrreldava ekstaasini?<br>\r\n2001. aastal lõpetasid abikaasad Ian ja Alicia Denchasy vastavalt oma õpetaja ja juristi karjääri, et põhjalikumalt pühenduda seksiga seonduvatesse teemadesse lähtuvalt nende endi abielust. Tänasel päeval on neil oma interneti kodulehekülg www.freddyandeddy.com, mis on tohutult populaarne paaride seas, kes on huvitatud oma seksielu rikastamisest.",
+          "issuu": "",
+          "audio": [
+            ""
+          ],
+          "keel": [
+            ""
+          ],
+          "regioon": [
+            ""
+          ],
+          "hoiatus_veeb": "",
+          "valiku_abi": [
+            "194"
+          ],
+          "keelsus": 155,
+          "muusika_formaat": 0,
+          "e_raamat": 0,
+          "e_levitaja": 0,
+          "formaat": 26,
+          "mangude_formaat": 0,
+          "filmi_formaat": 0,
+          "filtri_kategooria": 0,
+          "vastavus_margis": 0,
+          "vastavus_margis2": 0,
+          "kampaania_hind_veebis": 0,
+          "parit": 0,
+          "kategooria": 0,
+          "visibility": 4,
+          "tax_class_id": 5,
+          "kampaania_hind_app": 0,
+          "kampaania_hind": 1,
+          "status": 1,
+          "tarnekuva": 0,
+          "saadavus": 144,
+          "tarne24": 0,
+          "slug": "oraalseksi-kunst-29010",
+          "tsk": 1683343801,
+          "stock": {
+            "product_id": 29010,
+            "item_id": 457111592,
+            "stock_id": 1,
+            "qty": 0,
+            "is_in_stock": false,
+            "is_qty_decimal": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": false,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 0,
+            "use_config_backorders": false,
+            "backorders": false,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 0,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": false,
+            "manage_stock": true,
+            "low_stock_date": "2017-10-20 10:45:41",
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": true,
+            "stock_status": 0
+          },
+          "configurable_children": [],
+          "category": [
+            {
+              "category_id": 5,
+              "name": "Eestikeelsed raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 69,
+              "name": "Suhted ja perekond",
+              "position": 9999
+            },
+            {
+              "category_id": 683,
+              "name": "Raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 1139,
+              "name": "Armastus, seks, erootika",
+              "position": 9999
+            }
+          ],
+          "category_ids": [
+            5,
+            69,
+            683,
+            1139
+          ],
+          "final_price": 0.49,
+          "regular_price": 0.49,
+          "on_sale_flag": 0,
+          "reviews": {},
+          "product_links": [
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890353",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "41505437",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66558211",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0723337",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "49542024",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "79300073",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0381545",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "3288256",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23990404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66553482",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "36880657",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559882",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23991808",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30891989",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559493",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "6479404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "59463187",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0722478",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0866419",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0861162",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "0993928"
+            }
+          ],
+          "original_price": 0.49,
+          "original_price_tax": 0,
+          "original_price_incl_tax": 0.49,
+          "original_final_price": 0.49,
+          "price_tax": 0,
+          "price_incl_tax": 0.49,
+          "final_price_tax": 0,
+          "final_price_incl_tax": 0.49,
+          "special_price_tax": 0,
+          "special_price_incl_tax": 0
         }
-      ]
-    },
-    "publisher": {
-      "id": 3442,
-      "name": "PRESTEL",
-      "thumbnail_image_url": null,
-      "slug": "prestel"
-    },
-    "price": {
-      "price": 25.49,
-      "discount": 0,
-      "originalPrice": 25.49,
-      "retailUserPrice": 25.49
-    },
-    "stock_count": 1,
-    "slug": "50-contemporary-photographers-you-should-know",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "The newest addition to Prestel s highly successful 50...You Should Know series offers the perfect introduction to the best contemporary photographers and their most iconic works.\"",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
       },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 787112,
-    "name": "FOLLOW THE SUN",
-    "authors": [
       {
-        "id": 1067634,
-        "name": "James  Ewing (Brooklyn, Usa)",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/31/1c/311cc3d21c42726bb464486236efeed5_main_2.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 54,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 299
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9780415747011",
-    "ean": "9780415747011",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
+        "_index": "apollo_magento_catalog_et_1683343801",
+        "_type": "product",
+        "_id": "297934",
+        "_score": 0,
+        "_source": {
+          "entity_type_id": "4",
+          "attribute_set_id": 9,
+          "type_id": "simple",
+          "sku": "66553482",
+          "created_at": "2021-03-09 02:10:27",
+          "updated_at": "2021-03-13 04:45:33",
+          "id": 297934,
+          "autor": "Emily Nagoski",
+          "counter_end": null,
+          "counter_start": null,
+          "from": null,
+          "illustr": null,
+          "ilmus": "2021",
+          "ribakood": "9789916603482",
+          "kirjastus": "Postimees",
+          "lk": "416",
+          "moot": "228x152",
+          "name": "Leia oma kirg",
+          "orgin_title": null,
+          "osa": null,
+          "sari": null,
+          "toim": "Aet Kuusik",
+          "tolk": "Helen Kalpus",
+          "treiler_1": null,
+          "treiler_2": null,
+          "treiler_3": null,
+          "lisapealkiri": null,
+          "brand": null,
+          "partner": null,
+          "options_container": "container2",
+          "url_key": "leia-oma-kirg",
+          "url_path": "leia-oma-kirg.html",
+          "alapk": "Teaduslik tee parema seksini",
+          "image": "/9/7/9789916603482_2.jpg",
+          "small_image": "/9/7/9789916603482_2.jpg",
+          "thumbnail": "/9/7/9789916603482_2.jpg",
+          "image_label": "Leia oma kirg",
+          "small_image_label": "Leia oma kirg",
+          "thumbnail_label": "Leia oma kirg",
+          "kujundaja": "Liina Valt",
+          "prioriteet": "101",
+          "product_links_source_category": "1139",
+          "pl_qty": "0",
+          "plveeb_qty": "0",
+          "ts": "2023-01-31T11:03:17",
+          "aeg": "2021-03-08 00:00:00",
+          "news_to_date": null,
+          "veebi_kampaaniahind": 0,
+          "weight": 0,
+          "app_kampaania_hind": 0,
+          "price": 26.95,
+          "hind_enne": 0,
+          "hind_kaupluses_kool": 21.8294,
+          "hind_kaupluses_aed": 22.9074,
+          "hind_kaupluses_apollo": 21.2904,
+          "hind_kaupluses_kogud": 17.5517,
+          "hind_kaupluses_klient10": 24.2549,
+          "hind_kaupluses_klient15": 22.9074,
+          "hind_kaupluses_klient5": 25.6025,
+          "description": "Teadlased on üle kümnendi püüdnud töötada välja „roosat tabletti“, mis mõjuks naistele nagu Viagra meestele. Miks pole see õnnestunud? See raamat teeb selgeks, miks säärasest tabletist ei leia kunagi lahendust.\r\n\r\nNew York Timesi bestseller „Leia oma kirg“ on ladusas keeles kirjutatud teaduslik ülevaade naiste seksuaalsuse toimimisest. Teadusuuringud näitavad, et rahuldava seksielu saavutamisel pole tähtsaimaks faktoriks mitte see, mida ja kuidas voodis teed, vaid see, mis tundeid see sinus tekitab. See tähendab, et stress, meeleolu, usaldus ja kehapilt pole naiste seksuaalse heaolu kõrvalised faktorid, vaid asuvad selle keskmes. Kui neid tunned ja mõjutada oskad, saad luua endale parema ja nauditavama seksielu kui võimalikuks pidasid.\r\n\r\n„Raamatu „Leia oma kirg“ lubadus on see: ükskõik kus sa oma seksuaalsel rännakul parajasti oled, kas sul on vapustav seksielu ja tahad selle vapustavust laiendada või oled raskustes ja otsid lahendusi, õpid sa midagi, mis parandab su seksielu ja muudab seda, kuidas mõistad seda, et sa oled seksuaalne olend. Ja avastad, et isegi kui sa end nii ei tunne, oledki juba seksuaalselt terviklik ja terve,“ kirjutab autor Emily Nagoski sissejuhatuses. „Nii ütleb teadus. Võin seda tõestada.“\r\n\r\nSeksuaalhariduse koolitaja Emily Nagoskil on Indiana ülikoolist doktorikraad tervisekäitumises väitekirjaga inimeste seksuaalsuse teemal. Pärast kaheksat aastat lektorina töötamist reisib ta nüüd ringi, koolitades tervishoiutöötajaid, üliõpilasi ja muid huvilisi seksuaalse heaolu teemal üle kogu maailma.\r\n",
+          "hoiatus_veeb": null,
+          "keel": [
+            "107"
+          ],
+          "issuu": "https://issuu.com/apollo_raamatud/docs/leia_oma_kirg_naidis?fr=sMDExMDI5ODg0ODA",
+          "kaupluste_saadavus": [
+            "354"
+          ],
+          "valiku_abi": [
+            "372"
+          ],
+          "formaat": 26,
+          "vastavus_margis": 0,
+          "vastavus_margis2": 0,
+          "kategooria": 181,
+          "kampaania_hind_veebis": 0,
+          "visibility": 4,
+          "tax_class_id": 5,
+          "kampaania_hind_app": 0,
+          "status": 1,
+          "kampaania_hind": 0,
+          "tarnekuva": 0,
+          "saadavus": 144,
+          "tarne24": 0,
+          "slug": "leia-oma-kirg-297934",
+          "tsk": 1683343801,
+          "stock": {
+            "product_id": 297934,
+            "item_id": 597832380,
+            "stock_id": 1,
+            "qty": 0,
+            "is_in_stock": false,
+            "is_qty_decimal": false,
+            "use_config_min_qty": true,
+            "min_qty": 0,
+            "use_config_min_sale_qty": true,
+            "min_sale_qty": 1,
+            "use_config_max_sale_qty": true,
+            "max_sale_qty": 0,
+            "use_config_backorders": false,
+            "backorders": false,
+            "use_config_notify_stock_qty": true,
+            "notify_stock_qty": 0,
+            "use_config_qty_increments": true,
+            "qty_increments": 0,
+            "use_config_enable_qty_inc": true,
+            "enable_qty_increments": false,
+            "use_config_manage_stock": false,
+            "manage_stock": true,
+            "low_stock_date": null,
+            "is_decimal_divided": false,
+            "stock_status_changed_auto": false,
+            "stock_status": 0
+          },
+          "configurable_children": [],
+          "category": [
+            {
+              "category_id": 5,
+              "name": "Eestikeelsed raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 69,
+              "name": "Suhted ja perekond",
+              "position": 9999
+            },
+            {
+              "category_id": 683,
+              "name": "Raamatud",
+              "position": 9999
+            },
+            {
+              "category_id": 1139,
+              "name": "Armastus, seks, erootika",
+              "position": 9999
+            }
+          ],
+          "category_ids": [
+            5,
+            69,
+            683,
+            1139
+          ],
+          "final_price": 26.95,
+          "regular_price": 26.95,
+          "tier_prices": [
+            {
+              "customer_group_id": 18,
+              "value": 21.2904,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 8,
+              "value": 21.8294,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 7,
+              "value": 17.5517,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 6,
+              "value": 22.9074,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 5,
+              "value": 24.2549,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 4,
+              "value": 25.6025,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            },
+            {
+              "customer_group_id": 20,
+              "value": 22.9074,
+              "qty": 1,
+              "extension_attributes": {
+                "website_id": 0
+              }
+            }
+          ],
+          "on_sale_flag": 0,
+          "reviews": {},
+          "product_links": [
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30890353",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "41505437",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66558211",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0723337",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "49542024",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "79300073",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0381545",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "3288256",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23990404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66553482",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "36880657",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559882",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "23991808",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "30891989",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "66559493",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "6479404",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "59463187",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0722478",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0866419",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            },
+            {
+              "link_type": "suggest",
+              "linked_product_sku": "0861162",
+              "linked_product_type": "simple",
+              "position": 0,
+              "sku": "66553482"
+            }
+          ],
+          "original_price": 26.95,
+          "original_price_tax": 0,
+          "original_price_incl_tax": 26.95,
+          "original_final_price": 26.95,
+          "price_tax": 0,
+          "price_incl_tax": 26.95,
+          "final_price_tax": 0,
+          "final_price_incl_tax": 26.95,
+          "special_price": 0,
+          "special_price_tax": 0,
+          "special_price_incl_tax": 0
         }
-      ]
-    },
-    "publisher": {
-      "id": 748464,
-      "name": "Taylor & Francis Ltd",
-      "thumbnail_image_url": null,
-      "slug": "taylor-francis-ltd"
-    },
-    "price": {
-      "price": 68,
-      "discount": 0,
-      "originalPrice": 68,
-      "retailUserPrice": 68
-    },
-    "stock_count": 1,
-    "slug": "follow-the-sun",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": null,
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 789460,
-    "name": "BATTLE FOR BUDAPEST 1944 - 1945",
-    "authors": [
-      {
-        "id": 348423,
-        "name": "Anthony Tucker-Jones",
-        "nav_person_code": null
       }
-    ],
-    "product_badges": [],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2017,
-    "isbn": "9781473877320",
-    "ean": "9781473877320",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 3283,
-      "name": "PEN & SWORD BOOKS LTD.",
-      "thumbnail_image_url": null,
-      "slug": "pen-sword-books-ltd"
-    },
-    "price": {
-      "price": 25.49,
-      "discount": 0,
-      "originalPrice": 25.49,
-      "retailUserPrice": 25.49
-    },
-    "stock_count": 10,
-    "slug": "battle-for-budapest-1944-1945",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "Photographic history of the struggle for Budapest, one of the key battles fought during the closing months of the Second World War",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 789530,
-    "name": "PHOTOGRAPHS FROM THE EDGE",
-    "authors": [
-      {
-        "id": 1649048,
-        "name": "A Wolfe",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/ed/1e/ed1eaf7fb605882080bcf46a4f9e83e7_main_2.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 60,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 268
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9781607747819",
-    "ean": "9781607747819",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 748510,
-      "name": "Random House USA Inc",
-      "thumbnail_image_url": null,
-      "slug": "random-house-usa-inc"
-    },
-    "price": {
-      "price": 47.59,
-      "discount": 0,
-      "originalPrice": 47.59,
-      "retailUserPrice": 47.59
-    },
-    "stock_count": 1,
-    "slug": "photographs-from-the-edge",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": null,
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 790793,
-    "name": "REPARATIVE AESTHETICS",
-    "authors": [
-      {
-        "id": 626336,
-        "name": "Susan  Best (Queensland College Of Art, Griffith University, Australia)",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/11/89/1189c81100f6e1c8443d602835a5e533_main_2.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 53,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 300
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9781472529862",
-    "ean": "9781472529862",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 748745,
-      "name": "Bloomsbury Publishing PLC",
-      "thumbnail_image_url": null,
-      "slug": "bloomsbury-publishing-plc"
-    },
-    "price": {
-      "price": 44.19,
-      "discount": 0,
-      "originalPrice": 44.19,
-      "retailUserPrice": 44.19
-    },
-    "stock_count": 1,
-    "slug": "reparative-aesthetics",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": null,
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 628376,
-    "name": "DANCEHALL DAYS",
-    "authors": [
-      {
-        "id": 218008,
-        "name": "Michael O'reilly",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2014,
-    "isbn": "9780717164608",
-    "ean": "9780717164608",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 747203,
-      "name": "Gill",
-      "thumbnail_image_url": null,
-      "slug": "gill"
-    },
-    "price": {
-      "price": 45.89,
-      "discount": 0,
-      "originalPrice": 45.89,
-      "retailUserPrice": 45.89
-    },
-    "stock_count": 1,
-    "slug": "dancehall-days",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "Blending dynamic live shots with intimate portraits and candids, Dancehall Days is a collection of over 300 stunning black-and-white photographs drawn from Michael O'Reilly's personal archive.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 651665,
-    "name": "ESSENTIAL STUDENT GUIDE TO PROFESSIONAL PHOTOGRAPHY",
-    "authors": [
-      {
-        "id": 1636811,
-        "name": "Grant Scott",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/dc/ba/dcba6c57530e2c77d3b220eafad49bbf_main_2.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 53,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 300
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2015,
-    "isbn": "9781138805323",
-    "ean": "9781138805323",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 748464,
-      "name": "Taylor & Francis Ltd",
-      "thumbnail_image_url": null,
-      "slug": "taylor-francis-ltd"
-    },
-    "price": {
-      "price": 45.89,
-      "discount": 0,
-      "originalPrice": 45.89,
-      "retailUserPrice": 45.89
-    },
-    "stock_count": 1,
-    "slug": "essential-student-guide-to-professional-photography",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "This easily accessible, essential reference for photography students embarking on their education explains how to become part of the professional community.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 633311,
-    "name": "CLASSIC TRACTION ENGINES",
-    "authors": [
-      {
-        "id": 179811,
-        "name": "Paul Stratford",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2010,
-    "isbn": "9780857040541",
-    "ean": "9780857040541",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 733135,
-      "name": "Halsgrove",
-      "thumbnail_image_url": null,
-      "slug": "halsgrove"
-    },
-    "price": {
-      "price": 28.89,
-      "discount": 0,
-      "originalPrice": 28.89,
-      "retailUserPrice": 28.89
-    },
-    "stock_count": 1,
-    "slug": "classic-traction-engines",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": null,
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 645407,
-    "name": "RAYMOND CAUCHETIER'S NEW WAVE",
-    "authors": [
-      {
-        "id": 378578,
-        "name": "Raymond Cauchetier",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/d2/3c/d23c193f1540f0051892e9149bd9bbca_main_2.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 64,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 250
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2015,
-    "isbn": "9781851497911",
-    "ean": "9781851497911",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 32772,
-      "name": "ACC ART BOOKS",
-      "thumbnail_image_url": null,
-      "slug": "acc-art-books"
-    },
-    "price": {
-      "price": 68.02,
-      "discount": 0,
-      "originalPrice": 68.02,
-      "retailUserPrice": 68.02
-    },
-    "stock_count": 1,
-    "slug": "raymond-cauchetier-s-new-wave",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "First ever monograph in English devoted to the film photography of Raymond Cauchetier featuring previously unseen images of the French New Wave cinema. Foreword by Philippe Garner.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 672396,
-    "name": "IRELAND - ENGLISH",
-    "authors": [
-      {
-        "id": 383913,
-        "name": "Michael Diggin",
-        "nav_person_code": null
-      },
-      {
-        "id": 524462,
-        "name": "Peter Zoeller",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": null,
-    "thumb_file_resolution": null,
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2014,
-    "isbn": "9780717157433",
-    "ean": "9780717157433",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 747203,
-      "name": "Gill",
-      "thumbnail_image_url": null,
-      "slug": "gill"
-    },
-    "price": {
-      "price": 13.59,
-      "discount": 0,
-      "originalPrice": 13.59,
-      "retailUserPrice": 13.59
-    },
-    "stock_count": 6,
-    "slug": "ireland-english",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "Ireland is a collection of 300 contemporary images of the beauties of Ireland, covering every one of the 32 counties.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
-  },
-  {
-    "id": 795631,
-    "name": "BLACK PANTHERS",
-    "authors": [
-      {
-        "id": 440442,
-        "name": "Bryan Shih",
-        "nav_person_code": null
-      },
-      {
-        "id": 485990,
-        "name": "Yohuru Williams",
-        "nav_person_code": null
-      },
-      {
-        "id": 1091167,
-        "name": "Peniel Joseph",
-        "nav_person_code": null
-      }
-    ],
-    "product_badges": [],
-    "thumb_file_url": "https://ra-product.s3.eu-north-1.amazonaws.com/b8/1c/b81ceec1357f75a7e86cf1baf9a1c59a_main_2.jpg",
-    "thumb_file_resolution": {
-      "thumbnail": {
-        "width": 54,
-        "height": 80
-      },
-      "main": {
-        "width": 200,
-        "height": 296
-      }
-    },
-    "availabilityType": {
-      "id": 103,
-      "code": "AVAILABLE",
-      "name": "Product is available"
-    },
-    "deliveryTimeType": {
-      "id": 109,
-      "code": "WEEKS_2_4",
-      "name": "2-4 nädalat"
-    },
-    "languageType": {
-      "id": 112,
-      "code": "EN",
-      "name": "ingliskeelne"
-    },
-    "type": {
-      "id": 148,
-      "code": "BOOK",
-      "name": "Raamat"
-    },
-    "year": 2016,
-    "isbn": "9781568585550",
-    "ean": "9781568585550",
-    "tags": [],
-    "category": {
-      "id": 114,
-      "parent_id": 27,
-      "root_id": 11,
-      "level": 2,
-      "nav_code": "FOTOGRAAFI",
-      "translations": [
-        {
-          "id": 340,
-          "language": "et",
-          "name": "Fotograafia ja fotograafid",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 341,
-          "language": "en",
-          "name": "Photographers, Essays & Portraits",
-          "product_count": null,
-          "sequence": null
-        },
-        {
-          "id": 342,
-          "language": "ru",
-          "name": "Фотография и фотографы",
-          "product_count": null,
-          "sequence": null
-        }
-      ]
-    },
-    "publisher": {
-      "id": 576965,
-      "name": "Avalon Publishing Group",
-      "thumbnail_image_url": null,
-      "slug": "avalon-publishing-group"
-    },
-    "price": {
-      "price": 32.29,
-      "discount": 0,
-      "originalPrice": 32.29,
-      "retailUserPrice": 32.29
-    },
-    "stock_count": 1,
-    "slug": "black-panthers",
-    "_highlight": null,
-    "categoryPath": "Raamatud/Fotograafia/Fotograafia ja fotograafid",
-    "description": "An appraisal of the Black Panther Party on the fiftieth anniversary of its founding, bringing together oral history interviews with original members, portraits, archival images, and essays by leading experts.",
-    "description_special": null,
-    "delivery": {
-      "meta": {
-        "name": "Rahva Raamatu kauplus",
-        "code": "RR_SHOP",
-        "type": "DEFAULT"
-      },
-      "message": "Tarne 2-4 nädalat, hiljemalt 06.06",
-      "date": "2023-06-06"
-    }
+    ]
   }
-]
+}

@@ -1,4 +1,4 @@
-package com.example.books.rahvaraamat.store;
+package com.example.books.rahvaraamat;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.io.IOException;
@@ -9,13 +9,13 @@ import org.springframework.core.io.Resource;
 
 public class Categories {
 
-    public static HashMap<String, String> categories;
+    protected static HashMap<String, String> categoriesMap;
 
     static {
         Resource resource = new ClassPathResource("static/rahvaraamat-categories.json");
         try {
             String content = resource.getContentAsString(Charset.defaultCharset());
-            categories = new ObjectMapper().readValue(content, HashMap.class);
+            categoriesMap = new ObjectMapper().readValue(content, HashMap.class);
         } catch (IOException e) {
             e.printStackTrace();
         }
